@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hello/","tags":"gardenEntry"}
+{"dg-publish":true,"dg-home":true,"permalink":"/hello/","tags":"gardenEntry","dgPassFrontmatter":true}
 ---
 
 ### Hello everyone
