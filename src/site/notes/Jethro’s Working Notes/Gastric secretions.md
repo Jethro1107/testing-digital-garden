@@ -15,7 +15,7 @@ Anatomically, the stomach is classified into 4 regions: The cardia, fundus, body
 
 - Oxyntic glands (found in the fundus and the body)
 - Pyloric glands (found in the pylorus)
-- [[Oxyntic glands and pyloric glands differ in cell types and secretions produced\|Oxyntic glands and pyloric glands differ in cell types and secretions produced]].
+- [[Jethro’s Working Notes/Oxyntic glands and pyloric glands differ in cell types and secretions produced\|Oxyntic glands and pyloric glands differ in cell types and secretions produced]].
 
 [[Surface mucous cells and neck mucous cells are involved in the maintenance of a two-layered mucous gel layer\|Surface mucous cells and neck mucous cells are involved in the maintenance of a two-layered mucous gel layer]].
 
