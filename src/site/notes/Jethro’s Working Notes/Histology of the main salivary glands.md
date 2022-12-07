@@ -27,54 +27,15 @@ There are essentially three paired main salivary glands: 1) Parotid glands, 2) S
         
         The secretory acini first empty into the intercalated ducts, that are lined by a simple columnar epithelium.
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Several intercalated ducts empty into the striated ducts, that are lined by a simple columnar epithelium. They are said to be ‘striated’ as they consist of numerous basal infoldings associated with mitochondria ([[IAS27  Epithelial and Glandular Tissues \|IAS27  Epithelial and Glandular Tissues ]]) that results in faint basal striations projecting towards the nucleus.
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Eventually, secretions empty from the intralobular ductal system into the interobular ducts and into the interobar ducts. There is a transition of epithelium from a simple columnar, to stratified cuboidal, to stratified columnar epithelium.
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
 
 Myoepithelial cells are located at the basement membrane of the glandular epithelium of the three main salivary glands. The prefix, ‘myo-’ indicates that it is contractile, which facilitates secretion into the ductal system.
@@ -89,54 +50,16 @@ The three main salivary glands varies histologically and functionally, mainly in
     
     They mainly consist of serous acini.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Submandibular glands**
     
     The submandibular glands mainly consist of mucous acini, but also consist of serous demilunes.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Sublingual glands**
     
     All three types of secretory acini, but predominantly consist of serous demilunes
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
