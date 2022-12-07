@@ -16,20 +16,7 @@ Updated: June 22, 2022 10:36 AM
 
 Percussion should involve both lung apices (in the supraclavicular fossa), both clavicles, and intercostal spaces both anteriorly and posteriorly. When percussing anteriorly, one should also percuss the axillary region (lateral side).
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 - 3 sounds of lung percussion and associated conditions
     
