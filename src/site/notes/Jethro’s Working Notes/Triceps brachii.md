@@ -19,20 +19,7 @@ The triceps brachii has 3 heads:
 
 The 3 heads all insert at the olecranon of the [[Jethro’s Working Notes/Ulna\|Ulna]].
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 - **********************************************Movement of the triceps brachii**********************************************
     
