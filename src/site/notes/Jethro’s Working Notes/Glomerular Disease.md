@@ -57,20 +57,7 @@ links:
     
     C3 glomerulonephritis
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     - **How does immune mechanisms cause glomerular injury?**
         1. Epithelial cell/ podocyte injury
@@ -79,20 +66,7 @@ Updated: August 28, 2022 9:50 PM
             
             Podocyte injury is characterised by effacement of pedicles, vacuolization, retraction and detatchment of podocyte from glomerular basement membrane
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
             This results in the loss of filtration slits, and often results in the development of proteinuria
             
