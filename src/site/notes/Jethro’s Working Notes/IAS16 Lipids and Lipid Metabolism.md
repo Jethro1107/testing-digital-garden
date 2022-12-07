@@ -63,37 +63,11 @@ Updated: June 18, 2022 11:20 AM
     
     Micelles - hydropholbic lipid droplets is enclosed in a shell of bile salt, where hydophilic part of bile salt points outwards
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Chylomicrons - lipoproteins that play a role as lipid carrier vehicles
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Steps of Digestion and Transport of dietary lipids**
     - **Hydrolysis**
@@ -159,20 +133,7 @@ Updated: August 28, 2022 9:50 PM
         
         Hence, Glycerol formed travels to liver for synthesis of TAG there
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         ![[/Screenshot 2021-09-18 at 5.05.40 PM.png\|/Screenshot 2021-09-18 at 5.05.40 PM.png]]
         
