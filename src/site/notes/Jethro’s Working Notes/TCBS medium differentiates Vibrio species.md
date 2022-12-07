@@ -17,31 +17,6 @@ Vibrio cholerae is a sucrose fermenter, resulting in the formation of yellow col
 
 Vibrio parahaemolyticus is not a sucrose fermenter, resulting in the formation of green colonies.
 
+![[Untitled\|Untitled]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
