@@ -28,35 +28,9 @@ Updated: September 20, 2022 9:19 PM
         
         Nephrin interacts with intracellular partners (probably contractile proteins), to change size of spacer domains, thus regulating filtration
         
+        ![[Untitled\|Untitled]]
         
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-        
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
 
 ### Glomerular basement membrane
@@ -73,20 +47,7 @@ Updated: August 28, 2022 9:50 PM
             
             Association of C-terminal propeptide, stabilized with disulphide pridges to form a procollagen triple helix
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Assembly of type IV collagen in ECM**
             
@@ -96,35 +57,9 @@ Updated: August 28, 2022 9:50 PM
             
             Lateral association of triple helical domain to form a collagenous suprastructure
             
+            ![[Untitled\|Untitled]]
             
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-            
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
     - Laminin
         - **Structure of laminin molecule**
@@ -133,74 +68,22 @@ Updated: August 28, 2022 9:50 PM
             
             Nidogen - associates laminin with other partners
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Assembly of laminin into ultrastructure**
             
             A, B1 and B2 chains associate with each other, leaving the free end to associate with respective partners
             
+            ![[Untitled\|Untitled]]
             
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-            
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
     - Proteoglycans
         - **Core proteins of glomerular basement membrane proteoglycans**
             
             Agrin and perlecan
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Glycosaminoglycan of proteoglycans in glomerular basement membrane**
             
@@ -214,20 +97,7 @@ Updated: August 28, 2022 9:50 PM
     
     HSPG associates with laminin and collagen networks via heperan sulphate chains
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 ### Endothelial glycocalyx
@@ -240,20 +110,7 @@ Updated: August 28, 2022 9:50 PM
     
     Hyaluronan, attached to hyaluronan, and can associate with core proteins of proteoglycans to give a higher degree of binding
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 ### Permselectivity of glomerular filtration barrier
