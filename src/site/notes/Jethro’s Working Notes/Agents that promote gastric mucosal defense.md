@@ -69,20 +69,7 @@ Updated: September 29, 2022 12:31 PM
     2. It stimulates mucus and bicarbonate secretion by surface and neck mucous cells.
     3. It serves as a vasodilator and increases blood flow, facilitating healing.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Adverse effects of misoprostol**
     
