@@ -21,20 +21,7 @@ Updated: November 29, 2022 4:46 PM
     - [[There are different methods of appraising post-test probability after the application of diagnostic tests\|There are different methods of appraising post-test probability after the application of diagnostic tests]]
     - Diagnosis requires multiple tests due to intermediate likelihood ratios and predictive values
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
 - [[Jethro’s Working Notes/Prognosis\|Prognosis]]
     - [[Jethro’s Working Notes/Biases in prognosis studies\|Biases in prognosis studies]]
