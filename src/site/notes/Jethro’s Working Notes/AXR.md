@@ -37,20 +37,7 @@ Plain abdominal X Ray may reveals the anatomy of the GI tract, and is useful for
     
     On supine view, there is no fluid levels.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **************************************Signs of small bowel obstruction**************************************
     
@@ -60,54 +47,15 @@ Updated: August 28, 2022 9:50 PM
     - Multiple fluid levels on erect view of plain AXR
     - Paucity (lack) of colon gas due to the obstruction
     
+    ![[Untitled\|Untitled]]
     
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-    
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **************************************************Signs of sigmoid volvolus**************************************************
     1. Dilated sigmoid colon
     2. Faeces in dilated bowel arising from pelvis
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ************************************************Limitations of plain AXR************************************************
     
@@ -130,20 +78,7 @@ There are 5 types of barium studies:
     
     The patient is then asked to first swallow baking soda crystals, providing a gas contrast that dilates the esophagus, followed by drinking a barium swallow. Plain AXR is then produced in erect view.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **********Barium meal**********
     
@@ -153,35 +88,9 @@ Updated: August 28, 2022 9:50 PM
     
     Patient is asked to take a baking sodal crystal to dilate the stomach, followed by drinking barium contrast. Plain AXR is taken in supine view.
     
+    ![[Untitled\|Untitled]]
     
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-    
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ****************Barium follow through****************
     
@@ -191,20 +100,7 @@ Updated: August 28, 2022 9:50 PM
     
     Patient drinks barium continuously until it reaches the colon.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **********************************Small bowel enema**********************************
     
@@ -218,51 +114,12 @@ Updated: August 28, 2022 9:50 PM
     
     A single contrast (barium contrast) or double contrast (barium contrast followed by air contrast) is used.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
+![[Untitled\|Untitled]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 - CT
     - Clinical significance of anatomical position of pancreas
