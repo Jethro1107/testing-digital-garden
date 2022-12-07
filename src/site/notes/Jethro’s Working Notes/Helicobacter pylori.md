@@ -85,20 +85,7 @@ Updated: November 27, 2022 9:00 PM
     
     Immunochromatographic assays (Lateral flow assays) is a point of care tool used, but is less sensitive.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Enzyme immuunoassays (ELISA) is laboratory-based test, and is more sensitive.
     
@@ -108,20 +95,7 @@ Updated: August 28, 2022 9:50 PM
     
     Urea breath test - It involves drinking a urea broth where the C atom is labelled (C-13 is not radioactive and more commonly used, while C-14 is radioactive and is phased out). If Helicobacter pylori is present, CO2 exhaled will consist of the labelled C atom and can be detected by mass spectrometry.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Serology of antibodies against H. pylori is not diagnostic, but more commonly used for prevalence studies.
     
@@ -133,37 +107,11 @@ Updated: August 28, 2022 9:50 PM
     
     *Bismuth-based triple therapy* - Consist of Bismuth and 2 antibiotics.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     *PPI-based triple therapy* - Consist of PPI and 2 antibiotics.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     *Quadruple therapy* - Consist of Bismuth, a PPI and 2 antibiotics. It is a second-line rescue therapy for patients who failed other regimens, and first-line therapy when there is high level of antibiotic restistance.
     
