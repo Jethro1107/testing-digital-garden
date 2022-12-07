@@ -36,20 +36,7 @@ Updated: November 3, 2022 8:08 PM
     - Widal’s test - A serological test for antibody against certain antigens, a 4-fold increase in titre is required to confirm active infection (not routinely used as it is not sensitive nor specific)
     - Other serological tests are used
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Treatment of typhoid fever**
     
