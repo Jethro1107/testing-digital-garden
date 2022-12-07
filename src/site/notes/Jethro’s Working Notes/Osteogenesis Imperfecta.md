@@ -19,20 +19,7 @@ Updated: November 27, 2022 9:59 AM
     
 - ****************************************************************************************************************************************************************************************************Sillence classification of Osteogenesis Imperfecta classifies by mutation types, clinical features****************************************************************************************************************************************************************************************************
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Type I Osteogenesis Imperfecta (Mild form):
     
