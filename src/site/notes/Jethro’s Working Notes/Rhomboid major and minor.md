@@ -13,20 +13,7 @@ Updated: October 15, 2022 4:02 PM
 
 Rhomboid major and minor are rhomboid-shaped muscles deep to the [[Jethro’s Working Notes/Trapezius\|Trapezius]] that both originate from the vertebral column and inserts at the medial border of the [[Jethro’s Working Notes/Scapulae\|Scapulae]] .
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 - ****************************Rhomboid minor****************************
     
@@ -40,16 +27,4 @@ Updated: August 28, 2022 9:50 PM
     
     The Rhomboid muscles both retract the scapulae.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
