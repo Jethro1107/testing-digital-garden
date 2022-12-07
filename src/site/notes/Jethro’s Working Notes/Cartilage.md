@@ -20,20 +20,7 @@ Cartilage is a specialised connective tissue consisting of [[Jethro’s Working 
     4. Zone of calcified cartilage - Consisting of death of loss of chondrocytes and calcified cartilage (purple)
     5. Subchondral bone
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 Cartilage is avascular, but chondrocytes require nutrients to maintain [[Jethro’s Working Notes/ECM homeostasis\|ECM homeostasis]]. [[Nutrient cycle of the articular cartilage requires mechanical loading at the joint\|Nutrient cycle of the articular cartilage requires mechanical loading at the joint]].
