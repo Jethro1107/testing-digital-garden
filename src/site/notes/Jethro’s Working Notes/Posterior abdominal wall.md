@@ -18,35 +18,9 @@ The posterior abdominal wall consist of 4 main paired muscles:
     
     It is lateral to the superior part of the psoas major.
     
+    ![[Untitled\|Untitled]]
     
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-    
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 3. Psoas major - The psoas major lies lateral to the lumbar vertebrae, medial and anterior to the quadratus lumborum.
     
@@ -57,20 +31,7 @@ Updated: August 28, 2022 9:50 PM
     It lies anterior to the lumbar plexus and the anterior ramus of lumbar spinal nerves.
     
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 1. Iliacus  - a large triangular muscle lateral to the psoas major and fills the iliac fossa.
     
