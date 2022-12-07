@@ -21,35 +21,10 @@ Osteoclasts are bone macrophages, large, multinuclear cells derived from the fus
     
     At the subcellular pocket, the osteoclast secret acid that enables degradation of calcium hydroapatite crystals, collagenase and other proteolytic enzymes for the breakdown of type 1 collagen.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ********************************************Location of osteoclast********************************************
     
     Osteoclasts sit in bony depressions that is created by its osteoclastic activity, which is known as Howship’s Lacunae.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
