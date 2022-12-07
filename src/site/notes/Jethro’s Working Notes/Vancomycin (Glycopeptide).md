@@ -19,20 +19,7 @@ Vancomycin is a Glycopeptide (non-beta-lactam) antibiotic. It is bactericidal. T
     
     This inhibits peptidoglycan synthesis, causing it to be susceptible to osmotic pressure, resulting in cell lysis.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-%200ca134380d27450fa8863f479315e755/Untitled.png)
+    ![[Untitled\|Untitled]]%200ca134380d27450fa8863f479315e755/Untitled.png)
     
 - **Usage of Vancomycin**
     
