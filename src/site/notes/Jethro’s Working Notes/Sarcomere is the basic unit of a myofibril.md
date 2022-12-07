@@ -34,20 +34,7 @@ The sarcomere is the basic unit of a myofibril, defined by the 2 Z discs, and an
         1. It provides elasticity, which enables recoil of the sarcomere back to its resting length during relaxation.
         2. It stabilizes myosin.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ************************************************************************************************************Due to the arrangement of thick and thin filaments, there are different bands in a sarcomere************************************************************************************************************
     
@@ -61,20 +48,7 @@ Updated: August 28, 2022 9:50 PM
     
     The zone of overlap increases in length and the H band decreases in length.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 The sarcomere is the smallest unit of a muscle fibre, as [[Sliding filament theory describes how muscle tension is produced at a Sarcomere level\|Sliding filament theory describes how muscle tension is produced at a Sarcomere level]].
