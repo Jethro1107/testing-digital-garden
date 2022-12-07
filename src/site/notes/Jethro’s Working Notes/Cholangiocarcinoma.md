@@ -38,39 +38,13 @@ Updated: October 25, 2022 4:49 PM
     
     It is whitish colour and firm (due to the fibrous stroma within the tumour). This is in contrast to [[Jethro’s Working Notes/Hepatocellular carcinoma\|Hepatocellular carcinoma]], which is often soft, haemorrhagic with frequent necrosis.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Histopathology of cholangiocarcinoma**
     
     Cholangiocarcinoma consist of irregular glandular formations with copious fibrous stroma.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Routes of metastasis of cholangiocarcinoma**
     
