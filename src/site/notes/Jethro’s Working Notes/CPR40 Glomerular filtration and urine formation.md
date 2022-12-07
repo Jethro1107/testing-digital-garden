@@ -27,20 +27,7 @@ Updated: September 20, 2022 9:19 PM
         
         Juxtamedullary nephron (15-20%) - renal corpuscle close to the medulla, but remains in cortex, with a long loop of Henle
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Basic function of nephrons**
         
@@ -89,20 +76,7 @@ Updated: August 28, 2022 9:50 PM
                         
                         At the tubular pole of the renal corpuscle, the epithelium changes to the simple cuboidal epithelium characteristic of the proximal convoluted tubule
                         
-                        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                        ![[Untitled\|Untitled]]
                         
                 - Visceral layer - inner layer lining glomerulus
                     - **Specialization of visceral epithelium of bowman’s capsule**
@@ -117,20 +91,7 @@ Updated: August 28, 2022 9:50 PM
                         
                         Space between pedicles are filtration slit, where the glomerular filtrate pass through
                         
-                        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                        ![[Untitled\|Untitled]]
                         
 - Filtration barrier
     - **Components of the glomerular filtration barrier**
@@ -174,20 +135,7 @@ Updated: August 28, 2022 9:50 PM
         
         Net filtration rate (NFR) = Pc - Pbc - glomerular capillary colloid osmotic pressure
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Factors affecting net filtration pressure**
         
@@ -223,40 +171,14 @@ Updated: August 28, 2022 9:50 PM
         
         Stage 5 renal failure: <15 ml/min (complete failure, transplant and dialysis required)
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - Relations between renal clearance and glomerular filtration rate
         - **What is renal clearance?**
             
             Renal clearance of a substance refers to the volume of blood cleared of a substance in a given amount of time
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Assumption for renal clearance to be used as GFR**
             
@@ -309,20 +231,7 @@ Updated: August 28, 2022 9:50 PM
         
         **Overall effect - NaCl is pumped from luminal side into medullary interstitium, diluting urine and forming a hyperosmotic medullary interstitum**
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Mechanism of countercurrent multiplier system in creating the hyperosmotic renal medulla**
         
@@ -334,20 +243,7 @@ Updated: August 28, 2022 9:50 PM
         
         In the ascending limb, salt is pumped out of of the ascending limb to further raise the interstitial osmoality, creating an osmotic gradient between tubular fluid in ascending limb and medullary interstitium
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Ref: [[Guyton and Hall  Countercurrent multiplier system in producing hyperosmotic renal medullary interstitium\|Guyton and Hall  Countercurrent multiplier system in producing hyperosmotic renal medullary interstitium]] 
         
@@ -390,20 +286,7 @@ Updated: August 28, 2022 9:50 PM
         
         Net effect - Insertion of aquaporin-2 onto the apical membrane increases the permeability of water, allowing for water reabsorption, producing an anti-diuretic effect
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Chronic increases in Vp levels also stimulate transcription of AQP2 gene, increasing AQP2 production
         
@@ -433,20 +316,7 @@ Updated: August 28, 2022 9:50 PM
             
             Vasopressin is synthesised in magnocellular neurons of the paraventricular nucleus and supraoptic nucleus, which is transported via the long axons to the axonal terminal at the posterior pituitary gland
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **How is vasopressin secreted into the circulation by pituitary gland?**
             
@@ -454,20 +324,7 @@ Updated: August 28, 2022 9:50 PM
             
             Arrival of action potential at axonal terminal results in influx of Ca2+, leading to exocytosis of vasopressin-containing vesicles into circulation
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         
         - **Factors affecting vasopressin release by pituitary gland**
@@ -494,20 +351,7 @@ Updated: August 28, 2022 9:50 PM
                     
                     1% deviation of osmolality can result in signifcant changes in plasma vasopressin levels
                     
-                    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                    ![[Untitled\|Untitled]]
                     
                 - **Location of osmoreceptor in the brain**
                     
@@ -544,35 +388,9 @@ Updated: August 28, 2022 9:50 PM
                     
                     RVLM has excitatory neurons that project to the hypothalamic paraventricular nucleus (PVN) and supraoptic nucleus (SON)
                     
+                    ![[Untitled\|Untitled]]
                     
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-                    
-                    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                    ![[Untitled\|Untitled]]
                     
                 - **Sensitivity of Vp release to changes in volume and pressure**
                     
@@ -580,39 +398,13 @@ Updated: August 28, 2022 9:50 PM
                     
                     The change in plasma level is observed when pressure or volume drop by more than 8 percent
                     
-                    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                    ![[Untitled\|Untitled]]
                     
                 - **Response of baroreceptor reflex controlling vasopressin release in normal conditions/hypertension**
                     
                     Tonic activity of baroreceptors at normal blood pressure and increased baroreceptor signals in hypertension inhibits the exitatory pathway from RVLM to hypothalamic PVN and SON, such that no vasopressin is released from the posterior pituitary
                     
-                    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                    ![[Untitled\|Untitled]]
                     
                 - **Response of baroreceptor reflex controlling vasopressin release in hypotension**
                     
@@ -620,20 +412,7 @@ Updated: August 28, 2022 9:50 PM
                     
                     This removes inhibitory effect of CVLM on RVLM, thus causing a tonic excitatory imput into PVN and SON, resulting in VP secretion
                     
-                    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                    ![[Untitled\|Untitled]]
                     
             - ANP concentration
             - Ang II concentration
@@ -664,16 +443,4 @@ Updated: August 28, 2022 9:50 PM
                 
                 Hyponatremia - muscle weakness
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+                ![[Untitled\|Untitled]]
