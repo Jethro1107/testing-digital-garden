@@ -25,20 +25,7 @@ Updated: September 17, 2022 9:28 PM
     
     On endoscopy, Barett esophagus is recognised as *salmon patches* (reddish patches) that extends upward from the gastroesophageal junction (OGJ), replacing the normal shiny, whitish esophageal mucosa. *Biopsy and histological confirmation is required for diagnosis of Barrett oesophagus.*
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Histopathology of Barrett Esophagus**
     
@@ -46,20 +33,7 @@ Updated: August 28, 2022 9:50 PM
     
     There is intestinal glandular formations with large numbers of goblet cells.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Complication of Barrett esophagus**
     
