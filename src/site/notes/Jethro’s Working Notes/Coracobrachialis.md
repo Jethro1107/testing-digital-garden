@@ -13,35 +13,10 @@ Updated: October 21, 2022 7:53 PM
 
 The corocobrachialis originates from the corocoid process of the [[Jethro’s Working Notes/Scapulae\|Scapulae]] and inserts at the medial side of the midshaft of the [[Jethro’s Working Notes/Humerus\|Humerus]].
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 - ********************************************************************Movements of the corocobrachialis********************************************************************
     
     It enables flexion of the shoulder joint.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
