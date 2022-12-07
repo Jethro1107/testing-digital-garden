@@ -19,20 +19,7 @@ The posterior tibial artery is a branch of the [[Jethro’s Working Notes/Poplit
     
     It gives off a branch, the peroneal artery, that descends within the posterior compartment of the leg, deep to the flexor haullicus longus.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ******************************************In the ankle and foot******************************************
     
@@ -40,16 +27,4 @@ Updated: August 28, 2022 9:50 PM
     
     The lateral plantar artery gives rise to the plantar arch.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
