@@ -13,16 +13,4 @@ Updated: September 10, 2022 4:41 PM
 
 There is a complex oesophageal plexus on the surface of the oesophagus, which drains into the accessory hemiazygos veins, the azygos veins, and the oesophageal branch of the left gastric vein.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
