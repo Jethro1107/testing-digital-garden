@@ -24,20 +24,7 @@ Updated: November 30, 2022 11:06 AM
     - The carpomatecarpal joints (CMC joints), proximal interphalangeal joints (PIP joints) of the fingers
     - Wrist joint, elbow joint and Knee joint are also commonly involved.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     - Joints involvement is chronic, symmetrical and polyarticular.
     - There is often morning stiffness of the joints.
@@ -47,20 +34,7 @@ Updated: August 28, 2022 9:50 PM
     
     In severe RA, there may be adjacent soft tissue involvement (ligaments and tendons), which result in radial deviation of the wrist, ulnar deviation of the digits, and swan-neck and boutonniere deformities of the digits.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     ![[/4A9C4A72-8014-4C5E-9A0E-34E831D8FAED.png\|/4A9C4A72-8014-4C5E-9A0E-34E831D8FAED.png]]
     
@@ -77,94 +51,29 @@ Updated: August 28, 2022 9:50 PM
         
         This is due to synovial inflammation and joint effusion.
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - Juxta-articular osteoporosis
         
         This is due to hyperaemia from synovial inflammation, and disuse of the joint.
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - Severe RA shows joint space narrowing
         
         As pannus erodes through the articular cartilage.
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - Periarticular erosions
         
         Osteoclastic activity in pannus erodes through bone within the joint capsule.
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
 - **************************************************************************************Diagnostic criteria of rheumatoid arthritis**************************************************************************************
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     A score of more than 6 in the ACR-EULAR criteria is sufficient for diagnosis of RA. Scores are given in 4 domains: number and types of joints inolved (max:5), serological abnormalities (max:3), presence of acute phase reactants (max:1), and duration (max:1).
     
