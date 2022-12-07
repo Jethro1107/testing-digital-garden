@@ -31,20 +31,7 @@ Updated: September 29, 2022 12:57 PM
     
     There is invasion beyond the muscularis mucosae. This defines a malignant colorectal neoplasm.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Pathogenesis of colorectal carcinoma**
 - **Tumour grading of colorectal carcinoma**
