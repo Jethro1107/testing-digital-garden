@@ -28,39 +28,13 @@ Updated: October 3, 2022 9:38 PM
     
     Pancreatic adenocarcinoma usually appears as irregular distorted glandular formations with mucin formations, in a wildly infiltrative stroma.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Tumour cells shows marked malignant cytological changes, there is marked anaplasia (poor differentiation) and frequent mitosis.
     
     It is prone to perineural invasion.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Clinical features of pancreatic adenocarcinoma**
     
