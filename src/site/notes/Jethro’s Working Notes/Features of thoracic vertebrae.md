@@ -29,36 +29,11 @@ There are 12 thoracic vertebrae (T1-T12).
     
     The articular facets of the superior and inferior articular process face posteriorly and anteriorly respectively, i.e. *The facets are coronally oriented.*
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     This limits the range of movement:
     
     - It enables lateral rotation.
     - The coronally oriented facets and articulation with ribs limit flexion, extension and lateral flexion.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
