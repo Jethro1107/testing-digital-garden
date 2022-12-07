@@ -15,16 +15,4 @@ The portal lobule is a triangular structure of with 3 central veins at the verti
 
 The concept of a portal lobule focuses on the hepatic exocrine functions (bile drains towards the centre).
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
