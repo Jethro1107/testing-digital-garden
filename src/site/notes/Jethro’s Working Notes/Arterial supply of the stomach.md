@@ -23,16 +23,4 @@ The common hepatic artery, which gives rise to the right gastric artery, which f
 
 The common hepatic artery branches to give the hepatic artery proper, which branches to give the gastroduodenal artery. The gastroduodenal artery gives rise to the right gastro-omental artery.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
