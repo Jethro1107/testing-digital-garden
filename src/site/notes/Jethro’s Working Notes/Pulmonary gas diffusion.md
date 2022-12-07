@@ -15,20 +15,7 @@ Updated: September 27, 2022 6:48 PM
 - **Law governing pulmonary gas diffusion**
     - Pulmonary gas diffusion is governed by Fick's Law, which states that the rate of gas transfer across a sheet varies directly with diffusion constant, surface area and transmembrane pressure gradient, and inversely with distance
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Factors affecting pulmonary gas diffusion**
     - Diffusion constant
