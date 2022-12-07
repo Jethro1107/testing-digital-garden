@@ -31,20 +31,7 @@ Light microscopy - Focal and segmental hyalinosis and sclerosis:
 
 Replacement of capillary loops with accelular amorphous material derived from plasma protein, collagen or basement membrane material
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 Immunofluorescence microscopy - negative
 
