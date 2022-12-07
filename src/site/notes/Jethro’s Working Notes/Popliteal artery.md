@@ -17,20 +17,7 @@ The popliteal artery is the continuation of the [[Jethro’s Working Notes/Femor
     
     It is the deepest structure of the popliteal fossa, deep to the [[Jethro’s Working Notes/Tibial nerve\|Tibial nerve]] and the popliteal vein.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     It contributes to the [[Jethro’s Working Notes/Genicular anastamosis\|Genicular anastamosis]].
     
@@ -38,16 +25,4 @@ Updated: August 28, 2022 9:50 PM
     
     The popliteal artery crosses the lower border of the popliteus, through the tendinous arch of the soleus it divides into the [[Jethro’s Working Notes/Anterior tibial artery\|Anterior tibial artery]], and [[Jethro’s Working Notes/Posterior tibial artery\|Posterior tibial artery]].
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
