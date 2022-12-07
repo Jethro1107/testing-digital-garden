@@ -244,20 +244,7 @@ Updated: September 20, 2022 9:19 PM
     
     The last part of the pharynx is the laryngopharynx, which is posterior to the larynx
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - What is the larynx?
     
