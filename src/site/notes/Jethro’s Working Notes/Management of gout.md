@@ -36,20 +36,7 @@ In different phases of [[Jethro’s Working Notes/Gout\|Gout]], there are differ
             Anakinra, canakinumab, rilonacept
             
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ******************************************************************************************************************In between gouty attacks (i.e. intercritical gout and chronic tophaceous gout)******************************************************************************************************************
     
