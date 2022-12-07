@@ -50,69 +50,17 @@ Benign neoplasia of the oesophagus - Esophageal papilloma, esopageal lipoma, eso
     
     Often, polypoid or fungating tumours progress into ulcerative tumours. As the tumour outgrows its vascular supply, it becomes ischaemic and necrotic, resulting in an ulcerative tumour.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Histological subtypes of esophageal carcinomas**
     
     Esophageal squamous cell carcinoma can occur at any level of the oesophagus. Histologically, it is characterised by the presence of keratin pearls and intercellular bridges.
     
+    ![[Untitled\|Untitled]]
     
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-    
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Esophageal adenocarcinoma arises only in the lower oesophagus, due to its association with chronic [[Jethro’s Working Notes/Reflux esophagitis\|Reflux esophagitis]] and [[Jethro’s Working Notes/Barrett Esophagus\|Barrett Esophagus]]. It is characterised by presence of glandular structures.
     
