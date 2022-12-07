@@ -15,19 +15,6 @@ While bile is continuously produced by hepatocytes and modified by cholangiocyte
 
 Cholecystokinin is released by I cells of the duodenal and upper jejunal mucosa. It stimulates the rhythmic contraction of gallbladder and the relaxation of the sphincter of Oddi. This enables the delivery of stored bile into the duodenum.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 *Another function of cholecystokinin - [[Cholecystokinin controls enzyme secretion by pancreatic acinar cells in the intestinal phase\|Cholecystokinin controls enzyme secretion by pancreatic acinar cells in the intestinal phase]].*
