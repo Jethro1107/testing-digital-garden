@@ -15,20 +15,7 @@ Brunner’s gland are branched tubular glands that can be found in the submucosa
 
 They are involved in producing highly alkali mucous secretions to neutralise the acidic chyme.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 ---
 
