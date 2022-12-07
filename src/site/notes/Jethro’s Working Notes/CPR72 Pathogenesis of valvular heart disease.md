@@ -62,20 +62,7 @@ Updated: September 20, 2022 9:19 PM
                 
                 Decreased aortic pressure results in reduced coronary perfusion, causing myocardial ischaemia
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
     - Incompetency - failure of a valve to close completely, thereby allowing regurgitation of blood
     - Mixed
@@ -101,20 +88,7 @@ Updated: August 28, 2022 9:50 PM
             
             Caused by degenerative calcification induced by wear and tear of the valve
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Pathology of calcific aortic stenosis**
             
@@ -128,20 +102,7 @@ Updated: August 28, 2022 9:50 PM
             
             Symptoms - Palpitations, Fatigue, Visual disturbance, Reduced exercise tolerance, Syncope, angina and dyspnea during exertion, congestive heart failure
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
     - Mitral annular calcification
         - **Pathology of mitral annular calcification**
@@ -261,20 +222,7 @@ Updated: August 28, 2022 9:50 PM
         
         Valvular stenosis and regurgitation (where stenosis predominates)
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     
     Cf: [[Robbins  Pathology of acute rheumatic fever and rheumatic heart disease\|Robbins  Pathology of acute rheumatic fever and rheumatic heart disease]] 
@@ -332,52 +280,13 @@ Updated: August 28, 2022 9:50 PM
         
 - Valvular anuloplasty
     
+    ![[Untitled\|Untitled]]
     
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-    
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - Baloon valvuloplasty
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - Anticoagulation therapy
     
