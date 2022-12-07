@@ -11,37 +11,11 @@ Updated: September 20, 2022 9:19 PM
 
 # Learning Outcomes
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 ### LO I.2: Radius and compliance regulate flow along a blood vessel
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 ### LO I.3: Cardiac enzymes have variable specificity and sensitivity for cardiac damage, and are released at different time courses of MI
 
@@ -84,20 +58,7 @@ Updated: August 28, 2022 9:50 PM
 
 Lactate dehydrogenase (LDH) and Aspartate transaminase (AST) are no longer used due to their lack of specificity
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 ### LO II.2: STEMI, NSTEMI and unstable angina are different entities encompassed by the term Acute coronary syndrome
 
@@ -105,69 +66,17 @@ Acute coronary syndrome encompasses all acute deadly clinicopathological manifes
 
 STEMI - ST segment elevation MI (ST segment elevations on certain leads, accompanied by elevated cardiac enzymes)
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 NSTEMI - Non-ST segment elevation MI (normal or depressed ST segments and T wave inversions. accompanied by elevated cardiac enzymes)
 
+![[Untitled\|Untitled]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 Unstable angina - Normal cardiac enzymes and normal ECG
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 STEMI usually indicate transmural infarctions, where NSTEMI indicates subendocardial infarctions
 
@@ -199,20 +108,7 @@ The principle of anti-platelet agents and anticoagulants is to avoid superimpose
 Thromboxane A2 upregulates GpIIb/IIIa complex, which is required for binding to fibrinogen, enabling the formation of a platelet plug | Clopidogrel inhibits P2Y12 receptors on platelets, preventing the binding of ADP
 This prevents the upregulation of GpIIb/IIIa complex, thus prevents platelet aggregation and formation of platelet plug |
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 Anticoagulant - Unfractioned Heparin
 
