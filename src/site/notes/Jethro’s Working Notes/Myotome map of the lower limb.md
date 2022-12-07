@@ -11,16 +11,4 @@ Updated: November 5, 2022 1:29 PM
 
 ### Myotome map of the lower limb
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
