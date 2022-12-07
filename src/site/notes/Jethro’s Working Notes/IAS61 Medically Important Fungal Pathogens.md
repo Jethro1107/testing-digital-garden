@@ -24,20 +24,7 @@ Updated: June 18, 2022 11:20 AM
     
     Cell membrane consist of ergosterol
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - How is fungi classified?
     
