@@ -35,20 +35,7 @@ Updated: November 13, 2022 8:58 PM
     
     Inflammatory cells release cytokines, ROS, protease and arachidonic acid metabolites, resulting in tissue injury and inflammation, which presents as acute gouty arthritis.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Repeated gouty attacks eventually results in a granulomatous response that results in tophi formation, aggregates of urate crystals surrounded by macrophages, and giant cells.
     
@@ -60,20 +47,7 @@ Updated: August 28, 2022 9:50 PM
     
     - Large chalky white deposits in the synovium.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ********************************************Histopathology of gout********************************************
     
@@ -87,35 +61,9 @@ Updated: August 28, 2022 9:50 PM
     - Gouty tophi formation, a [[foreign body granuloma\|foreign body granuloma]], with eosinophilic mterial surrounded by the macrophages and foreign body giant cells.
     - Gouty tophi that erodes into articular cartilage and periarticular bone.
     
+    ![[Untitled\|Untitled]]
     
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-    
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **************************************************Clinical features/Natural history of gout**************************************************
     
@@ -137,35 +85,9 @@ Updated: August 28, 2022 9:50 PM
     - Errosion of periarticular bone results in loss of joint function.
     - Gouti tophi formation in the joint synovium, olecranon bursa and ear lobes (usually not painful).
     
+    ![[Untitled\|Untitled]]
     
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-    
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **********************************Investigations/ Diagnosis of gout**********************************
     
@@ -178,35 +100,9 @@ Updated: August 28, 2022 9:50 PM
     
     - Demonstration of crystals on joint aspiration. Urate crystals are long, slender, needle-shaped and negatively birefringent on *****************polarised microscopy.*****************
     
+    ![[Untitled\|Untitled]]
     
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-    
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - See [[Jethro’s Working Notes/Management of gout\|Management of gout]]
 
