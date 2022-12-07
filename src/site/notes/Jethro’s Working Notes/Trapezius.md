@@ -13,20 +13,7 @@ Updated: October 28, 2022 7:18 PM
 
 The trapezius muscle has a long line of origin, from the head, neck and the thoracic vertebrae. It inserts into a U shaped structure, where the upper fibres insert to the posterior surface of the lateral 1/3 of the [[Jethro’s Working Notes/Clavicle\|Clavicle]], the middle fibres insert to the acromion and the inferior fibres insert at the spine of the [[Jethro’s Working Notes/Scapulae\|Scapulae]].
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 - ****************************************************Movements by the trapezius****************************************************
     
@@ -36,16 +23,4 @@ Updated: August 28, 2022 9:50 PM
     
     The lower fibres of the trapezius depress the scapulae.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
