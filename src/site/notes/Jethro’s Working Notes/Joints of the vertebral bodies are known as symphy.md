@@ -13,19 +13,6 @@ Updated: November 13, 2022 2:44 PM
 
 Adjacent vertebral bodies articulate at a cartilaginous joint called a symphysis, involving an [[Jethro’s Working Notes/Intervertebral disc\|Intervertebral disc]].
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 It is stablised anteriorly and posteriorly by the anterior longitudinal ligament and posterior longitudinal ligament.
