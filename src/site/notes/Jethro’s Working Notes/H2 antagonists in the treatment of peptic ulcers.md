@@ -23,20 +23,7 @@ Updated: November 28, 2022 11:59 AM
     
     Referring to the concept of potentiation, histamine antagonists can inhibit 60% of acid secretion.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Adverse effects of H2 antagonists**
     
