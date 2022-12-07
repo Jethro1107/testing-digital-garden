@@ -23,20 +23,7 @@ Updated: September 21, 2022 9:24 PM
     
     The functional obstruction results in subsequent dilitation and fibrosis of the proximal part of esophagus.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Clinical features of achalasia**
     
