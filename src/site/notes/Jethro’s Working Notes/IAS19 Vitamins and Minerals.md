@@ -217,20 +217,7 @@ Updated: June 30, 2022 5:08 PM
         
     - How is Vitamin K metabolised?
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Involved in the coagulation cascade, particularly the carboxylation of prothrombin precursor into active prothrombin
         
@@ -302,20 +289,7 @@ Updated: August 28, 2022 9:50 PM
         
         Within the methylation cycle, methionine is adenylated into S-adenosylmethionine (SAM), a universal methyl group donor, donating the methyl group to a methyl acceptor, DNA or protein
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
 - Vitamin C
     - What is Vitamin C also called?
