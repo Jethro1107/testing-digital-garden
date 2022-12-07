@@ -26,16 +26,4 @@ Updated: November 14, 2022 2:14 PM
     
     Note the relatively anterior position of the femoral artery relative to the femoral vein.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
