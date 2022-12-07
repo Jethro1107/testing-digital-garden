@@ -19,20 +19,7 @@ The abdominal viscera is supplied by the three anterior branches of the abdomina
     
     The celiac trunk also branches into the splenic artery that supplies the spleen.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **The superior mesenteric artery supplies:**
     
