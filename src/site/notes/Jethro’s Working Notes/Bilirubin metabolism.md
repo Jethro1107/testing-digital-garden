@@ -25,16 +25,4 @@ Eventually, when eating, conjugated bilirubin is released into the gut. It first
 - A small portion of urobilinogen is absorbed into circulation (Enterohepatic circulation), where most is re-excreted into bile.
 - Urobilinogen may enter systemic circulation and excreted by renal mechanisms. It is metabolised into urobillin. *Urobillin gives urine its yellow colour.*
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
