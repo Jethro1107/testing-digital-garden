@@ -19,16 +19,4 @@ Updated: November 18, 2022 11:31 AM
     
     The adductor canal consist of the [[Jethro’s Working Notes/Femoral artery\|Femoral artery]] and vein, the long saphenous vein and nerve to vastus medialis (both branches of [[Jethro’s Working Notes/Femoral nerve\|Femoral nerve]]).
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
