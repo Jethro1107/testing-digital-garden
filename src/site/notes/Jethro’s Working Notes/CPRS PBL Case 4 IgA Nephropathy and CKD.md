@@ -11,20 +11,7 @@ Updated: September 20, 2022 9:19 PM
 
 ### Learning Outcomes
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 ### LO I.3: Acute kidney injury and chronic kidney disease are different clinical entities and have different Etiologies
 
@@ -66,35 +53,9 @@ MDMR - SCr, gender, ethnicity
 
 CockRoft and gault - SCr, gender age body weight
 
+![[Untitled\|Untitled]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 ![[/5E916FA4-6646-4667-B009-1181F49C60E2.png\|/5E916FA4-6646-4667-B009-1181F49C60E2.png]]
 
