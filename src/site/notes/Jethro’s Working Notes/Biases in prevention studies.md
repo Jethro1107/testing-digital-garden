@@ -23,20 +23,7 @@ Biases in prevention studies, particularly studies revolving around the effectiv
     
     Length-time bias is the perceived increase in survival time because screening programs tend to pick up more slowly progressive disease (which have longer survival), that aggressive forms of disease (which have less survival), a selection bias, if you will.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     This is avoided by comparing outcomes in randomised control trials.
     
