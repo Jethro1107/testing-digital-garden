@@ -20,37 +20,11 @@ During inspection, it is best to move down the body, cranially to caudally to av
 
 Check for conjunctival pallor:
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 Check for central cyanosis at the tongue (always pathological):
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 Note that [[Jethro’s Working Notes/Central cyanosis is always pathological\|Central cyanosis is always pathological]], whereas [[Peripheral cyanosis can be physiological or pathological\|Peripheral cyanosis can be physiological or pathological]].
 
@@ -96,20 +70,7 @@ Four things are assessed during palpation: Tracheal position, Apex beat, chest e
 
 Place index and ring finger on either sides of the sternal heads of sternocleidomastoid muscle, run middle finger down the trachea **gently** and assess whether its distance to the index and ring finger are equal
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 Cf: [[$ Stanford Medicine 25 - Examination of the Trachea\|$ Stanford Medicine 25 - Examination of the Trachea]] 
 
@@ -141,20 +102,7 @@ From inspection and palpation, one could expect which side is normal and which s
 
 Percussion should involve both lung apices (in the supraclavicular fossa), both clavicles, and intercostal spaces both anteriorly and posteriorly. When percussing anteriorly, one should also percuss the axillary region (lateral side).
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 - 3 sounds of lung percussion and associated conditions
     
