@@ -33,20 +33,7 @@ Updated: June 18, 2022 11:20 AM
         
 - **The Molecular structure of ATP and its high energy storage**
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Adenosine triphosphate - contains a nitrogen containing base, a pentose, and 3 phosphate groups
     
@@ -146,20 +133,7 @@ Updated: August 28, 2022 9:50 PM
     - **Muscle Contraction**
         - Anatomy of Sarcomere
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
             Sarcomere - Basic contractile unit of muscle fibre, with two types of protein filaments: actin and myosin
             
@@ -185,20 +159,7 @@ Updated: August 28, 2022 9:50 PM
             
         - Sarcoplasmic Reticulum Ca2+ ATPase in cardiomyocytes
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
             Sarcoplasmic Reticulum (SR) is a specialised type of Endoplasmic Reticulum for Ca2+ storage
             
@@ -210,20 +171,7 @@ Updated: August 28, 2022 9:50 PM
     
     Source of phosphate group for protein phosphorylation, most common post-translational modification to activate or deactivate a protein
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Extracellular Signalling**
     - Carotid body in the control of breathing
