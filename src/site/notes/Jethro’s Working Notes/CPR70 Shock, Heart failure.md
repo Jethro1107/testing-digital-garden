@@ -124,20 +124,7 @@ Updated: September 20, 2022 9:19 PM
             
             Disseminated intravascular coagulopathy
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Common clinical conditions associated with septic shock**
             1. Peritonitis
@@ -240,20 +227,7 @@ Updated: August 28, 2022 9:50 PM
         
         Ejection fraction refers to the fraction of blood in the left ventricle which is pumped out with each ejection
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Normal ejection fraction is 55-70%
         
@@ -288,20 +262,7 @@ Updated: August 28, 2022 9:50 PM
     
     Catherisation
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - Treatment of heart failure
     - **Treating symptoms**
