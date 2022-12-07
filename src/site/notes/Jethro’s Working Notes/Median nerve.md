@@ -29,55 +29,16 @@ The median nerve (C5-T1) is formed from the union of the lateral roots of the me
     
     - Motor innervation to the muscles of the anterior compartment of the forearm, except for the flexor carpi ulnaris, and the medial part of the flexor digitorum profundus.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Distally in the forearm, it lies deep to the palmaris longus, where it gives off:
     
     - Sensory innervation to the palmar surface of the lateral 3 and a half digits and the associated palmar surfaces of the hand, as well as the dorsal surface of the distal phalanges of the lateral 3 and a half digits, ************via the palmar cutaneous branch************, which is a branch of the median nerve ********************************************************************************before it passes into the cubital fossa.********************************************************************************
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **In the hand**
     
