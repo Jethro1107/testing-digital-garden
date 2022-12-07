@@ -29,20 +29,7 @@ Vomiting is the forceful expulsion of gastric contents in the stomach , aimed at
     
     Higher centres, such as the cerebral cortex and limbic systems, which signals NTS via muscarinic receptors.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ********************************************************************Vomiting is a coordinated action with 2 phases********************************************************************
     
