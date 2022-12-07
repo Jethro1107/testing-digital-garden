@@ -20,20 +20,7 @@ The simple columnar epithelium of the stomach invaginates into the lamina to for
         
         Histologically, they appear as a typical mucous-secreting cell, i.e. columnar, *nucleus at base* and a *pale-staining mucous cap* consisting of mucinogen granules.
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         They **secret highly alkali insoluble mucous** which lines the stomach, which 1) protects against abrasion, and 2) protects the stomach wall from acidic gastric juice ([[Surface mucous cells and neck mucous cells are involved in the maintenance of a two-layered mucous gel layer\|Surface mucous cells and neck mucous cells are involved in the maintenance of a two-layered mucous gel layer]]).
         
@@ -43,35 +30,9 @@ Updated: August 28, 2022 9:50 PM
         
         Histologically, they appear in clusters, or as single cells which assume the appearance of a typical mucous-secreting cells, i.e. round nuclei at base and a pale-staining apical mucous cap.
         
+        ![[Untitled\|Untitled]]
         
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-        
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         They release less alkali mucous.
         
@@ -81,35 +42,9 @@ Updated: August 28, 2022 9:50 PM
         
         Histologically, they assume ‘fried-egg’ appearance, large, round cell with centrally located nucleus and highly eosinophilic cytoplasm (as a result of abundant mitochondria.
         
+        ![[Untitled\|Untitled]]
         
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-        
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         They function to release hydrochloric acid and gastric intrinsic factor.
         
@@ -122,20 +57,7 @@ Updated: August 28, 2022 9:50 PM
         
         Histologically, chief cells assume the typical phenotype of a protein-secreting cell, i.e. basophilic at the basal region (due to abundant rER) and eosinophilic at the apical region (due to presence of zymogen granules).
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Chief cells function to release pepsinogen (and gastric lipase).
         
