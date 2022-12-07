@@ -22,20 +22,7 @@ Three substances stimulate H + secretion by gastric parietal cells: histamine 
     
     Like ACh, gastrin also stimulates H + secretion indirectly by causing release of histamine from ECL cells.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     The rate of H+ secretion is regulated by the independent actions of histamine, ACh, and gastrin, as well as by *interactions* among the three agents. The interaction is called **potentiation,**which refers to the ability of two stimuli to *produce a combined response that is greater than the sum of the individual responses*. One explanation for potentiation in the parietal cells is that each agent stimulates H+ secretion via a different receptor and, in the case of histamine, a different second messenger. Another explanation derives from the fact that both ACh and gastrin stimulate histamine release from ECL cells and thereby induce H+ secretion by a second, indirect, route. This phenomenon of potentiation has consequences for the actions of the various drugs that inhibit H+ secretion. For example, because histamine potentiates the actions of ACh and gastrin, H2 receptor–blocking agents such as **cimetidine** have a greater effect than expected: They block the direct action of histamine *and* they also block the histamine-potentiated effects of ACh and gastrin. In another example, ACh potentiates the actions of histamine and gastrin. A consequence of this potentiation is that muscarinic-blocking agents such as **atropine** block the direct effects of ACh *and* the ACh-potentiated effects of histamine and gastrin.
     
@@ -44,20 +31,7 @@ Updated: August 28, 2022 9:50 PM
     Having established that histamine, ACh, and gastrin all stimulate HCl secretion by parietal cells, the control of HCl secretion in response to a meal now can be discussed in an integrated fashion. [Figure 8.19](https://www-clinicalkey-com.eproxy.lib.hku.hk/f0100) depicts the gastric parietal cells, which secrete HCl, and the G cells, which secrete gastrin. Vagus nerves innervate parietal cells directly, where they release ACh as the neurotransmitter. Vagus nerves also innervate G cells, where they release GRP as the neurotransmitter.
     
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 As shown in [Figure 8.19](https://www-clinicalkey-com.eproxy.lib.hku.hk/f0100) , the second path, the G cell path, provides an *indirect* route for vagal stimulation of the parietal cells: Vagal stimulation releases gastrin from the G cells, and gastrin enters the systemic circulation and is delivered back to the stomach to stimulate H + secretion by the parietal cells. One consequence of this dual action of vagal stimulation is that muscarinic-blocking agents such as **atropine** do not block HCl secretion completely. Atropine *will* block the direct vagal effects on the parietal cells, which are mediated by ACh, but it *will not* block the vagal effects on gastrin secretion because the neurotransmitter at the synapses on G cells is GRP, not ACh.
 
