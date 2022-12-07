@@ -17,31 +17,6 @@ This causes it to hold less water, resulting in loss in swelling pressure and co
 
 Hence, upon compression, the nucleus pulposus will herniate through the annular fibrosis, which underlies disc herniation in [[Jethro’s Working Notes/Compression disorders\|Compression disorders]].
 
+![[Untitled\|Untitled]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
