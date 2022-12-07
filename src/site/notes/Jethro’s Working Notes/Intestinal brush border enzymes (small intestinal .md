@@ -23,19 +23,6 @@ Intestinal brushborder enzymes (small intestinal disaccharides) breaks down diet
     
     Lactase - cleaves beta-1,4 glycosidic bonds in lactose
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Cf: [[Common glycosidase\|Common glycosidase]]
