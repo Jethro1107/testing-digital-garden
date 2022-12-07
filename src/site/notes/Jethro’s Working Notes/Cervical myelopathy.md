@@ -24,20 +24,7 @@ Cervical myelopathy is a pathological process, often caused by cervical spondylo
     - Ossification of the posterior longitudinal ligament (OPLL)
     - Ligamentum flavum hypertrophy
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     The effect, narrowing of the cervical spinal canal (i.e. cervical spinal stenosis), resulting in compression of the spinal cord.
     
