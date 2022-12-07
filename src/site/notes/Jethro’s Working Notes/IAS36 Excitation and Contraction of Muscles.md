@@ -124,20 +124,7 @@ Updated: June 18, 2022 11:20 AM
     
 - Draw a diagram illustrating the cycle of acetylcholine synthesis and degradation.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     When an action potential depolarises the synaptic terminal, it opens a voltage gated Ca2+ channel, causing an influx Ca2+
     
