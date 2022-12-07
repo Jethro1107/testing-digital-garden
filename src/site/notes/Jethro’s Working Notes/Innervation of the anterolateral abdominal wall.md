@@ -17,19 +17,6 @@ The anterior rami of the spinal nerves proceed from posterior to anterior, in an
 
 T5-T11 intercostal nerves leave their intercostal spaces, and continues into the anterolateral abdominal wall between the internal obliques and transversus abdominis, where it gives off a lateral cutaneous branch and continues. As it proceeds towards the lateral edge of the rectus sheath, it passes the rectus sheath and is posterior to the lateral aspect of rectus abdominis muscle. Approaching the midline, it gives off the anterior cutaneous branch that passes through the rectus abdominis muscle and the anterior layer of rectus sheath to supply the skin. T12 and L1 spinal nerves also follow a similar pathway.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 Cf: [[$ Grays  Innervation of the anterolateral abdominal wall\|$ Grays  Innervation of the anterolateral abdominal wall]]
