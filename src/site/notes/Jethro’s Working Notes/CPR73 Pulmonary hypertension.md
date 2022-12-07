@@ -83,20 +83,7 @@ Updated: September 20, 2022 9:19 PM
                 
         - Drugs and toxins
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - Liver disease
         - Congenital heart disease causing left to right shunt
@@ -156,20 +143,7 @@ Updated: August 28, 2022 9:50 PM
         
         Pulmonary hypertension with unclear or multifactorial mechanisms
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
 - **Epidmiology of pulmonary hypertension**
     
@@ -177,20 +151,7 @@ Updated: August 28, 2022 9:50 PM
     
     SSc is also common
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 ### Clinical features of pulmonary hypertension
@@ -240,20 +201,7 @@ Updated: August 28, 2022 9:50 PM
             
             Elevated cardiac apex due to right heart hypertrophy
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
     - ECG
         - **ECG abnormalities in pulmonary hypertension**
@@ -266,20 +214,7 @@ Updated: August 28, 2022 9:50 PM
             
             Prominant R wave in V1-3 - indicative of RV hypertrophy
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
     - **Screening test for pulmonary hypertension and its aim**
         
@@ -293,20 +228,7 @@ Updated: August 28, 2022 9:50 PM
         
         Transthoracic echocardiography - estimate PASP
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Right heart catheterization (used clinically) - accurate measurement of PASP
         
@@ -318,20 +240,7 @@ Updated: August 28, 2022 9:50 PM
         
         Group 3: PFT, V/Q scan, overnight oximetry
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
 - Management of pulmonary hypertension
     - Management for all groups of pulmonary hypertension
@@ -371,20 +280,7 @@ Updated: August 28, 2022 9:50 PM
             Anticoagulation therapy - to prevent reccurent pulmonary thromboembolism
             
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - Management of group 1 pulmonary hypertension
         - **Pre-treatment evaluation of pulmonary arterial hypertension**
@@ -440,20 +336,7 @@ Updated: August 28, 2022 9:50 PM
                         
                         Activated protein kinase G also inhibits smooth muscle proliferation
                         
-                        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                        ![[Untitled\|Untitled]]
                         
                     - **Adverse effects of PDE5 inhibitors**
                         
