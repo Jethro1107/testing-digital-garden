@@ -28,20 +28,7 @@ Updated: November 28, 2022 6:10 PM
     - A loss of the whitish, shiny esophageal surface, which is replaced by eosinophilia of the oesophageal mucosa (reddish mucosa).
     - A loss of the gastroesophageal junction (OGJ) due to inflammation.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Histopathology of reflux esophagitis**
     
@@ -50,20 +37,7 @@ Updated: August 28, 2022 9:50 PM
     - Hyperplasia of the stratified squamous epithelium, and
     - Neutrophils/ Polymorphs present in the esophageal mucosa.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Clinical features of reflux esophagitis**
     
