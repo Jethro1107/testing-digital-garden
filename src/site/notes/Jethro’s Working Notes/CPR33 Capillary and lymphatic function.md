@@ -36,20 +36,7 @@ Updated: September 20, 2022 9:19 PM
             
             Endothelial cells consist of caveolae, which enable the transport of macromolecules by trancytosis
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
             [[Guyton and Hall Chapter 16  Structure of the capillary wall and pores of the capillary membrane\|Guyton and Hall Chapter 16  Structure of the capillary wall and pores of the capillary membrane]] 
             
@@ -61,20 +48,7 @@ Updated: August 28, 2022 9:50 PM
             
             Kidneys - Fenestrated capillary (continuous basement membrane and fenestrated endothelial cells), allowing passage of water and small molecules (but not plasma proteins) through the fenestrations on endothelial cells, without going through the intercellular cleft
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
             Ref: [[Boron & Boulpaep Chapter 20  Types of capillaries (also related  ‣)\|Boron & Boulpaep Chapter 20  Types of capillaries (also related  ‣)]] 
             
@@ -130,20 +104,7 @@ Updated: August 28, 2022 9:50 PM
         
         Filtration = reabsorption + lymph flow
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
 - Starling Forces
     - **4 Starling forces determining fuid exchange between capillaries and interstitial fluid**
@@ -158,37 +119,11 @@ Updated: August 28, 2022 9:50 PM
                 
                 Mean capillary hydrostatic pressure is determined by arterial pressure, venous pressure, and ratio between postcapillary resistance and precapillary resistance:
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
                 The arterial resistance is much greater than venous resistance, and the ratio is around 0.2
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
                 Hence, venous pressure is a greater determinant of arterial pressure
                 
@@ -222,20 +157,7 @@ Updated: August 28, 2022 9:50 PM
 - Capillary exchange model (Starling’s hypothesis)
     - **Equation accounting for net transcapillary fluid movement (fluid flux)**
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         When net fluid flux is positive, it indicates filtration
         
@@ -259,20 +181,7 @@ Updated: August 28, 2022 9:50 PM
         
         The only variable is capillary hydrostatic pressure, which is highest at arteriole end and lowest at venule end
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         At arteriole end, the capillary hydrostatic pressure is greater than the plasma colloid osmotic pressure, resulting in positive net driving force and hence positive fluid flux
         
@@ -319,20 +228,7 @@ Updated: August 28, 2022 9:50 PM
     
     During compression phase, compression of lymph capilllaries during respiration walking and peristalsis increases lymph pressure, causing primary lymph valve to close, and opening secondary lymph valve, allowing lymph to flow into lymphatic vessels
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Mechanism of lymphatic pump in aiding flow in lymphatic vessels**
     
@@ -342,20 +238,7 @@ Updated: August 28, 2022 9:50 PM
     
     The previous secondary lymph valve close to prevent backflow of lymph, the next secondary lymph valve opens and lymph flows into the next lymphangion
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **External forces promoting lymphatic flow**
     
