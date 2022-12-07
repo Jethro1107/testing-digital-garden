@@ -19,20 +19,7 @@ Updated: September 30, 2022 9:42 PM
         - Perfusion depends on the pressure difference between arterial pressure and venous pressure (or alveolar pressure, if alveolar pressure is greater than that of venous pressure)
         - Pulmonary arterial pressure decreases as we move up the lung due to gravitational effects
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         - There may be a region at the top of the lung (zone 1), where pulmonary arterial pressure falls below alveolar pressure (normally close to atmospheric pressure). If this occurs, the capillaries are squashed flat, and no flow is possible. Zone 1 does not occur under normal conditions, because the pulmonary arterial pressure is just sufficient to raise blood to the top of the lung, but may be present if the arterial pressure is reduced (e.g., with septic shock or hemorrhage) or if alveolar pressure is raised, as occurs during positive pressure ventilation. This ventilated but unperfused lung is useless for gas exchange and is called alveolar dead space.
         - Farther down the lung (zone 2), pulmonary arterial pressure increases because of the hydrostatic effect and now exceeds alveolar pressure. However, venous pressure is still very low and is less than alveolar pressure, which leads to remarkable pressure-flow characteristics. Under these conditions, blood flow is determined by the difference between arterial and alveolar pressures (not the usual arterial-venous pressure difference). Indeed, venous pressure has no influence on flow unless it exceeds alveolar pressure.
@@ -69,38 +56,12 @@ Updated: August 28, 2022 9:50 PM
     - **Changes in regional ventilation-perfusion ratio up the lung**
         - Ventilation decreases slowly as we move up the lung, and blood flow decreases rapidly as we move up the lung, as a result VQ ratio increases non-linearly as we move up the lung, with abnormally high VQ ratio at the apex of the lung, and extremely low at the base of the lung
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Effects of regional difference in ventilation-perfusion ratio on alveolar partial pressures up the lung**
         - As VQ ratio increases up the lung, alveolar PO2 increases up the lung and alveolar PCO2 decreases up the lung
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
 - **Effect of regional ventilation-perfusion inequality on overall gas exchange of lung**
     - **Depression of arterial PO2**
@@ -126,16 +87,4 @@ Updated: August 28, 2022 9:50 PM
     - Measurement of physiological shunt
         - Physiological shunt in lungs - Refers blood passing the arterial system without passing the ventilated areas, such that partial pressure of gases of shunt blood equals to that of venous blood
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+        ![[Untitled\|Untitled]]
