@@ -29,20 +29,7 @@ Updated: July 7, 2022 11:12 AM
         
         Electron microscopy - effacement of podocytes with no immune complex deposits
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Treatment for minimal change disease**
         
