@@ -15,39 +15,13 @@ The joints of the vertebral bodies are *symphyses (secondary cartilaginous join
 
 **FIGURE 2.14**
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 **Intervertebral** (**IV**) **discs** provide strong attachments between the vertebral bodies, uniting them into a continuous semirigid column and forming the inferior half of the anterior border of the IV foramen. In aggregate, the discs account for 20–25% of the length (height) of the vertebral column (see Fig. 2.1). As well as permitting movement between adjacent vertebrae, their resilient deformability allows them to serve as shock absorbers. Each IV disc consists of an *anulus fibrosus*, an outer fibrous part, composed of concentric lamellae of fibrocartilage, and a gelatinous central mass, the *nucleus pulposus*.
 
 The **anulus fibrosus** (L. *anus*, a ring) is a bulging fibrous ring consisting of concentric lamellae (layers) of fibrocartilage forming the circumference of the IV disc (Figs. 2.14 and 2.15A). The anuli insert into the smooth, rounded *epiphysial rims* on the articular surfaces of the vertebral bodies formed by the fused *anular epiphyses* (Figs. 2.2B and 2.15B, C). The fibers forming each lamella run obliquely from one vertebra to another, about 30 or more degrees from vertical. The fibers of adjacent lamellae cross each other obliquely in opposite directions at angles of more than 60° (Fig. 2.14). This arrangement allows limited rotation between adjacent vertebrae, while providing a strong bond between them. The anulus is thinner posteriorly and may be incomplete posteriorly in the adult in the cervical region ([Mercer and Bogduk, 1999]). The anulus becomes decreasingly vascularized centrally, and only the outer third of the anulus receives sensory innervation.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 The **nucleus pulposus** (L. *pulpa*, fleshy) is the core of the IV disc (Fig. 2.15A). At birth, these pulpy nuclei are about 88% water and are initially more cartilaginous than fibrous. Their semifluid nature is responsible for much of the flexibility and resilience of the IV disc and of the vertebral column as a whole.
 
@@ -57,50 +31,12 @@ There is no IV disc between C1 and C2 vertebrae; the most inferior functional di
 
 **Uncovertebral “joints”** or **clefts** (of Luschka) commonly develop between the unci of the bodies of C3 or C4–C6 or C7 vertebrae and the beveled inferolateral surfaces of the vertebral bodies superior to them after 10 years of age (Fig. 2.16). The joints are at the lateral and posterolateral margins of the IV discs. The articulating surfaces of these joint-like structures are covered with cartilage moistened by fluid contained within an interposed potential space, or “capsule.” They are considered synovial joints by some; others consider them to be degenerative spaces (clefts) in the discs occupied by extracellular fluid. The uncovertebral “joints” are frequent sites of bone spur formation in later years, which may cause neck pain.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 The **anterior longitudinal ligament** is a strong, broad fibrous band that covers and connects the anterolateral aspects of the vertebral bodies and IV discs (Fig. 2.17). The ligament extends longitudinally from the pelvic surface of the sacrum to the anterior tubercle of vertebra C1 and the occipital bone anterior to the foramen magnum are the superiormost parts, the anterior atlanto-axial and atlanto-occipital ligaments. Although thickest on the anterior aspect of the vertebral bodies (illustrations often depict only this portion), the anterior longitudinal ligament also covers the lateral aspects of the bodies to the IV foramen. This ligament prevents hyperextension of the vertebral column, maintaining stability of the joints between the vertebral bodies. *The anterior longitudinal ligament is the only ligament that limits extension*; all other IV ligaments limit forms of flexion.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 The **posterior longitudinal ligament** is a much narrower, somewhat weaker band than the anterior longitudinal ligament (Fig. 2.17; see also 2.18B). The posterior longitudinal ligament runs within the vertebral canal along the posterior aspect of the vertebral bodies. It is attached mainly to the IV discs and less so to the posterior aspects of the vertebral bodies from C2 to the sacrum, often bridging fat and vessels between the ligament and the bony surface. This ligament weakly resists hyperflexion of the vertebral column and helps prevent or redirect posterior herniation of the nucleus pulposus. It is well provided with nociceptive (pain) nerve endings.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
