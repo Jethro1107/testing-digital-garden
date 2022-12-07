@@ -98,20 +98,7 @@ Updated: October 12, 2022 2:45 PM
     - Neural pathways from higher centers to respiratory centers
         - Stimulating or inhibitory pathways from higher centers to pneumotaxic centers
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - Neural pathways in quiet breathing pattern
     - Neural pathways in inspiration
@@ -130,20 +117,7 @@ Updated: August 28, 2022 9:50 PM
         - The lung stretch receptors also stimulate the apneustic center, which stimulates the inspiratory center (Hering-Breur Reflex)
         - Stimulated inspiratory center stimulates the contraction of inspiratory muscles, i.e. initiating inspiration
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 ### Chemical Control of Breathing
@@ -154,20 +128,7 @@ Updated: August 28, 2022 9:50 PM
         - At moderate PCO2 (40 to 60 mmHg), ventilation has a high response coefficient to changes in PCO2, allowed for minute to minute metabolic control of ventilation
         - At high PCO2 (> 60 mmHg), ventilation has a low response coefficient to changes in PCO2, as high PCO2 results in acidosis, which depress neural activity
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - Ventilatory response to acute CO2 inhalation
         - **Physiological mechanisms of ventilatory response to acute CO2 inhalation**
@@ -195,20 +156,7 @@ Updated: August 28, 2022 9:50 PM
             - At low PO2 (<60 mmHg), Ventilation has a high response coefficient. However, this ventilatory response is halted due to the braking effects of accompanying hypocapnia and respiratory alkalosis.
             - Hence physiological control of PO2 on Ventilation is insignificant.
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
     - **Ventilatory response to acute hypoxia**
         - In blood, acute hypoxia causes a decrease in arterial PO2, stimulating peripheral chemoreceptors, thus increasing ventilation
