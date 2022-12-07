@@ -17,16 +17,4 @@ This is because when pancreatic flow rate is low, pancreatic juice mainly consis
 
 Pancreatic flow rate increases as there is release of large amounts of bicarbonate fluids by ductal cells, which consist of isotonic fluid containing Na+, HCO3- and water ([[Ductal cells are responsible for production of large volumes of isotonic, HCO3- rich fluids\|Ductal cells are responsible for production of large volumes of isotonic, HCO3- rich fluids]] ).
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
