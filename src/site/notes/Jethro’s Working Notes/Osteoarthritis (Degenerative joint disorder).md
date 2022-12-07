@@ -43,55 +43,16 @@ Updated: November 24, 2022 11:36 AM
         
         Grade 4 - Eburnation, or exposure of the subchondral bone is seen.
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-%20f99f457ec6b94cf3aa32b7c775074c57/Untitled.png)
+        ![[Untitled\|Untitled]]%20f99f457ec6b94cf3aa32b7c775074c57/Untitled.png)
         
     2. Marginal osteophyte formation - Bony formations at the rim of the joints as a physiological response to increase articular area (ineffective). Marginal osteophytes underlie stiffness.
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-%20f99f457ec6b94cf3aa32b7c775074c57/Untitled%201.png)
+        ![[Untitled\|Untitled]]%20f99f457ec6b94cf3aa32b7c775074c57/Untitled%201.png)
         
     3. Subchondral bone stenosis - An increase in bone density, but the bone also becomes more brittle.
     4. Subchondral cyst formation - When subchondral bone cracks, fluid enters to form cysts.
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-%20f99f457ec6b94cf3aa32b7c775074c57/Untitled%202.png)
+        ![[Untitled\|Untitled]]%20f99f457ec6b94cf3aa32b7c775074c57/Untitled%202.png)
         
         Coincidentally, some of these are actually radiological features used in the [[Kellgren and Lawrence system for classification of osteoarthritis\|Kellgren and Lawrence system for classification of osteoarthritis]]. Loss of articular cartilage, indirectly is also part of the classification system, as the *********************joint space narrowing*********************, as cartilage (soft tissue) is not visualised on plain X-Ray, such that it manifests as loss of joint space radiographically.
         
@@ -104,20 +65,7 @@ Updated: August 28, 2022 9:50 PM
     
     It should be noted that absence of signs of inflammation, i.e. no redness or warmth, is important in diagnosis of osteoarthritis ([[Jethro’s Working Notes/Clinical approach to joint pain\|Clinical approach to joint pain]]).
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-%20f99f457ec6b94cf3aa32b7c775074c57/Untitled%203.png)
+    ![[Untitled\|Untitled]]%20f99f457ec6b94cf3aa32b7c775074c57/Untitled%203.png)
     
     Straightforward osteoarthritis can be diagnosed with the characteristic signs and symptoms, but if the diagnosis is unclear, or if other differential diagnosis should be considered, other investigations should be performed.
     
