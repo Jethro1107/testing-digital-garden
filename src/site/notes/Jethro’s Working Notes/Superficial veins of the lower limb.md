@@ -19,39 +19,13 @@ There are two superficial veins of the lower limb: 1) ******Great saphenous vein
     
     It then traverse the saphenous opening (an opening in the fascia lata 3-4cm inferior to the pubic tubercle), and drains into the femoral vein.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ****************************************Small saphenous vein****************************************
     
     The small saphenous vein originates from posterior of the lateral malleolus, and ascends on the posterior surface of the leg, and eventually pierces through the fascia lata to drain into the popliteal vein, in the [[Jethro’s Working Notes/Popliteal fossa\|Popliteal fossa]].
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 ### Reference:
