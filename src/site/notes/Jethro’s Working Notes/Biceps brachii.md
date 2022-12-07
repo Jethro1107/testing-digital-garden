@@ -14,24 +14,11 @@ Updated: October 19, 2022 1:58 PM
 The Biceps brachii is a consist of 2 heads, the short head and the long head.
 
 - The short head of the biceps brachii originates from the corocoid process, just adjacent to the origin of the [[Jethro’s Working Notes/Coracobrachialis\|Coracobrachialis]].
-- The long head of the biceps brachii originates as a tendon from the supraglenoid tubercle of the [[Jethro’s Working Notes/Scapulae\|Scapulae]]. It crosses the [[Shoulder joint (Glenohumeral [[joint)\|Shoulder joint (Glenohumeral [[joint)]]]] and emerges from the intertubercular groove, which is reinforced by the transverse humeral ligament as it moves into the arm.
+- The long head of the biceps brachii originates as a tendon from the supraglenoid tubercle of the [[Jethro’s Working Notes/Scapulae\|Scapulae]]. It crosses the [[Jethro’s Working Notes/Shoulder joint (Glenohumeral joint)\|Shoulder joint (Glenohumeral joint)]] and emerges from the intertubercular groove, which is reinforced by the transverse humeral ligament as it moves into the arm.
 
 The short head and long head of the biceps brachii fuses into the same muscle belly, overlying the [[Jethro’s Working Notes/Brachialis\|Brachialis]]. They converge into a single tendon, which inserts at the radial/bicipital tuberosity of the [[Jethro’s Working Notes/Radius\|Radius]].
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 - ************************************************************Movement of the biceps brachii************************************************************
     
