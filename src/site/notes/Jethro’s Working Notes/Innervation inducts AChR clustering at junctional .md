@@ -19,19 +19,6 @@ This is carried out by the Agrin-Lrp4-MuSK signalling pathway.
 2. Agrin activates Lrp4 binding protein, which activates muscle specific kinase at the junctional folds within minutes.
 3. Over a few hours, MuSK phosphorylates AChR, causing them to cluster at junctional folds.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 It should be noted that the Agrin-Lrp4-MuSK signalling pathway does not require activation of the AChR.
