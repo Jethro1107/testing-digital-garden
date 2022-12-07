@@ -21,39 +21,13 @@ The concept of twitch, summation and tetanus concerns the effects of frequency o
     
     There is a latent period between stimulus and the twitch, which corresponds to the excitation-contraction coupling, the time required for action potential propagation and calcium release by sarcoplasmic reticulum.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ******************Frequency Summation (Temporal recruitment)******************
     
     When frequency of stimulus increases, the stimulus may arrive before full relaxation occurs, such that the next contraction is partially added to the previous contraction, resulting in increase in muscle tension. Staircase phenomenon, heart rate determines inotropy is a similar concept.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **************Tetanus**************
     
@@ -63,16 +37,4 @@ Updated: August 28, 2022 9:50 PM
     
     In fused tetanus, frequency has reached to such a high level that the stimuli arrives before relaxation can occur.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
