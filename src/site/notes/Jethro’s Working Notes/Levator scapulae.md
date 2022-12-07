@@ -13,20 +13,7 @@ Updated: October 18, 2022 2:02 PM
 
 The levator scapulae a muscle deep to the trapezius that originates from the transverse process of C1 to C4, and inserts at the medial border of the scapulae, from the superior angle to above the root (base) of the scapular spine.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 - **************************************************************Movements by the levator scapulae**************************************************************
     
