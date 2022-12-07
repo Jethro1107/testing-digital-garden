@@ -43,20 +43,7 @@ Updated: September 20, 2022 9:19 PM
             
             Associated with disruption of atherosclerotic plaque, superimposed thrombosis, embolization of thrombus and/or vasospasm, resulting in an incommplete occlusion of an epicardial coronary artery
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
     - Variant angina (Vasospastic/prinzmetal angina)
         - **What is variant angina?**
@@ -84,20 +71,7 @@ Updated: August 28, 2022 9:50 PM
                 1. Distal arterioles become maximally dilated
                 2. Development of collateral blood supply to shunt blood from well perfused areas to ischaemic areas
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
             - **Principle of coronary steal syndrome**
                 1. Administration of a vasodilator will not further dilate the arterioles distal to the coronary stenosis as it is maximally dilated
@@ -106,20 +80,7 @@ Updated: August 28, 2022 9:50 PM
                 
                 This shunts blood flow from ischemic area to well-perfused area, causing worsened myocardial ischemia in the myocardium supplied by the stenosed artery and progression of angina symptoms
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
             - **Coronary steal phenomenon is the principal behind…**
                 
@@ -381,20 +342,7 @@ Updated: August 28, 2022 9:50 PM
         
         This decreases contractility of the heart, causing decreased myocardial demand
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Note that:
         
@@ -464,31 +412,6 @@ Updated: August 28, 2022 9:50 PM
 
 ### Combination therapy
 
+![[Untitled\|Untitled]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
