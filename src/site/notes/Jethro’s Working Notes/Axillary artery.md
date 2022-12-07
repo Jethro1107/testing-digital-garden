@@ -43,16 +43,4 @@ The axillary artery is the continuation of the subclavian artery which begins at
     - **Circumflex scapular artery** leaves the axilla via the **triangular space** and access the posterior scapular region, it forms anastamoses with other arteries of the region, contributing to [[Jethro’s Working Notes/Scapular anastamosis\|Scapular anastamosis]].
     - **Thoracodorsal artery**, which descends along the lateral border of the scapulae and supply the muscles that form the posterior and medial axillary wall.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
