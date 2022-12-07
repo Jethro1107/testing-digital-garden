@@ -16,19 +16,6 @@ The scapular anastamosis is an arterial anastamosis between branches of the subc
 - The suprascapular artery is a branch of the 1st part of subclavian artery that passes over the superior transverse scapular ligament and gives branches in the supraspinous fossa  and infraspinous fossa.
 - The dorsal scapular artery is a branch of the 1st part of the subclavian artery that descends along the medial border of the scapulae (along with the [[Jethro’s Working Notes/Dorsal scapular nerve\|Dorsal scapular nerve]].
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 This provides collateral blood supply between the 1st part of subclavian artery and 3rd part of axillary artery that maintains blood supply to the upper limb when the axillary artery is blocked.
