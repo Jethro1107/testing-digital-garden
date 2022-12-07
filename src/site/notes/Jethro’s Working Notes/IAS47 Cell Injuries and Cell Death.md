@@ -73,20 +73,7 @@ Updated: June 18, 2022 11:20 AM
     
     If the intensity of stimulus is very strong, or if the reversible cell injury persists, it may result in irreversible cell injury and cell death
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - Describe the process of pathogenesis of cell injury.
     
@@ -96,20 +83,7 @@ Updated: August 28, 2022 9:50 PM
     
     Histochemical/Ultrastructural changes are observed first, then light microscopic changes are observed, and eventually gross examination changes are observed
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - What are the principal biochemical mechanisms and hence site of damage in cell injury?
     
@@ -166,20 +140,7 @@ Updated: August 28, 2022 9:50 PM
     
     Liver, heart muscles and renal tubules are succeptible organs
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - What are the causes of fatty change?
     
@@ -271,35 +232,9 @@ Updated: August 28, 2022 9:50 PM
         
         Apoptotic bodies are phagocytosed by phagocytes
         
+        ![[Untitled\|Untitled]]
         
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-        
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Cf: [[Robbins  Mechanism of apoptosis\|Robbins  Mechanism of apoptosis]] 
         
@@ -352,20 +287,7 @@ Updated: August 28, 2022 9:50 PM
                 
                 Cell appears to be eosinophilic, opaque tombstone
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
             - **Cause of coagulative necrosis**
                 
@@ -416,20 +338,7 @@ Updated: August 28, 2022 9:50 PM
                         
                         Chalky white appearance due to deposition of Ca2+
                         
-                        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                        ![[Untitled\|Untitled]]
                         
                     - **Histopathology of enzymatic fat necrosis**
                         
@@ -452,20 +361,7 @@ Updated: August 28, 2022 9:50 PM
                         
                         Giant cell formation
                         
-                        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                        ![[Untitled\|Untitled]]
                         
         - Fibrinoid necrosis
             - **Histopathology of fibrinoid necrosis**
@@ -496,20 +392,7 @@ Updated: August 28, 2022 9:50 PM
         
 - Apoptosis vs Necrosis
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 ### Autophagy
