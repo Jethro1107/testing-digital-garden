@@ -23,20 +23,7 @@ Cotrimoxazole is a combination of trimethoprim and sulmethoxazole in a 1:5 ratio
     
     Inhibition of folate cycle inhibits DNA synthesis.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Adverse effect of cotrimoxazole**
     - GI disturbance - nausea and vomiting
