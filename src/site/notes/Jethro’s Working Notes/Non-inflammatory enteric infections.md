@@ -35,20 +35,7 @@ Updated: October 8, 2022 12:25 PM
     - Vibrio cholerae, Vibrio parahaemolyticus, Enterotoxigenic E. coli (ETEC), Clostridium perfringens - These usually cause watery diarrhea.
     - Staphylococcus aureus and Bacillus cereus - These usually cause vomiting.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 ### Non-inflammatory enteric infections mediated by Staphylococcus aureus and Bacillus cereus usually present with vomiting
