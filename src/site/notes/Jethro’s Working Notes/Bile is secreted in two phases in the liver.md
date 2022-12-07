@@ -23,20 +23,7 @@ At larger ducts, the initial bile is modified by cholangiocytes (simple columnar
     
     CFTR (cAMP activated) and TMEM16A (Ca2+ activated) facilitate the action of Cl-/HCO3- exchanger by recycling Cl-.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 The resultant secretion is delivered into the gallbladder for storage.
