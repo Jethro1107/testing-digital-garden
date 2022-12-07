@@ -25,20 +25,7 @@ A typical vertebrae consist of a vertebral body, a vertebral arch, and the 7 pro
     
     The 2 pedicles are short cylindrical processes that project posteriorly to meet the laminae, where the 2 laminae are broad flat bones that project posteromedially to meet at the midline.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     The posterior surface of the vertebral body and the vertebral arch encloses the vertebral foramen, where successions of vertebral foramen forms the vertebral canal (spinal canal), which houses the spinal cord, nerve roots, meninges, fats and blod vessels. 
     
@@ -50,20 +37,7 @@ Updated: August 28, 2022 9:50 PM
     
     The relative inferior position of the intervertebral foramina and the numerically corresponding vertebral levels underlies the difference in the communication of ***********************vertebral levels and spinal levels***********************.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ******************************************************************************************************************************7 processes provide surface for muscle attachment and articulation of intervertebral disc******************************************************************************************************************************
     
