@@ -20,16 +20,4 @@ The proximal end of the fibula consist of the head and the neck. The shaft of th
     The distal end of the fibula, on the lateral side forms a projection that extends distally called the lateral malleolus (forming the lateral side of the ankle). The lateral malleolus articulates with the lateral side of the tallus, the medial large tarsal bone, which forms part of the ankle joint.
     
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
