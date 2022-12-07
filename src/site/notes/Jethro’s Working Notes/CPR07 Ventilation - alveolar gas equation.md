@@ -118,20 +118,7 @@ Updated: October 12, 2022 1:54 PM
     
     [[(Explanation of PAO2 and alveolar ventilation relationship using equation)\|(Explanation of PAO2 and alveolar ventilation relationship using equation)]]
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Plotting Alveolar PO2 against alveolar ventilation, the following observations can be made:
     
