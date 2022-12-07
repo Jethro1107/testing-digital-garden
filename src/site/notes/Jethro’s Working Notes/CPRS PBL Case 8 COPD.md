@@ -9,39 +9,13 @@ Created: June 14, 2022 9:25 PM
 Tags: CPRS
 Updated: September 20, 2022 9:19 PM
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 Risk of Smoking - CVS disease (CHF, MI), Lung cancer, COPD
 
 ### COPD Ix with superimposed pneumonia
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 - Nasopharyngeal aspirate
 - Sputum collection for gram smear and sputum culture
@@ -67,20 +41,7 @@ Spirometry pre and post bronchodilator therapy
 
 ### Hx of respiratory symptoms
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 Colour and consistency of sputum?
 
@@ -96,20 +57,7 @@ Vaccination status against pneumococcus and influenza
 
 ### Severity of COPD
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 ### Management of AECOPD with superimposed infection
 
