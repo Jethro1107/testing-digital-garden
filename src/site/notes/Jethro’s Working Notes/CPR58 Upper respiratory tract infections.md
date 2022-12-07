@@ -63,20 +63,7 @@ Updated: September 20, 2022 9:19 PM
     
     Atypical bacteria - Mycoplasma pneumoniae, chlamydophila pneumoniae
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     - Diphtheria
         - **Eitiology of diphtheria**
@@ -119,20 +106,7 @@ Updated: August 28, 2022 9:50 PM
             
             Throat swab and culture on Hoyle’s medium (contains tellurite)
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Treatment of diphtheria**
             
@@ -190,56 +164,17 @@ Updated: August 28, 2022 9:50 PM
     
     Respiratory distress - assume tripod like position (lean foward, hyperextension of the neck, chin protrusion) to breath better
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Lateral neck XR of acute epiglottitis and morphology of epiglottis**
     
     Thumb sign in lateral neck XR indicating swollen epiglottis
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Epiglottis looks erythematous and oedematous
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Epidemiology of acute epiglottitis**
     
@@ -306,20 +241,7 @@ Updated: August 28, 2022 9:50 PM
     
     Osteomyelitis of frontal bone (frontal sinus or ethmoid cell) - pott’s puffy tumour
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Diagnosis of sinusitis**
     
@@ -387,20 +309,7 @@ Updated: August 28, 2022 9:50 PM
     
     Physical examination - erythema in tympanic membrane, fluid in middle ear
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Diagnosis of otitis media**
     
@@ -416,16 +325,4 @@ Updated: August 28, 2022 9:50 PM
     
 - Complications of otitis media [Edit [[Edit Later\|Edit Later]]
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
