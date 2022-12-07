@@ -223,20 +223,7 @@ Updated: October 11, 2022 10:45 AM
     
     Classical and El Tor O1 V. cholerae are further classified into Ogawa and Inaba serotypes
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     It should be noted that Vibrio cholerae O1 and O139 serotypes cause severe diseases, and have epidemic potentials. 
     
