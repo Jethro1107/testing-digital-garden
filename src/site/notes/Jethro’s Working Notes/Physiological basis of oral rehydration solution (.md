@@ -13,20 +13,7 @@ Updated: October 2, 2022 11:17 AM
 
 ORS is a hypo-osmotic solution containing glucose, sodium, chloride, potassium and citrate.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 Glucose is essential as it drives Na+ absorption, and hence, water absorption in the small intestines, as [[Absorption of carbohydrates is mediated by by Na+ dependent transport and facilitated diffusion\|Absorption of carbohydrates is mediated by by Na+ dependent transport and facilitated diffusion]].
 
