@@ -46,37 +46,11 @@ Updated: September 20, 2022 9:19 PM
         
         Once entering plasma, Apo CII and ApoE are transferred from HDL into chylomicrons, where ApoCII is for activation of Lipoprotein C lipase (LPL), and ApoE is used for recognition by hepatic receptors
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         In periphheral tissues, lipoprotein C lipase on capillary endothelial cell is activated by ApoCII on chylomicrons, which hydrolyze TAG in chylomicrons into fatty acids and glycerol, where FA is uptake by peripheral tissue, mainly adipocytes for accumulation of TAG, and glycerol is transported to liver
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         90% of TAG in chylomicrons are hydrolyzed by LPL, causing decrease in size and increase in density as it remodels into chylomicron remnants
         
@@ -88,35 +62,9 @@ Updated: August 28, 2022 9:50 PM
         
         ApoE receptor is recycled
         
+        ![[Untitled\|Untitled]]
         
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-        
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Ref: [[Chylomicron metabolism in the context of accumulation of TAG\|Chylomicron metabolism in the context of accumulation of TAG]], [[Marks’ Biochemistry  Transport of dietary lipids in blood\|Marks’ Biochemistry  Transport of dietary lipids in blood]] 
         
@@ -130,20 +78,7 @@ Updated: August 28, 2022 9:50 PM
         
         In periphheral tissues, lipoprotein C lipase on capillary endothelial cell is activated by ApoCII on VLDL, which hydrolyze TAG in chylomicrons into fatty acids and glycerol, where FA is uptake by peripheral tissue, mainly adipocytes for accumulation of TAG, and glycerol is transported to liver
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Most of TAG in VLDL is hydrolysed, causing a decrease in size and increase in density, such that it remodels into IDL
         
@@ -151,20 +86,7 @@ Updated: August 28, 2022 9:50 PM
         
         ApoB100 bind to LDL receptors on hepatic and extrahepatic tissues, resulting in LDL receptor-mediated endocytosis of LDL
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Ref: [[Marks’ Biochemistry  Synthesis of TAG and VLDL and fate of VLDL\|Marks’ Biochemistry  Synthesis of TAG and VLDL and fate of VLDL]] 
         
@@ -185,20 +107,7 @@ Updated: August 28, 2022 9:50 PM
             3. Exchange lipids with other lipoprotein by CETP (cholesteryl ester transfer protein) mediate transfer, which transfers TAG from VLDL into HDL, and transfers cholesteryl ester from HDL to VLDL
     - Overview of lipoprotein metabolism
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
 - Composition of lipoproteins (including size and density)
     - **Composition of chylomicrons**
@@ -231,20 +140,7 @@ Updated: August 28, 2022 9:50 PM
         
     - Overview of density and size of lipoproteins
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
 - Plasma lipoprotein in blood samples
     - **Effects of meals on blood samples and its implication**
@@ -255,20 +151,7 @@ Updated: August 28, 2022 9:50 PM
         
         High lipid diet (fats and oils) - serum becomes turbid
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Hence, in lipid analysis must be carried out when fasting to minimize variation in lipids
         
@@ -280,20 +163,7 @@ Updated: August 28, 2022 9:50 PM
         
         VLDL - turbid appearance
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Lipoprotein migration in gel eletrophoresis**
         
@@ -305,20 +175,7 @@ Updated: August 28, 2022 9:50 PM
         
         VLDL travel faster than LDL despite larger size due to the negatively charged Apolipoproteins
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
 
 ### Dyslipidemia
