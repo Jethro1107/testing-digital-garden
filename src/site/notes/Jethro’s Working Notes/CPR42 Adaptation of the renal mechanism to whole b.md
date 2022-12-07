@@ -69,20 +69,7 @@ Updated: September 20, 2022 9:19 PM
             
             Na+/HCO3- contransporter on basolateral membrane allows for reabsorption of HCO3- 
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Proportion of HCO3- reabsorbed in in proximal tubules**
             
@@ -99,35 +86,9 @@ Updated: August 28, 2022 9:50 PM
             
             HCO3- is reabsorbed via Na+/HCO3- co-transporter on basolateral membrane
             
+            ![[Untitled\|Untitled]]
             
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-            
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
 - Acid-base balance in collecting duct
     - **Cells of collecting duct responsible for acid-base balance**
@@ -141,20 +102,7 @@ Updated: August 28, 2022 9:50 PM
                     
                     Anion-exchanger 1 on basolateral membrane to reabsorb HCO3-, in exchange for another anion
                     
-                    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                    ![[Untitled\|Untitled]]
                     
                 - **Mechanism of action of H+ primary active secretion and HCO3- reabsorption by IC-A**
                     
@@ -166,20 +114,7 @@ Updated: August 28, 2022 9:50 PM
                     
                     Note that similar to H+ secretion in proximal tubules, for each H+ secreted, a HCO3- is reabsorbed, except H+ secretion is carried out by only primary active transport 
                     
-                    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                    ![[Untitled\|Untitled]]
                     
                 - **Involvement of ammonia buffer system in tubules in secretion of H+ by IC-A**
                     
@@ -191,20 +126,7 @@ Updated: August 28, 2022 9:50 PM
                     
                     Efficient H+ secretion depends on the concomitant secretion of ammonia from IC-A
                     
-                    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                    ![[Untitled\|Untitled]]
                     
             - Type B intercalated cells (IC-B)
                 - **Transporters on membrane of IC-B and function**
@@ -215,20 +137,7 @@ Updated: August 28, 2022 9:50 PM
                     
                     H+-ATPase on basolateral membrane for reabsorption of H+
                     
-                    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                    ![[Untitled\|Untitled]]
                     
                 - **Mechanism of action of HCO3- secretion and H+ reabsorption by IC-B**
                     
@@ -238,20 +147,7 @@ Updated: August 28, 2022 9:50 PM
                     
                     H+ is reabsorbed via H+-ATPase on basolateral membrane
                     
-                    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                    ![[Untitled\|Untitled]]
                     
 
 ### Dysregulation of acid-base equilibrium and renal correlations
