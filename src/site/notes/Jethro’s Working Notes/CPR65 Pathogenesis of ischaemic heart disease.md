@@ -23,20 +23,7 @@ Updated: September 20, 2022 9:19 PM
             - Cardiac muscles
             - Extensive vasculature
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
     
     - Cardiac muscles as a syncytium
@@ -60,20 +47,7 @@ Updated: August 28, 2022 9:50 PM
                     
                     AV bundle branches
                     
-                    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                    ![[Untitled\|Untitled]]
                     
             - 2. Circumflex artery (LCX of left coronary trunk)
                 - **Areas of perfusion of circumflex artery**
@@ -93,20 +67,7 @@ Updated: August 28, 2022 9:50 PM
                     
                     Posterior-basal part of left ventricle
                     
-                    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                    ![[Untitled\|Untitled]]
                     
             
             Cf: [[CPR17  Gross anatomy of the heart - coronary arteries\|CPR17  Gross anatomy of the heart - coronary arteries]]
@@ -120,20 +81,7 @@ Updated: August 28, 2022 9:50 PM
             - During systole, coronary vessels (intramural arteries) are compressed, resulting in decreased blood flow in systole
             - Hence, coronary blood flow is higher in diastole
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Effects of heart rate on diastolic time and its physiological significance**
             
@@ -141,39 +89,13 @@ Updated: August 28, 2022 9:50 PM
             
             This serves as a protective mechanism to prevent the heart from working too fast for too long
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
             Note: While diastolic time is reduced, an increased heart rate results in decreased PO2 and adenosine production, causing vasodilation and thus a net increase in coronary perfusion
             
         - Atherosclerosis
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
             Cf: [[CPR60  Atherosclerosis and disrupted circulation\|CPR60  Atherosclerosis and disrupted circulation]] 
             
@@ -286,20 +208,7 @@ Updated: August 28, 2022 9:50 PM
                 
                 Associated with disruption of atherosclerotic plaque, superimposed thrombosis, embolization of thrombus and/or vasospasm, resulting in an incommplete occlusion of an epicardial coronary artery
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
         - Variant angina (Vasospastic/prinzmetal angina)
             - **What is variant angina?**
@@ -330,20 +239,7 @@ Updated: August 28, 2022 9:50 PM
     
     Microvascular injury (>1 hour) - Microvascular thrombosis
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 **Principle of diagnosis of myocardial infarction: detection of myocyte death**
@@ -378,20 +274,7 @@ Updated: August 28, 2022 9:50 PM
     
     Infarct first occur at subendocardial zone, and extends outwards to involve the entire wall thickness
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Pattern of myocardial infarct**
     
@@ -399,20 +282,7 @@ Updated: August 28, 2022 9:50 PM
     
     Non-transmural infarct - does not involve the entire thickness
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Cf: [[Robbins  Patterns of myocardial infarction [[(MI)\|Robbins  Patterns of myocardial infarction [[(MI)]]]] 
     
@@ -447,19 +317,6 @@ Updated: August 28, 2022 9:50 PM
     
     Chronic heart failure
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Ref: [[Robbins  Consequences and Complications of Myocardial infarction (MI)\|Robbins  Consequences and Complications of Myocardial infarction (MI)]]
