@@ -25,20 +25,7 @@ Nucleos(t)ide reverse transcriptase inhibitor is a drug that can be used for the
     
     It binds to the growing viral DNA chain, causing premature chain termination, and prevents DNA elongation.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-ide%20reverse%20transcriptase%20inhibitors%20(NR%20e832f2307093404b9cb8e005ea1deb0e/Untitled.png)
+    ![[Untitled\|Untitled]]ide%20reverse%20transcriptase%20inhibitors%20(NR%20e832f2307093404b9cb8e005ea1deb0e/Untitled.png)
     
 - ******************************************Clinical use of NRTIs******************************************
     
@@ -52,17 +39,4 @@ ide%20reverse%20transcriptase%20inhibitors%20(NR%20e832f2307093404b9cb8e005ea1de
     
 - Pros and cons of NRTIs
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-ide%20reverse%20transcriptase%20inhibitors%20(NR%20e832f2307093404b9cb8e005ea1deb0e/Untitled%201.png)
+    ![[Untitled\|Untitled]]ide%20reverse%20transcriptase%20inhibitors%20(NR%20e832f2307093404b9cb8e005ea1deb0e/Untitled%201.png)
