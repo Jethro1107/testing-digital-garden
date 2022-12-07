@@ -19,20 +19,7 @@ The spinal cord receives arterial supply from 3 sets of blood vessels, 1 anterio
     
     The anterior spinal artery supplies the anterior 2/3 of the spinal cord, everything anterior to the dorsal (posterior) horns of the gray matter.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **************************************************Posterior spinal arteries**************************************************
     
@@ -40,20 +27,7 @@ Updated: August 28, 2022 9:50 PM
     
     They supply the posterior 1/3 of the spinal cord, including the dorsal column and dorsal horn of grey matter.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ******************************************************************************************************Radicular arteries and segmental medullary arteries******************************************************************************************************
     
@@ -64,16 +38,4 @@ Updated: August 28, 2022 9:50 PM
     The largest, artery of Adamkiewicz reinforce the longitudinal trunks at the left intervertebral foramina of T10.
     
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
