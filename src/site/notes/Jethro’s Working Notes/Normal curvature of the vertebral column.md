@@ -19,16 +19,4 @@ Thoracic kyphosis and sacral kyphosis are considered to be *********************
 
 Cervical lordosis and lumbar lordosis are considered to be **secondary curvatures**, as they develop during infancy and childhood (from the extension of flexed fetal positiosn). This is why people consider the first time babies raise their heads or sit up to be major achievements.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
