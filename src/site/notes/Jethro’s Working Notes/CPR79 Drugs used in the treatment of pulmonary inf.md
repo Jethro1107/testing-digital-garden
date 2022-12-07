@@ -52,20 +52,7 @@ Updated: October 12, 2022 11:39 AM
     
     Fluoroquinolones
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 ### Penicillin
@@ -99,20 +86,7 @@ Updated: August 28, 2022 9:50 PM
     
     In Gram negative (G-) bacteria, it requires active transport via hydrophilic channels (e.g. porin channels) across the outer membrane
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Classification of penicillins**
     - Natural penicillins
@@ -120,20 +94,7 @@ Updated: August 28, 2022 9:50 PM
             
             Penicillin G, Penicillin V
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Spectrum of natural penicillins and susceptibility to Beta-lactamases**
             
@@ -160,20 +121,7 @@ Updated: August 28, 2022 9:50 PM
             
             Drug of choice for beta-lactam resistant staphylococcus infections, but less effective than other penicillin due to difficulty of penetration as a result of the bulky side chain
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Administration route of antistaphylococcal penicillin**
             
@@ -190,20 +138,7 @@ Updated: August 28, 2022 9:50 PM
             
             Thus effective against gram-negative bacteria
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
             Similar gram positive coverage as natural penicillin, but with increased effectiveness against gram positive bacilli
             
@@ -230,20 +165,7 @@ Updated: August 28, 2022 9:50 PM
             
             Thus effective against gram-negative bacteria
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
             Effective against many gram-negative bacilli and pseudomonas aeruginosa
             
@@ -275,20 +197,7 @@ Updated: August 28, 2022 9:50 PM
     3. Mutations in genes expressing porins in gram negative bacteria, resulting in tight porins that limit permeability
     4. Increased efflux pumps
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Cf: [[    Resistance    \|    Resistance    ]] 
     
@@ -384,20 +293,7 @@ Updated: August 28, 2022 9:50 PM
     
     Clavulanic acid, Tazobactam, sulbactam, Avibactam
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **MOA of beta-lactamase inhibitors**
     
@@ -405,20 +301,7 @@ Updated: August 28, 2022 9:50 PM
     
     Formulated with many beta-lactam derivatives to protect them from enzymatic inactivation by beta-lactamase
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 ### Macrolide antibiotics
@@ -437,20 +320,7 @@ Updated: August 28, 2022 9:50 PM
     
     This inhibits protein synthesis
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Cf: [[Mechanism of Action Macrolides - YouTube - Elsevier India\|Mechanism of Action Macrolides - YouTube - Elsevier India]] 
     
@@ -469,20 +339,7 @@ Updated: August 28, 2022 9:50 PM
             
             Active against intracellular organisms, e.g. Chlamydia and legionella
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
     - Azithromycin
         - **Spectrum of azithromycin**
@@ -518,20 +375,7 @@ Updated: August 28, 2022 9:50 PM
     
     Inactivation of macrolide by macrolide esterase, phosphotransferase or glycosyltransferase
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Genetic modification of 50S subunit binding site, by:
     
@@ -554,20 +398,7 @@ Updated: August 28, 2022 9:50 PM
     
     This prevents the addition of amino acids to the growing peptide chain, thus inhibiting protein synthesis
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Derivatives of tetracycline**
     - Doxycycline
@@ -648,20 +479,7 @@ Updated: August 28, 2022 9:50 PM
             
             Nalidixic acid
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Spectrum of 1st generation quinolones**
             
@@ -674,20 +492,7 @@ Updated: August 28, 2022 9:50 PM
             
             Ciprofloxacin, Ofloxacin
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Spectrum of 2nd generation quinolones**
             
@@ -700,20 +505,7 @@ Updated: August 28, 2022 9:50 PM
             
             Levofloxacin
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Spectrum of 3rd generation quinolones**
             
@@ -726,20 +518,7 @@ Updated: August 28, 2022 9:50 PM
             
             Moxifloxacin
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Spectrum of 4th generation quinolones**
             
