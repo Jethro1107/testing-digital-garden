@@ -24,20 +24,7 @@ There are 3 phases of gastric secretions: 1) Cephalic phase, 2) Gastric phase an
     - In the body of the stomach, postganglionic vagus muscarinic neurons release acetylcholine.
     - In the antrum of the stomach, postganglionic vagus peptidergic neurons release gastrin-releasing peptides (GPR), which stimulates the release of gastrin by G cells.
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     
     Gastric phase (6-70% of gastric acid secretion):
@@ -67,16 +54,4 @@ Updated: August 28, 2022 9:50 PM
         1. Distension of the duodenum, presence of fatty, acidic and hypertonic chyme triggers the enterogastric reflex.
         2. Intestinal factors such as Secretin (released by S cells), gastric inhibitory peptide/ glucose dependent insulinotrophic peptide (released by K cells), and cholecystokin (secreted by I cells) inhibits gastric secretions.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
