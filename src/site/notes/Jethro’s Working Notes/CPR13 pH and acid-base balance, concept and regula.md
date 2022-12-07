@@ -17,20 +17,7 @@ Updated: September 20, 2022 9:19 PM
     - Strong acids vs weak acids
     - **Examples of non-volatile acids**
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Examples of volatile acids**
         - CO2
