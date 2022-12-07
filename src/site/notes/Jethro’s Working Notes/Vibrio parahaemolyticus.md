@@ -33,20 +33,7 @@ Updated: October 8, 2022 12:36 PM
     
     Bacterial diagnosis is made by stool culture on TCBS medium ([[Jethro’s Working Notes/TCBS medium differentiates Vibrio species\|TCBS medium differentiates Vibrio species]]), which results in green colonies.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Management of Vibrio parahaemolyticus infection**
     
