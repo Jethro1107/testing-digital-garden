@@ -15,20 +15,7 @@ Updated: September 20, 2022 9:19 PM
 
 - **Epidemiology of urinary tract infections**
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Women:men ratio = 30:1
     
@@ -55,20 +42,7 @@ Updated: August 28, 2022 9:50 PM
     
     Defense/ Mechanical barrier - flushing effect of urine
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Adaptive immunity:
     
@@ -98,20 +72,7 @@ Updated: August 28, 2022 9:50 PM
     
     Klebsiella pneumoniae
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - Entry of urinary tract infection agents
     - **Mode of entry of common urinary tract infection agents**
@@ -172,20 +133,7 @@ Updated: August 28, 2022 9:50 PM
         
         Urease - formation of urinary stones
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Cf: [[  Urease - catalyzes the breakdown of urea into CO2 and NH3  \|  Urease - catalyzes the breakdown of urea into CO2 and NH3  ]] 
         
@@ -255,20 +203,7 @@ Updated: August 28, 2022 9:50 PM
             
 - Common terms
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Note that relapse and reinfection is difficult to distinguish
     
@@ -291,20 +226,7 @@ Updated: August 28, 2022 9:50 PM
             
             Nitrates react with substrates within the strip to produce a pink colour, thus indicating bacteriuria
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Limitations of dipstick test of inferring bacteriuria**
             
@@ -321,20 +243,7 @@ Updated: August 28, 2022 9:50 PM
             
             Leukocyte esterase reacts with substrate on dipstick test to give purple colour, thus indicating pyuria
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Limitations of dipstick test of inferring pyuria**
             
@@ -374,20 +283,7 @@ Updated: August 28, 2022 9:50 PM
     
     Only pregnant women, people before urological operations and children (with ureterovesicular reflux) requires treatment for asymptomatic bacteriuria
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 ### Acute and chronic bacterial prostatitis
@@ -430,20 +326,7 @@ Updated: August 28, 2022 9:50 PM
         
         Requires a positive 4 glass or 2 glass test
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         4 glass test - Positive if culture shows pathogen in prostatic samples (EPS and VB3) exclusively or at least 10 times that of urethral sample (VB1) and bladder sample (VB2)
         
