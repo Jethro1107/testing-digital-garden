@@ -11,20 +11,7 @@ Updated: September 20, 2022 9:19 PM
 
 ### Learning outcomes
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 ### LO I.2: Chronic hypertension is associated with a host of complications
 
