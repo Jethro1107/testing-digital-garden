@@ -27,20 +27,7 @@ Updated: November 8, 2022 9:16 AM
     
     There is neutrophilic infiltration into the gastric mucosa.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 ### Chronic gastritis
@@ -55,16 +42,4 @@ Updated: August 28, 2022 9:50 PM
     
     In cases of ‘active’ chronic gastritis, neutrophils are mixed with the chronic inflammatory cells.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
