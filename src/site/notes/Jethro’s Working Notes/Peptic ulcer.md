@@ -23,20 +23,7 @@ Updated: November 24, 2022 10:10 PM
     
     Gastric ulcers are usually caused by inadequate defensive factors (against normal aggressive factors). Duodenal ulcers are usually caused by excess aggressive factors (against normal amounts of defensive factors.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     The imbalance of aggressive and defensive factors is largely associated with [[Jethro’s Working Notes/Helicobacter pylori\|Helicobacter pylori]] infections, drugs, cigarette smoking, and hypercalcemia.
     
@@ -52,40 +39,14 @@ Updated: August 28, 2022 9:50 PM
     
     Acute peptic ulcers usually involve the formation of multiple, shallow ulcers. Histologically, there is erosion of the mucosa only, involving less than the full thickness of the mucosa.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Histopathology of peptic ulcers**
     1. Loss of mucosa (or even deeper layers).
     2. Granulation tissue formation as a result of healing.
     3. Necrotic cellular debris and fibrinous exudates.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Clinical features of peptic ulcers**
     
