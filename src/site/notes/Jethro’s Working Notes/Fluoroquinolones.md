@@ -39,20 +39,7 @@ Fluoroquinolones (and quinolones) are antibiotics that inhibit nucleic acid synt
             
             Nalidixic acid (unfluorinated)
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Spectrum of 1st generation quinolones**
             
@@ -63,20 +50,7 @@ Updated: August 28, 2022 9:50 PM
             
             Ciprofloxacin, Ofloxacin
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Spectrum of 2nd generation quinolones**
             
@@ -89,20 +63,7 @@ Updated: August 28, 2022 9:50 PM
             
             Levofloxacin
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Spectrum of 3rd generation quinolones**
             
@@ -115,20 +76,7 @@ Updated: August 28, 2022 9:50 PM
             
             Moxifloxacin
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Spectrum of 4th generation quinolones**
             
