@@ -15,35 +15,9 @@ Lumbricals (worm-like) muscles are a group of 4 muscles that are associated with
 
 They originate with the from the tendons of the *********************************flexor digitorum profundus) -*********************************  The 4th lumbrical (associated with the pinky) takes its origin from the tendons of the 4th and 5th digit, the 3rd lumbrical takes its origin from the tendons of the 3rd and 4th digits. The 2nd lumbrical takes its origin from the tendons of the 3rd digit, while the 1st lumbrical takes its origin from the tendon of the 2nd digit.
 
+![[Untitled\|Untitled]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 The lumbricals insert on the lateral side of the base proximal phalanx, and also to the extensor expansion on the dorsal side.
 
