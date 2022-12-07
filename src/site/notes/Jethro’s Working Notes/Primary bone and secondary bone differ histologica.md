@@ -21,35 +21,9 @@ It is characterised by random deposition of collagen (hence named woven bone).
 
 Primary bone occurs transiently, eventually, all primary bone will be remodelled into secondary bone.
 
+![[Untitled\|Untitled]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 ### Secondary bone
 
@@ -57,35 +31,9 @@ Most bones are secondary bones.
 
 It is characterised by the organised lamellae of bone tissue, either forming concentric lamellae around a harvesian canal, in an osteon, or parallel to each other (interstitial lamellae).
 
+![[Untitled\|Untitled]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 ### Reference
 
