@@ -21,35 +21,10 @@ The brachial artery is the continuation of the [[Jethro’s Working Notes/Axilla
     
     It also gives rise to an immediate branch, the deep (profundus) brachial artery, which accesses the posterior scapular region via the triangular interval and accompanies along the radial groove of the humerus to supply the posterior compartment of the arm.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ****************************************In the cubital fossa****************************************
     
     The brachial artery descends all the way into the [[Jethro’s Working Notes/Cubital fossa\|Cubital fossa]], lies medially to the biceps tendon, and overlied by the bicipital aponeurosis.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
