@@ -135,20 +135,7 @@ Updated: June 18, 2022 11:20 AM
             
 - Energy Adequacy
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     As we age, energy requirement changes, curve shifts, and thus level of intake to maintain bodyweight changes
     
@@ -207,20 +194,7 @@ Updated: August 28, 2022 9:50 PM
             
             BMI may wrongfully label people as overweight or obese, and must be taken in account with other anthropometric data to determine obesity
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
     - **B**iochemical Data
         - What is biochemical data?
@@ -271,19 +245,6 @@ Updated: August 28, 2022 9:50 PM
                 
                 Example in HK
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
                 Alters policy making and education strategies to improve public health
