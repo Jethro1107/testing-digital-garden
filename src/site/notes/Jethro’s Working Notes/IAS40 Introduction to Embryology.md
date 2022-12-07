@@ -127,20 +127,7 @@ Updated: June 18, 2022 11:20 AM
     
     Tail - consist of middle piece (mitochondria location), principal piece and end piece
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - Describe the morphology of a mature female gamete.
     
@@ -168,20 +155,7 @@ Updated: August 28, 2022 9:50 PM
     2. Penetration of zona pellucida using enzymes from acrosome
     3. Fusion of cell membrane of sperm and oocyte to release sperm DNA into oocyte
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - What is polyspermy? How is it prevented during oocyte penetration?
     
