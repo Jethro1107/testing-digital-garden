@@ -23,19 +23,6 @@ The 33 vertebrae are classified into 5 regions:
 
 The superior 24 vertebrae are movable, while the inferior 9 vertebrae are immovable.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 Related: [[Jethro’s Working Notes/Normal curvature of the vertebral column\|Normal curvature of the vertebral column]]
