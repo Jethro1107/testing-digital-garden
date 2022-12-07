@@ -15,20 +15,7 @@ Acute postinfectious glomerulonephritis is an immune complex mediated glomerulon
 
 It is usually preceded by streptococcal infection 1-4 weeks before in children, but can be caused by other infections
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 ### Etiology of acute postinfectious glomerulonephritis
 
@@ -40,69 +27,17 @@ Deposition of immune complex in the glomerulus, resulting in activation of compl
 
 Light microscopy - Hypercellularity of the glomerulus with neutrophil infiltrates
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 Immunofluorescence microscopy - Granular deposits of IgG and C3
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 Electron microscopy - Electron dense subepithelial humps
 
+![[Untitled\|Untitled]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 ### **Treatment of acute postinfectious glomerulonephritis**
 
