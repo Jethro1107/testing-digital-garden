@@ -17,16 +17,4 @@ Its apex is at the base of the distal phalanx, while its base covers the metacar
 
 Note that the extensor digiti minimi, extensor indicis, and some intrinsic muscles insert to the extensor expansion of the digits, enabling expansion of the digits.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
