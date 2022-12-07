@@ -17,16 +17,4 @@ It descends and courses laterally on the posterior axillary wall, and accesses t
 
 A *superior lateral cutaneous nerve of the arm* originates from the axillary nerve and loops behind the posterior margin of the deltoid muscle to innervate the skin in that region (a small area on the lateral side of the arm near the insertion of the deltoid).
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
