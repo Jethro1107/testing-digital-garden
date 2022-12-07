@@ -29,16 +29,4 @@ Updated: November 14, 2022 9:14 PM
     - Popliteal vein
     - [[Jethro’s Working Notes/Tibial nerve\|Tibial nerve]]
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
