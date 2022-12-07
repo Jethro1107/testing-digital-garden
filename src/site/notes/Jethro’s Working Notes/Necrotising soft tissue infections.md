@@ -25,20 +25,7 @@ Necrotising fasciitis is involves a rapidly spreading infection of the ******dee
     
     Infection of the deep fascia causes thrombosis of penetrating blood vessels, and destruction of nerve. This manifests as necrosis and anesthesia of the superficial layers of the skin.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ******************************************************************Etiology of necrotising fasciitis******************************************************************
     
@@ -91,20 +78,7 @@ A necrotising soft tissue infection involving necrosis of skeletal muscles, usua
     
     - Gram positive box-like bacilli, with the abscence of leukocytes (as they are killed by toxins)
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ************************************************************************Treatment of clostridial myonecrosis************************************************************************
     
