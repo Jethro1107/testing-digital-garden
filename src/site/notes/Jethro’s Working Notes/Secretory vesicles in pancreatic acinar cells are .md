@@ -19,16 +19,4 @@ Secretory granules in pancreatic acinar cells are acidified due to the presence 
     
     When H+ is secreted into acinar lumen with the digestive enzymes, it results in a decrease in luminal pH, and activation of plasma membrane Ca2+ ATPase (PMCA), which pumps out Ca2+ in exchange for luminal H+.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
