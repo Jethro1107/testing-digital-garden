@@ -29,20 +29,7 @@ The following questions are important.
     
     Polyarthritis (≥ 5 joints) - Often indicative of [[Jethro’s Working Notes/Rheumatoid arthritis\|Rheumatoid arthritis]] and other systemic autoimmune disease
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ****************************************************Symmetry of joint symptoms****************************************************
     
@@ -50,20 +37,7 @@ Updated: August 28, 2022 9:50 PM
     
     Assymmetrical involvement of joints is indicative of other spondyloarthritis.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ****************************************************************************Types of joint affected (Site of pain)****************************************************************************
     
@@ -153,20 +127,7 @@ Synovial fluid is analysed in 4 ways:
     - Cultures
     - Special stains are used when suspect gonococcal infections, mycobacterial infections and fungal infections.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 ### Reference:
 
