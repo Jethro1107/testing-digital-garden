@@ -17,20 +17,7 @@ Updated: November 22, 2022 9:26 PM
 
 **The autoimmune response in RA is initiated by CD4+ helper T cells.** As in other autoimmune diseases, genetic predisposition and environmental factors contribute to the development, progression, and persistence of disease. The pathologic changes in RA are mediated by antibodies against self antigens and inflammation induced by cytokines, predominantly those secreted by CD4+ T cells ( [Fig. 26.42](https://www-clinicalkey-com.eproxy.lib.hku.hk/f0220) ).
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 The activated CD4+ T cells release inflammatory mediators that stimulate other inflammatory cells, leading to tissue injury. Although many cytokine mediators can be isolated from inflamed joints, the most important ones include:
 
@@ -53,35 +40,9 @@ RA typically affects small joints of the hands and feet. The synovium becomes gr
 
 **Rheumatoid nodules** are an infrequent manifestation of RA and typically occur in the subcutaneous tissue of the forearm, elbows, occiput, and lumbosacral area. These small masses are firm, nontender, and round to oval. Microscopically, they resemble necrotizing granulomas with a central zone of fibrinoid necrosis surrounded by a prominent rim of activated macrophages and numerous lymphocytes and plasma cells ( [Fig. 26.44](https://www-clinicalkey-com.eproxy.lib.hku.hk/f0230) ). Severe disease may be associated with **leukocytoclastic vasculitis** ( [Chapter 11](https://www-clinicalkey-com.eproxy.lib.hku.hk/#!/content/3-s2.0-B978032353113900011X?scrollTo=%23c00011) ), an acute necrotizing vasculitis of small and large arteries that may involve pleura, pericardium, or lung and evolve into a chronic fibrosing process. Leukocytoclastic vasculitis produces purpura, cutaneous ulcers, and nail bed infarction. Ocular changes such as uveitis and keratoconjunctivitis (similar to Sjögren syndrome, [Chapter 6](https://www-clinicalkey-com.eproxy.lib.hku.hk/#!/content/3-s2.0-B9780323531139000066?scrollTo=%23c00006) ) may also occur.
 
+![[Untitled\|Untitled]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 ## Clinical Features
 
@@ -91,19 +52,6 @@ Involved joints are swollen, warm, and painful. Unlike OA, morning joint stiffne
 
 Inflammation in tendons, ligaments, and occasionally adjacent skeletal muscle frequently accompanies the arthritis and produces characteristic radial deviation of the wrist, ulnar deviation of the fingers, and flexion-hyperextension of the fingers (swan-neck and boutonnière deformities). Radiographic hallmarks include joint effusions and juxta-articular osteopenia with erosions and narrowing of the joint space and loss of articular cartilage ( [Fig. 26.45](https://www-clinicalkey-com.eproxy.lib.hku.hk/f0235) ).
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 RA treatment is aimed at relieving pain and inflammation and slowing or arresting joint destruction. Therapies include corticosteroids, other immunosuppressants such as methotrexate, and, most notably, TNF antagonists, which are effective in many patients. Unfortunately, individuals must be maintained on anti-TNF therapy to avoid disease flares. This long-term treatment with anti-TNF agents predisposes individuals to infection with opportunistic organisms such as *M. tuberculosis* . Other biologic agents that interfere with T- and B-lymphocyte responses have also been approved for therapeutic use.
