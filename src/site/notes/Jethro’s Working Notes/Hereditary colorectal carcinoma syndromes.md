@@ -26,31 +26,6 @@ There are two familial colorectal carcinoma syndromes: 1) Familial adenomatous p
     It is associated with colorectal carcinoma and gastric carcinoma ([[Jethro’s Working Notes/Neoplasia of the stomach\|Neoplasia of the stomach]]), **but with no polyps formed**.
     
 
+![[Untitled\|Untitled]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
