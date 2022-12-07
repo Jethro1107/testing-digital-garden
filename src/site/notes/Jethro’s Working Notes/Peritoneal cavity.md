@@ -21,35 +21,9 @@ The peritoneal cavity is a potential space (serous cavity) in the abdomen, enclo
     
     The greater sac and lesser sac are continuous, at the omental foramen/ epiploic foramen/ foramen of Winslow, just posterior to the hepatoduodenal ligament.
     
+    ![[Untitled\|Untitled]]
     
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-    
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 Within the peritoneal cavity are the [[Mesenteries (Peritoneal [[folds)\|Mesenteries (Peritoneal [[folds)]]]] that connect organs to each other or to the abdominal wall.
