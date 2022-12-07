@@ -18,16 +18,4 @@ The lesser omentum is a peritoneal fold that extends from the lesser curvature o
     2. Hepatogastric ligament
     3. Hepatoesophageal ligament
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
