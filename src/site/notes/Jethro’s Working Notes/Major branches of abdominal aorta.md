@@ -23,16 +23,4 @@ The abdominal branch consist of 3 unpaired anterior branches, 4 paired lateral b
 
 4 paired posterior branches - 4 paired lumbar arteries
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
