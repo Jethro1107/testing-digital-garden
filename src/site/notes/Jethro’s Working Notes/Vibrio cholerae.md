@@ -24,20 +24,7 @@ Updated: October 9, 2022 2:35 PM
     
     Classical and El Tor O1 V. cholerae are further classified into Ogawa and Inaba serotypes
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     It should be noted that Vibrio cholerae O1 and O139 serotypes cause severe diseases, and have epidemic potentials. 
     
@@ -70,20 +57,7 @@ Updated: August 28, 2022 9:50 PM
     
     Microbial diagnosis of cholera via stool culture on TCBS medium ([[Jethro’s Working Notes/TCBS medium differentiates Vibrio species\|TCBS medium differentiates Vibrio species]]), which grows yellow colonies.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Management of cholera**
     
