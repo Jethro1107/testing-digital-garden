@@ -10,9 +10,7 @@ Tags: Haematology, Homeostasis, Medicine, Pharmacology, Physiology
 Updated: November 5, 2022 11:47 AM
 
 ### Selective COX-2 inhibitors increase the risk of thrombosis
-
 In the [[Jethro’s Working Notes/Normal homeostasis of hemostasis\|Normal homeostasis of hemostasis]], whether platelet aggregation occurs to form a primary thrombus depends on:
-
 - Vasodilation, mediated by prostacyclin produced by endothelial cells (COX-1 and COX-2 dependent)
 - Activation of GpIIb/IIIa complex, mediated by thromboxane A2 produced by platelets (COX-1 dependent only)
 
