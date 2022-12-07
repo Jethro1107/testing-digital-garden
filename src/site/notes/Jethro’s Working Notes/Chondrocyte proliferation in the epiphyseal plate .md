@@ -25,20 +25,7 @@ FGF signalling, in most cells results in a mitogenic outcome, *but FGF-FGFR3 sig
     
     This inhibits cell cycle progress from G1 to S, and hence inhibits chondrocyte proliferation.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 [[Gain of function mutations in FGFR3 underlie Achondroplasia, hypochondroplasia and Thanatophoric dysplasia\|Gain of function mutations in FGFR3 underlie Achondroplasia, hypochondroplasia and Thanatophoric dysplasia]].
