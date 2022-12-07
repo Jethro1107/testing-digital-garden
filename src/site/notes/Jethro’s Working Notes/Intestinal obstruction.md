@@ -27,20 +27,7 @@ Updated: September 29, 2022 12:43 PM
     
     Intussusception - A segment of bowel constricts via a peristaltic wave and slides into the immediately distal segment. After insertion, peristaltic waves in the invaginated segment further pushes it inwards, pulling the mesentery along. This results in obstruction, and compromise the messenteric vasculature.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Clinical features (signs and symptoms) of intestinal obstruction**
     
