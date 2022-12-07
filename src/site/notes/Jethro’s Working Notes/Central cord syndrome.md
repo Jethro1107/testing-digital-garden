@@ -36,19 +36,6 @@ Central cord syndrome is the most common incomplete [[Jethro’s Working Notes/S
     
     - As the axons for cervical regions is located more centrally than those for lumbosacral region in the lateral corticospinal tract, muscle weakness in the upper limb is more severe than that in the lower limb.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Cf: [[Jethro’s Working Notes/Physiological anatomy of the spinal cord\|Physiological anatomy of the spinal cord]]
