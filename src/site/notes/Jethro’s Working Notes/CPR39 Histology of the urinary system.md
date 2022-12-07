@@ -38,35 +38,9 @@ Updated: October 10, 2022 9:58 PM
         
         In the renal sinus, several minor calices unite to form a major calyx, where 2 or 3 major calices unite to form the renal pelvis, a funnel-shaped superior end of ureter, connecting with ureter at ureteropelvic junction
         
+        ![[Untitled\|Untitled]]
         
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-        
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     
     Kidneys - Responsible for filtering blood and controlling its composition and urine production, and also hormone production (renin, erythropoietin, calcitriol)
@@ -101,20 +75,7 @@ Updated: August 28, 2022 9:50 PM
         
         Distal convoluted tubule - continuous with junctional tubules and collecting tubules
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     
     - **2 types of nephrons**
@@ -123,20 +84,7 @@ Updated: August 28, 2022 9:50 PM
         
         Juxtamedullary nephron (15-20%) - renal corpuscle close to the medulla, but remains in cortex, with a long loop of Henle
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Microanatomy of a urineferous tubule**
         
@@ -202,20 +150,7 @@ Updated: August 28, 2022 9:50 PM
                             
                             At the tubular pole of the renal corpuscle, the epithelium changes to the simple cuboidal epithelium characteristic of the proximal convoluted tubule
                             
-                            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                            ![[Untitled\|Untitled]]
                             
                     - Visceral layer - inner layer lining glomerulus
                         - **Specialization of visceral epithelium of bowman’s capsule**
@@ -230,20 +165,7 @@ Updated: August 28, 2022 9:50 PM
                             
                             Space between pedicles are filtration slit, where the glomerular filtrate pass through
                             
-                            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                            ![[Untitled\|Untitled]]
                             
             
             Ref: [[Junqueira’s Histology  Structure of renal corpuscles\|Junqueira’s Histology  Structure of renal corpuscles]] 
@@ -281,20 +203,7 @@ Updated: August 28, 2022 9:50 PM
             4. Intercellular junctional complex to separate lumen and basal area, sealing off intercellular space to prevent leaking
             5. Vacuoles at apical surface for tubular secretion of endogenous substances (choline and creatine), and exogenous substances (e.g. penicillin)
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         
         Ref: [[Junqueira’s Histology  Proximal convoluted tubule (PCT)\|Junqueira’s Histology  Proximal convoluted tubule (PCT)]] 
@@ -347,20 +256,7 @@ Updated: August 28, 2022 9:50 PM
             4. Intercellular junctions at apical end to separate apical lumen and basal area, sealing off intercellular space to prevent leaking
             5. Vacuoles at apical surface for tubular secretion
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
     - Collecting tubule/duct
         
@@ -390,20 +286,7 @@ Updated: August 28, 2022 9:50 PM
 - Renal blood circulation
     - **Renal circulation**
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Each kidney receives blood from a renal artery, which branch into two or more segmental artery at the hilum
         
@@ -421,20 +304,7 @@ Updated: August 28, 2022 9:50 PM
         
         Arcuate veins drain into interlobar veins, then into segmental veins and into the renal veins
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - Renal lobe and lobules
         - **What is a renal lobe?**
@@ -483,20 +353,7 @@ Updated: August 28, 2022 9:50 PM
         
         At vascular pole of renal corpuscles, where afferent arteriole, renal corpuscle and distal convoluted tubules meet
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Function of juxtaglomerular apparatus**
         
@@ -514,20 +371,7 @@ Updated: August 28, 2022 9:50 PM
                 
                 Consist of chemoreceptors that **monitor NaCl concentration in filtrate**, in contact with and signal extraglomerular mesangial cells and juxtaglomerular granular cells
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
         - Juxtaglomerular granular (JG) cells
             - **What are JG cells and their function?**
@@ -536,20 +380,7 @@ Updated: August 28, 2022 9:50 PM
                 
                 Involved in synthesis, storage and release of renin
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
         - Extraglomerular mesangial cells/lacis cells
             - **What are extraglomerular mesangial cells and their function?**
@@ -558,20 +389,7 @@ Updated: August 28, 2022 9:50 PM
                 
                 They provide support, and are interconnected with macula densa cells and JG cells with gap junctions, allowing passage of signals from macula densa cells to JG cells, releasing Ca2+ in order to decrease GFR ([[CPR41  Proximal and distal tubular transport\|CPR41  Proximal and distal tubular transport]])
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
 
 ### Functional histology of the ureters
