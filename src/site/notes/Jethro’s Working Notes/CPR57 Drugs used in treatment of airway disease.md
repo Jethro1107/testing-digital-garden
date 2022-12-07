@@ -262,20 +262,7 @@ Updated: September 20, 2022 9:19 PM
                 
                 This can be used to treat severe eosinophilic asthma
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
         - Anti-IL-4 therapy agents
             - **Examples of anti-IL-4 therapy agents**
@@ -357,35 +344,10 @@ Updated: August 28, 2022 9:50 PM
         
         Glucocorticoids + beta-2 agonists (less effective for COPD due to glucocortisoid resistance in COPD)
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - Triple therapy
         
         ICS + LAMA + LABA (not available in HK)
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+        ![[Untitled\|Untitled]]
