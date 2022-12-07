@@ -17,16 +17,4 @@ Once stimulated by adrenocorticotrophic hormone, the adrenal cortex increases sy
 
 Cortisol negatively feedbacks to the hypothalamus, inhibiting the release of CRF, which inhibits release of ATCH by anterior pituitary.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
