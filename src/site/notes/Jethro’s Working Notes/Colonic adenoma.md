@@ -23,34 +23,8 @@ Updated: September 22, 2022 10:10 PM
     
     There are 3 histological subtypes: tubular adenoma (which form tubular shaped glands), villous adenoma (which forms villi-like structures) and tubulovillous adenoma.
     
+    ![[Untitled\|Untitled]]
     
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-    
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Different degree of epithelial dysplasia (low grade and high grade) is present, and is correlated with risk of development into [[Jethro’s Working Notes/Colorectal carcinoma\|Colorectal carcinoma]].
