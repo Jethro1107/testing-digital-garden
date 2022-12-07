@@ -49,20 +49,7 @@ Updated: September 20, 2022 9:19 PM
     
 - **Histological classification of primary lung carcinoma**
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     - Adenocarcinoma
         - **Cells of origin in adenocarcinoma**
@@ -71,20 +58,7 @@ Updated: August 28, 2022 9:50 PM
             
         - **Morphological progression of adenocarcinoma**
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
             Dysplasia → Carcinoma-in-situ → Adenocarcinoma
             
@@ -96,20 +70,7 @@ Updated: August 28, 2022 9:50 PM
             
         - **Growth patterns of adenocarcinoma**
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
             Acinar-predominant: Mucin forming glandular structures
             
@@ -124,20 +85,7 @@ Updated: August 28, 2022 9:50 PM
                 
                 Tumour cells lining the alveolar wall producing large amounts of mucin
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
             - **Clinical features of mucinous carcinoma**
                 
@@ -147,20 +95,7 @@ Updated: August 28, 2022 9:50 PM
                 
                 Poor prognosis
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
     - Squamous cell carcinoma
         - **Risk factors of squamous cell carcinoma**
@@ -185,20 +120,7 @@ Updated: August 28, 2022 9:50 PM
             
             Small cell carcinoma - Invades through the stroma
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Histological features of squamous cell carcinoma**
             
@@ -206,20 +128,7 @@ Updated: August 28, 2022 9:50 PM
             
             Intracellular bridges - Fine cytoplasmic connections between adjacent cells
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         
         Cf: [[Robbins  Squamous cell carcinoma\|Robbins  Squamous cell carcinoma]] 
@@ -237,39 +146,13 @@ Updated: August 28, 2022 9:50 PM
             
             Diffuse sheets of small cells (<3-4 times of lymphocyte) with dysplastic changes (High N:C ratio, hyperchromatic nuclei, with indistinct nucleolus, **fine granular chromatin**)
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
             Necrosis is common due to high mitotic count
             
             Basophilic staining of vessel wall is common due to encrustation of DNA from necrotic tumour cells (Azzopardi effect)
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - Clinical features of small cell lung carcinoma
             
@@ -327,50 +210,11 @@ Updated: August 28, 2022 9:50 PM
         
         M - extent of distant metastasis
         
+        ![[Untitled\|Untitled]]
         
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-        
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Staging of small cell lung carcinoma**
         
@@ -380,20 +224,7 @@ Updated: August 28, 2022 9:50 PM
         
         Extensive stage - cannot be treated with one radiation field
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Cf: [[Small Cell Lung Cancer Stages   American Cancer Society\|Small Cell Lung Cancer Stages   American Cancer Society]] 
         
@@ -449,20 +280,7 @@ Updated: August 28, 2022 9:50 PM
     
     Always rule out metastatic cancer, as metastatic cancer is more common primary tumours
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 ### Targeted therapy in lung cancer therapy
@@ -479,20 +297,7 @@ Updated: August 28, 2022 9:50 PM
             
             Activated by ATP binding to activation loop
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Mechanism of EGFR mutations and its effects**
             
@@ -517,20 +322,7 @@ Updated: August 28, 2022 9:50 PM
             
             This results in a highly expressed fusion gene with oncogenic functions
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Targeted therapy against ALK mutations**
             
@@ -543,35 +335,10 @@ Updated: August 28, 2022 9:50 PM
         
         Tumour cells express PDL1, which binds to PD1 on cytotoxic T cells, thus supressing CD8+ T cell cytotoxicity
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Immunotherapy for PDL1- PD1 checkpoint**
         
         Anti-PDL1 inhibitors and Anti-PD1 inhibitors cause immune checkpoint blockade
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+        ![[Untitled\|Untitled]]
