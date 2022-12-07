@@ -35,20 +35,7 @@ Biomineralization of the bone matrix involves the addition of inorganic matrix t
     
     Collagen secreted by [[Jethro’s Working Notes/Osteoblast\|Osteoblast]]s assemble into fibrils, with hole zones, which facilitate nucleation, and supports Calcium hydroxyapatite deposition.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 As one can see, [[Jethro’s Working Notes/Osteoblast\|Osteoblast]]s lies central to the secretion of organic matrix and the subsequent mineralization to form [[Jethro’s Working Notes/Bone matrix\|Bone matrix]].
