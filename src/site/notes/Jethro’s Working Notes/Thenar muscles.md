@@ -19,20 +19,7 @@ There are 3 thenar muscles: 1) ************************Abductor pollicus brevis*
     
     The abductor pollicus brevis originates from the tubercle of the scaphoid, the tubercle of the trapezium and associated flexor retinaculum. It inserts to the lateral side of the base of the proximal phalanx of the thumb.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     It enables abduction of the thumb, at the metacarpophalangeal joint of the thumb.
     
@@ -42,20 +29,7 @@ Updated: August 28, 2022 9:50 PM
     
     It originates from the tubercle of the trapezium and adjacent flexor retinaculum and inserts at the lateral side of the base of the proximal phalanx of the thumb.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     It enables flexion of the thumb, at the metacarpophalangeal joint.
     
@@ -65,19 +39,6 @@ Updated: August 28, 2022 9:50 PM
     
     It originates from the flexor retinaculum and the tubercle of the trapezium, and inserts at the lateral border of the 1st metacarpal.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     It moves the [[Jethro’s Working Notes/Carpometalcarpal joint of the thumb\|Carpometalcarpal joint of the thumb]], enabling the opposition of the thumb.
