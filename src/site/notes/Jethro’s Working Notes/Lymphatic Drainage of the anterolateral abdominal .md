@@ -15,16 +15,4 @@ Updated: October 22, 2022 12:16 PM
 
 **At a deeper level**, deep lymphatics drain into the parasternal and diaphragmatic lymph nodes.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
