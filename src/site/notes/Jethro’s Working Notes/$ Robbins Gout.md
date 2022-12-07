@@ -39,20 +39,7 @@ Asymptomatic hyperuricemia appears around puberty in males and after menopause i
 
 Inflammation is triggered by precipitation of monosodium urate crystals into the joints, which result in the production of cytokines that recruit leukocytes ( [Fig. 26.46](https://www-clinicalkey-com.eproxy.lib.hku.hk/f0245) ). Macrophages and neutrophils phagocytose the urate crystals. This activates the inflammasome ( [Chapter 3](https://www-clinicalkey-com.eproxy.lib.hku.hk/#!/content/3-s2.0-B9780323531139000030?scrollTo=%23c00003) ) and leads to the secretion of cytokines, including IL-1, which promote accumulation of more neutrophils and macrophages within the joint. A vicious cycle develops as newly recruited inflammatory cells release cytokines, free radicals, proteases, and arachidonic acid metabolites to recruit even more leukocytes. Complement activation by the alternative pathway may also contribute to leukocyte recruitment. Rupture of phagolysosomes induced by ingested urate crystals can cause further release of proteases and inflammatory mediators. The resulting acute arthritis typically remits spontaneously in days to weeks. Repeated attacks of acute arthritis lead eventually to the formation of *tophi,* aggregates of urate crystals and inflammatory tissue in the inflamed synovial membrane and periarticular tissue as well as severe cartilage damage that compromises joint function.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 Open full size imageFigure 26.46Pathogenesis of acute gouty arthritis. Urate crystals are phagocytosed by macrophages and stimulate the production of various inflammatory mediators that elicit the inflammation characteristic of gout. Note that IL-1 stimulates the production of chemokines and other cytokines from a variety of cells. *LTB4,* Leukotriene B4.
 
@@ -67,20 +54,7 @@ Only about 10% of individuals with hyperuricemia develop gout. Other factors lin
     
     Open full size imageFigure 26.47Gout. (A) Joint aspirate from acute gout arthritis demonstrates polarizable needle shape urate crystals in neutrophils. (B) Gouty tophus—an aggregate of dissolved urate crystals is surrounded by reactive fibroblasts, mononuclear inflammatory cells, and giant cells. (C) Needle-shaped urate crystals are easily identified under polarized light.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 **MORPHOLOGY**
