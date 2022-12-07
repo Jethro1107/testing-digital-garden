@@ -69,20 +69,7 @@ Irregular R-R intervals (Irregularly irregular)
 4. Electrolyte imbalance - Hypomagnesia, Hypokalemia
 5. Elevated sympathetic activity
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 ### Complications of Atrial fibrillation
 
