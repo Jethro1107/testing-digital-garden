@@ -19,16 +19,4 @@ The base of the anatomical snuffbox is formed by the scaphoid and trapezium, whi
 
 ********************************************************Terminal parts of the superfical branch of the [[Jethro’s Working Notes/Radial nerve\|Radial nerve]], lie over the anatomical snuffbox.**
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
