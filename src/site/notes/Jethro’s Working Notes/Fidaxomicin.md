@@ -19,20 +19,7 @@ Fidaxomicin is a first in class macrocyclic antibiotic. It has a narrow spectrum
     
     This inhibits mRNA synthesis.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Pharmacokinetics of fidaxomicin**
     
