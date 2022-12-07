@@ -36,20 +36,7 @@ Updated: November 19, 2022 4:56 PM
     3. *Defective intracellular transport of zymogens within acinar cells.*
         - Inappropriate transport of zymogens lysozome compartments results in intracellular activation of zymogens by hydrolases. This results in acinar cell injry.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Etiology of acute pancreatitis**
     
@@ -74,35 +61,9 @@ Updated: August 28, 2022 9:50 PM
     - Destruction of pancreatic parenchyma, resulting in its necrosis
     - Destruction of vascular wall (due to activated elastase activity) and haemorrhage
     
+    ![[Untitled\|Untitled]]
     
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-    
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Clinical features of acute pancreatitis**
     
@@ -145,35 +106,9 @@ Updated: August 28, 2022 9:50 PM
     
     Chronic inflammatory infiltrates around the lobules and ducts.
     
+    ![[Untitled\|Untitled]]
     
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-    
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Complications of chronic pancreatitis**
     
