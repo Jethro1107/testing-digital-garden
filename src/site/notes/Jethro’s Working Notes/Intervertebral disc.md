@@ -21,20 +21,7 @@ Structurally, the intervertebral disc consist of the outer annulus fibrosis and 
     
     The fibres run obliquely from one vertebral body to another, which limits lateral rotation of vertebral bodies.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ********************************Nucleus pulposus********************************
     
@@ -46,20 +33,7 @@ Updated: August 28, 2022 9:50 PM
     
     It also permits some degree of movement between adjacent vertebrae.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 ### Reference:
