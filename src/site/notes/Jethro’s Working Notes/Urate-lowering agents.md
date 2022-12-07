@@ -31,20 +31,7 @@ Urate-lowering agents are mainly used for the **************long-term management
     
     Alloxanthine in turn non-competitively inhibits xanthine oxidase, thus inhibiting the conversion of Hypoxanthines into xanthines and eventually into uric acids.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     This results in **decreased uric acid synthesis**, and **increase in serum xanthine levels**, which is more soluble.
     
