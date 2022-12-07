@@ -41,20 +41,7 @@ Updated: October 6, 2022 7:57 PM
         - Myocardial conducting (pacemaker) cells - constitute the cardiac conduction system, able to generate action potential on their own (unable to generate contractile force)
         - Myocardial contractile cells - constitute the bulk of cells in the heart, responsible for generating contractile force to pump the heart (unable to generate action potential on their own)
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     
     - Cardiac muscles as a syncytium
@@ -76,20 +63,7 @@ Updated: August 28, 2022 9:50 PM
                     - Troponin C (TnC) - for calcium binding
                     - Troponin I (TnI) - for inhibiting myosin head binding with tropomyosin
                     
-                    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                    ![[Untitled\|Untitled]]
                     
                 - **Action of troponin complex in contractile cycle**
                     - Upon binding of Ca2+ to TnC, it results in the structural change of tropomyosin-actin filament which exposes the actin binding site, resulting in actin-myosin interaction and shortening of sarcomere (i.e. contraction) via sliding filament mechanism
@@ -117,20 +91,7 @@ Updated: August 28, 2022 9:50 PM
             - Repolarization (Phase 3) - When membrane potential reaches +5 mV, Ca2+ channels become inactivated and K+ channels open, such that the influx of Ca2+ ceases and K+ diffuses out of the cell forming the outward pottasium current, repolarizing the membrane to -60 mV
             - At -60 mV, K+ channels close and funny channels open, resulting in spontaneous depolarization again
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
 - Electrical activity of myocardial contractile cells
     - **Resting potential of myocardial contractile cells**
@@ -143,20 +104,7 @@ Updated: August 28, 2022 9:50 PM
             - Repolarization - L-type Ca2+ channels are inactivated, and Ca2+ activated K+ channels (delayed rectifier channels) open, resulting in an outward K+ current that repolarizes the membrane
             - Resting potential - Repolarization via inward K+ channel repolarizes membrane to resting potential of -90mV
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
 - Comparison of myocardial pacemaker cells and myocardial contractile cells
 
@@ -176,16 +124,4 @@ Updated: August 28, 2022 9:50 PM
         - Ca2+ shuttled out of cells via action of 2 channels, Ca2+-Na+ exchanger, Ca2+-ATPase
     - As a result, Ca2+ unbinds from troponin and tropomyosin re-covers the actin binding site
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
