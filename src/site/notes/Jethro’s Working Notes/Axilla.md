@@ -21,58 +21,19 @@ The axilla is a body region that serves as a transition between the neck and the
     - Its anterior margin is formed by the posterior border of the clavicle
     - Its posterior margin is formed by the superior border of the scapulae up to the coracoid process
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **********************Anterior axillary wall**********************
     
     The anterior axillary wall is formed by 3 muscles: the superficial [[Jethro’s Working Notes/Pectoralis major\|Pectoralis major]], and the deep [[Jethro’s Working Notes/Pectoralis minor\|Pectoralis minor]] and [[Jethro’s Working Notes/Subclavius\|Subclavius]].
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ****************************************Medial axillary wall****************************************
     
     The medial axillary wall is formed by the upper thoracic wall and associated intercostal tissue, and the overlying [[Jethro’s Working Notes/Serratus anterior\|Serratus anterior]]. Note the presence of the [[Jethro’s Working Notes/Long thoracic nerve\|Long thoracic nerve]], which descends along the medial axillary wall to supply the serratus anterior muscle.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ************************Lateral axillary wall************************
     
@@ -86,20 +47,7 @@ Updated: August 28, 2022 9:50 PM
     - Distal parts of the [[Jethro’s Working Notes/Latissimus dorsi\|Latissimus dorsi]] and the [[Jethro’s Working Notes/Teres major\|Teres major]]
     - Long head of the [[Jethro’s Working Notes/Triceps brachii\|Triceps brachii]]
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ********************************Floor (base) of the axilla********************************
     
