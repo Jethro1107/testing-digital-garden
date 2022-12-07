@@ -14,9 +14,7 @@ Updated: October 5, 2022 10:13 PM
 Unlike the carpometacarpal joint for the other digits, which are hinge joints, the carpometacarpal joint actually operates independently as a synovial saddle joint.
 
 - **Movements of the carpometacarpal joint of the thumb**
-    
     The carpometacarpal joint of the thumb enables:
-    
     - Flexion and extension
     - Abduction and adduction
     - Rotation
@@ -24,15 +22,3 @@ Unlike the carpometacarpal joint for the other digits, which are hinge joints, t
     This enables opposition of the thumb with the other digits, which requires a combination of abduction, flexion and medial rotation.
     
     
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
