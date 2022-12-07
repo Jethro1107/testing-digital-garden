@@ -24,54 +24,15 @@ Unlike, say, microbiological diagnosis for respiratory tract infections, aetiolo
 
 - MacConkey agar - MacConkey agar enables growth, or selective for, of G- bacterias (most enteric bacterias are G- bacterias) and consist of bile salt to inhibit the growth of G+ bacterias. It also differentiates lactose-fermenting bacterias (pink or red colonies), from non-lactose-fermenting bacteria (colourless colonies, while the agar remains yellow).
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - Sorbitol MacConkey agar - Sorbitol MacConkey agar replaces lactose in normal MacConkey agar with sorbitol. Most lactose-fermenting bacteria can also ferment sorbitol (pink colonies), except for EHEC, hence, It is used for differentiating E. Coli O157:H7 (EHEC), as it cannot ferment sorbitol (colourless colonies on yellow agar).
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - XLD agar - XLD agar is an agar used to differentiate salmonella species. Salmonella species produce black colonies
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - TCBS agar - [[Jethro’s Working Notes/TCBS medium differentiates Vibrio species\|TCBS medium differentiates Vibrio species]].
 
