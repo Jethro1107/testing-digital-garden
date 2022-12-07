@@ -64,55 +64,16 @@ Updated: October 12, 2022 9:31 PM
             
             Bronchospasm
             
+            ![[Untitled\|Untitled]]
             
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-            
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
             Ref: [[Robbins  Pathogenesis of asthma\|Robbins  Pathogenesis of asthma]] 
             
         - **Pathology of extrinsic asthma**
             
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
             Mucus plugs due to mucus hypersecretion
             
@@ -168,20 +129,7 @@ Updated: August 28, 2022 9:50 PM
             
             Reversible by bronchodilators (>12% increase in FEV1)
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Outcomes of extrinsic asthma**
             
@@ -258,20 +206,7 @@ Updated: August 28, 2022 9:50 PM
             
             Peribronchial fibrosis
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
             Ref: [[West’s pulmonary pathophysiology  Pathology of chronic bronchitis\|West’s pulmonary pathophysiology  Pathology of chronic bronchitis]] 
             
@@ -310,20 +245,7 @@ Updated: August 28, 2022 9:50 PM
             
             This results in parenchymal destruction, and enlargement of airspaces
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
             Ref: [[Robbins  Pathogenesis of Emphysema\|Robbins  Pathogenesis of Emphysema]] 
             
@@ -333,20 +255,7 @@ Updated: August 28, 2022 9:50 PM
             
             Pale, Soft, hyperinflated lung (due to loss of alveolar tissue and air trapping)
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         
         - **Histopathology of emphysema**
@@ -355,20 +264,7 @@ Updated: August 28, 2022 9:50 PM
             
             Enlarged alveolar spaces
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         
         - **Pathophysiology of emphysema**
@@ -407,16 +303,4 @@ Updated: August 28, 2022 9:50 PM
     
     Association with cancer
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
