@@ -22,20 +22,7 @@ Updated: September 3, 2022 9:20 PM
     The superior and inferior epigastric arteries enter the rectus sheath, and is positioned posterior of the rectus abdominis along its course, and they anastamose with one another.
     
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 ![[Complete Anatomy search  01.003 - Layers of the anterior abdominal wall\|Complete Anatomy search  01.003 - Layers of the anterior abdominal wall]]
 
