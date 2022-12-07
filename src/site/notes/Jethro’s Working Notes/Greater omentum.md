@@ -15,16 +15,4 @@ The greater omentum is a peritoneal fold that extends from the greater curvature
 
 Reflecting posteriorly, the peritoneum of the greater omentum ascends where it becomes adherent to the transverse colon.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
