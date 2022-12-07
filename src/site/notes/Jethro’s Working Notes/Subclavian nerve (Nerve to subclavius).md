@@ -13,17 +13,4 @@ Updated: November 27, 2022 12:29 PM
 
 The subclavian nerve (C5-C6) originates from the superior trunk of the [[Jethro’s Working Notes/Brachial plexus\|Brachial plexus]], and courses anteriorly and inferiorly to innervate the [[Jethro’s Working Notes/Subclavius\|Subclavius]].
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-%205e59fa982e6e40778c49f9c0e3473b5a/Untitled.png)
+![[Untitled\|Untitled]]%205e59fa982e6e40778c49f9c0e3473b5a/Untitled.png)
