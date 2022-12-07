@@ -39,20 +39,7 @@ Updated: September 20, 2022 9:19 PM
         
         Na-K exchange pump on basolateral membrane (supplied by mitochondria) pumps out 3 Na+ into interstitium and 2 K+ into tubular cells creates an electrochemical gradient to drive reabsorption by secondary active transport
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Secondary active transport:
         
@@ -60,39 +47,13 @@ Updated: August 28, 2022 9:50 PM
         
         This results in an increase in concentration of glucose, amino acids and vitamins in the tubular cells, allowing glucose, amino acids and vitamin to leave via the basolateral membrane via facilated facilitated diffusion
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - Secondary active secretion
         
         Sodium antiport carrier proteins, Na+/H+ exchange (NHE) couples Na+ entry into the tubular cells with counter-transport of H+ into the lumen, enabling secondary active secretion of H+
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - Reabsorption of water by osmosis mainly due to Na+ reabsorption
         
@@ -104,20 +65,7 @@ Updated: August 28, 2022 9:50 PM
         
         Water reabsorption by osmosis driven by Na+ reabsorption results in the increase in Cl- and urea in the filtrate, resulting in reabsorption via passive diffusion
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
 - **Effects of reabsorption in proximal tubular cells on osmolality of urine**
     
@@ -144,20 +92,7 @@ Updated: August 28, 2022 9:50 PM
     
     It stimulates release of renin by JG cells, converting angiotensinogen into angiotensin I, which is converted into angiotensin II by Angiotensin converting enzymes in the lungs. Angiiotension II stimulates vasoconstriction of efferent arterioles, thus preventing blood from leaving the glomerulus, increasing glomerular hydrostatic pressure, and hence, restoring GFR
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Angiotensin II stimulates release of aldosterone by adrenal cortex, where aldosterone promotes Na+ reabsorption and secretion of K+
     
