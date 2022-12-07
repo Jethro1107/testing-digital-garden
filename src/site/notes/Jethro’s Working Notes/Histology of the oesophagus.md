@@ -19,20 +19,7 @@ The oesophagus also poccess [[Jethro’s Working Notes/The common histological l
     
     There is nothing distinct about the lamina propria and the muscularis mucosae in the oesophagus.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Features of the submucosa of the oesophagus**
     
@@ -40,20 +27,7 @@ Updated: August 28, 2022 9:50 PM
     
     The submucosal glands of the oesophagus (oesophageal glands) that are responsible for mucus secretion.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Oesophageal glands consist of a clear cytoplasm and a flatteneed nuclei, indicating it being a mucous gland ([[IAS27  Epithelial and Glandular Tissues \|IAS27  Epithelial and Glandular Tissues ]]).
     
@@ -75,20 +49,7 @@ Updated: August 28, 2022 9:50 PM
     
     Note that 2 sublayers can still be seen in the oesophagus, with the myenteric plexus in between the two.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Neurons can be seen as large basophilic cells with large nuclei and prominent nucleoli.
     
