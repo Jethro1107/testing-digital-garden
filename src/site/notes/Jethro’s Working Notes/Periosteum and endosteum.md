@@ -13,24 +13,11 @@ Updated: November 9, 2022 2:08 PM
 
 The external and internal surfaces of the bony matrix is lined by periosteum and endosteum respectively.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 - ********************Periosteum********************
     
-    The perosteum lines the external surface of bone, and consist of 2 layers:
+    The perosteum lines the external surface of bone, and consist of 2 layers: ^86fa0b
     
     - External fibrous layer - Consist of connective tissue and fibroblasts
     - Internal cellular layers - Consist of osteoprogenitor cells that can differentiate into [[Jethro’s Working Notes/Osteoblast\|Osteoblast]] for appositional growth.
@@ -41,16 +28,4 @@ Updated: August 28, 2022 9:50 PM
     It is a thinner layer of connective tissue with osteoprogenitor cells.
     
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
