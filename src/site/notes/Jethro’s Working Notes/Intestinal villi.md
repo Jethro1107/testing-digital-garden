@@ -21,40 +21,14 @@ Intestinal villi are outgrowths of the mucosa in the small intestine. They are m
     
     Goblet cells are mucous secreting cells. They have a wine-glass shape, with the nucleus in the basal region (handle region) and a pale-staining apical region (due to presence of poorly-stained mucinogen molecules).
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     - The number of goblet cells increase from duodenum to ilium.
 - **Structure of the core of loose connective tissue**
     
     The core of loose connective tissue consist of a central lacteal (a lymph capillary that aids lipid and lymph absorption) and fenestrated capillaries involved in absorption of other nutrients.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 ---
