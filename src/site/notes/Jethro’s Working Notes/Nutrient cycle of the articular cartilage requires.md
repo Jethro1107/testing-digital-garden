@@ -17,16 +17,4 @@ During physiological loading, synovial fluid containing nutrients is pushed into
 
 During unloading, the metabolites diffuse back out to the synovial fluid.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
