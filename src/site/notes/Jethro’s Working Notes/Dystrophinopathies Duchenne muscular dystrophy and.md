@@ -64,20 +64,7 @@ Updated: December 1, 2022 10:58 AM
     
     Dystrophin is an large intracellular protein that at one end connects to actin filaments, while the other end connects with membrane glycoprotein complexes to interact with the extracellular matrix.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     It stabilizes muscle fibres during contraction, preventing transient tears in the sarcolemma.
     
@@ -92,20 +79,7 @@ Updated: August 28, 2022 9:50 PM
     - Marked variation of muscle fibre size, due to the regeneration.
     - Increase in space betwen muscle fibres, as a result of fatty replacement and endomysial fibrosis.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ******Investigations of DMD******
     
@@ -117,52 +91,13 @@ Updated: August 28, 2022 9:50 PM
     
     Immunostaining of muscle biopsy reveals abundance of dystrophin.
     
+    ![[Untitled\|Untitled]]
     
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-    
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Western blot - isolation of dystrophin from muscle biopsy and compare the abundance and relative size of dystrophin.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Detection at DNA levels:
     
