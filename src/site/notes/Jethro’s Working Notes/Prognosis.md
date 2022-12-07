@@ -36,37 +36,11 @@ There are two types of prognosis:
     
     They give us the best information regarding prognosis and prognostic factors.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ********************************Inception cohort********************************
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ********************************************************Outcome of prognosis studies********************************************************
     
@@ -79,20 +53,7 @@ Updated: August 28, 2022 9:50 PM
     
     Case fatality rate:
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     - Case fatality rate is largely dependent on the period of time. When too short, it would greatly under-estimate case fatality rate. The longer the follow up, the better the data collected.
 
