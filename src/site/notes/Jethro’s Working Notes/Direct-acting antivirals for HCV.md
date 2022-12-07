@@ -19,20 +19,7 @@ Direct-acting antivirals are a new class of drug used in the treatment of chroni
     
     Simeprevir, Boceprevir, Telaprevir
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ************************************************MOA of NS3/4A inhibitors************************************************
     
@@ -45,20 +32,7 @@ Updated: August 28, 2022 9:50 PM
     
     Ledipasvir, Ombitasvir
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ********************************************MOA of NS5A inhibitors********************************************
     
@@ -80,31 +54,6 @@ Updated: August 28, 2022 9:50 PM
 
 ### NS3/4A inhibitors, NS5A inhibitors, NS5B NI and NS5N differ in terms of genotypical coverage, potency and barriers to resistance
 
+![[Untitled\|Untitled]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
