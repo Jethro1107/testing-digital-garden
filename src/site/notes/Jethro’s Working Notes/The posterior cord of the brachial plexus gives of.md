@@ -28,16 +28,4 @@ The superior subscapular nerve, thoracolumbar nerve and inferior subscapular ner
     The inferior subscapular nerve (C5-C6) lies laterally. It descends down the posterior wall and innervates the lateral end of the subscapularis and the [[Jethro’s Working Notes/Teres major\|Teres major]].
     
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
