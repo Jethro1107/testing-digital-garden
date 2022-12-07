@@ -239,20 +239,7 @@ Updated: June 18, 2022 11:20 AM
         
     - How is the level of Fructose-2,6-bisphosphate controlled? (Write down on paper)
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Synthesis and degradation of Fructose-2,6-P2 is carried out by the same enzyme - Phosphofructokinase 2 (PFK2), which has a kinase catalytic domain and a phosphatase catalytic domain
         
