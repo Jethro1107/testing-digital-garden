@@ -21,16 +21,4 @@ Latissimus dorsi originates from the spinous process of T7 to T12 and the thorac
     
     It enables medial rotation of the shoulder joint.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
