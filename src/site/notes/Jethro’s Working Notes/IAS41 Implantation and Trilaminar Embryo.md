@@ -113,20 +113,7 @@ Updated: June 18, 2022 11:20 AM
     
     The conversion occurs at a cranial to caudal sequence, such that portions of the definitive notochord is formed at the cranial region first
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - Describe the direction of mesoderm migration. Where is mesoderm not present?
     
