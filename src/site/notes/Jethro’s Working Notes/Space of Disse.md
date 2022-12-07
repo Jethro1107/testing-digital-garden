@@ -15,35 +15,9 @@ The space of Disse is the perisinusoidal space between a plate of hepatocytes an
 
 Blood plasma is able to permeate the endothelial wall of [[Jethro’s Working Notes/Hepatic sinusoids\|Hepatic sinusoids]] and bath the microvilli on hepatocytes. This enables the exchange of material.
 
+![[Untitled\|Untitled]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 - Ito cells (hepatic stellate cells) are found in the space of Disse and perform several functions:
     - Vitamin A storage
