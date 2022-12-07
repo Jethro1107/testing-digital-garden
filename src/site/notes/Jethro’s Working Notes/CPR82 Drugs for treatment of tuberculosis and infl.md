@@ -25,20 +25,7 @@ Updated: September 20, 2022 9:19 PM
         
         Minimum of 6 months
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Classification of Drug-resistant tuberculosis**
         
@@ -60,20 +47,7 @@ Updated: August 28, 2022 9:50 PM
             
             FAS-II is required for synthesis of long chain mycolic acid, and thus isoniazid inhibits mycolic acid synthesis of mycobacterium
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Target mycobacterium population in tuberculosis lesion**
             
@@ -114,20 +88,7 @@ Updated: August 28, 2022 9:50 PM
             
             This results in inhibition of transcription of mRNA, thus inhibiting protein synthesis
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Target mycobacterium population in tuberculosis lesion**
             
@@ -177,20 +138,7 @@ Updated: August 28, 2022 9:50 PM
             
             Arabinogalactin is an essential component of mycobacterium cell wall, thus ethambutol inhibits cell wall synthesis
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Target mycobacterium population in tuberculosis lesion**
             
@@ -209,20 +157,7 @@ Updated: August 28, 2022 9:50 PM
             
             Pyrazinoic acid binds to fatty acid synthase I (FAS-I), thus inhibiting synthesis of short chain mycolic acid, therefore inhibiting cell wall synthesis
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Target mycobacterium population in tuberculosis lesion**
             
@@ -243,20 +178,7 @@ Updated: August 28, 2022 9:50 PM
             
             This causes codon misreading, and inhibits protein synthesis
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Administrative routes of streptomycin**
             
@@ -272,20 +194,7 @@ Updated: August 28, 2022 9:50 PM
     
     Cycloserine, amikacin, kanamycin, capreomycin, levofloxacin, ofloxacin, ethionamide
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - Normal anti-tuberculosis regimen in Hong Kong
     
@@ -319,20 +228,7 @@ Updated: August 28, 2022 9:50 PM
     6. Viral assembly - assembly of nucleoplasmid, and transfer of glycoproteins to host cell membrane which acts as the envelope
     7. Budding - Neuramidase cleaves the binding between haemagglutinin with sialic acid-containing receptors to facilitate release and spread of viral particles
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Cf: [[Describe the steps of the virus replication cycle.\|Describe the steps of the virus replication cycle.]] 
     
@@ -341,20 +237,7 @@ Updated: August 28, 2022 9:50 PM
         
         Amantidine, Rimantidine
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **MOA of adamatanes**
         
@@ -399,20 +282,7 @@ Updated: August 28, 2022 9:50 PM
         
         This prevents release of progeny virions
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Examples of neuramidase inhibitors**
         - Oseltamivir
