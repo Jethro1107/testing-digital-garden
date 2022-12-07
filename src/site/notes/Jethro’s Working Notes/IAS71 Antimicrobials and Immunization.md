@@ -71,20 +71,7 @@ Updated: June 18, 2022 11:20 AM
     
     Vancomycin works by occupying D-alanine-D-alanine portion of the tetrapeptide sequence of NAM, thus preventing formation of amino acid cross link to hold glycan layers together
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 ### Assessment of Antibacterial Activity
