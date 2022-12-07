@@ -31,20 +31,7 @@ The rectus sheath only covers the anterior aspect of the rectus abdominis, consi
 
 As a result of the disappearance of the posterior layer of the recuts sheath, the rectus abdominis is in contact with the transversus fascia.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 ---
 
