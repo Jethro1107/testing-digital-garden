@@ -15,20 +15,7 @@ Genu valgum (Knock knee) causes localisation of large amounts of stress to the l
 
 Genu varum (Bow knee) causes localisation of large amounts of stress to the medial tibiofemoral compartment, which predisposes OA of the medial tibiofemoral compartment of the knee.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 ---
 
