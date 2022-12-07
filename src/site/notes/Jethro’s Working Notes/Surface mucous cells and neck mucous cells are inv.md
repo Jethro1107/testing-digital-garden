@@ -21,16 +21,4 @@ The loosely adherent outer layer is constantly rubbed off and mixed with gastric
 - The bicarbonate in the firmly adherent mucous layer titrates the H+ that diffuse back across the mucous gel layer. This protects the gastric mucosa from corrosive acid.
 - The high pH of of the firmly adherent gel layer irreversibly inactivates pepsin ([[Pepsinogen is an inactive zymogen released by chief cells\|Pepsinogen is an inactive zymogen released by chief cells]]). This protects the gastric mucosa from penetrated pepsin.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
