@@ -18,20 +18,7 @@ For most bones:
 - The diaphyses is made of predominantly compact bones.
 - The epiphyses is made of spongy bone at the core, surrounded by a layer of compact bone.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 ### Compact bone
 
@@ -41,52 +28,13 @@ The anatomical and functional unit of compact bone is an osteon (Harvesian syste
 
 Harvesian systems communicate with each other by perforating canals (Volkmann’s canal), which is not surrounded by concentric lamellae of bone tissue. Together, they supply nutrients to [[Jethro’s Working Notes/Osteocyte\|Osteocyte]]s via cannaliculi.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 Histologically, Harvesian system/ Osteon overlap one another due to constant bone remodelling.
 
+![[Untitled\|Untitled]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 ### Spongy bone
 
@@ -99,20 +47,7 @@ The marrow cavity it surrounds is highly vascular and consist of ***************
 - [[Jethro’s Working Notes/Haematopoiesis\|Haematopoiesis]]
 - Maintaining Ca2+ homeostasis
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 Relative to compact bone, it is weaker, more flexible and has a greater surface area.
 
