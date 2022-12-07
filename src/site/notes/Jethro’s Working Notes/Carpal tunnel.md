@@ -25,20 +25,7 @@ The flexor retinaculum is a specialised deep fascia that connects the edges of t
     
     ****************************************However, the carpal tunnel is avascular.****************************************
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 The flexor retinaculum presses the tendons to the bony plane, preventing bow-stringing of the tendons.
