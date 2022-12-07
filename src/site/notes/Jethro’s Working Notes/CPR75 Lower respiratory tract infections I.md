@@ -41,54 +41,15 @@ Updated: September 20, 2022 9:19 PM
     
     Precedent URTI
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Radiological findings of croup**
     
     Steeple sign - tapering of trachea up the lumen
     
+    ![[Untitled\|Untitled]]
     
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-    
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Diagnosis of croup**
     
@@ -98,20 +59,7 @@ Updated: August 28, 2022 9:50 PM
     
     Nucleic acid amplification
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Cf: [[Croup  Clinical features, evaluation, and diagnosis - UpToDate\|Croup  Clinical features, evaluation, and diagnosis - UpToDate]] 
     
@@ -190,20 +138,7 @@ Updated: August 28, 2022 9:50 PM
     
     *Not just a childhood disease
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Diagnosis of pertussis**
     
@@ -227,20 +162,7 @@ Updated: August 28, 2022 9:50 PM
     
     Acellular vaccines in childhood immunization programme (DTaP-IPV)
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Also suggest pregnant women for pertussis vaccination to pass passive imunity to neonates
     
@@ -265,20 +187,7 @@ Updated: August 28, 2022 9:50 PM
     
     Many etiologies
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - Approach to pneumonia
 - **Sputum examination in pneumonia**
@@ -341,20 +250,7 @@ Updated: August 28, 2022 9:50 PM
             
             Signs - Tachypnoea, increased work of breathing, bronchial breath sounds, rales (crepitations/crackles), tactile fremitus, egophony, dullness
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
             Cf: [[Overview of community-acquired pneumonia in adults - UpToDate\|Overview of community-acquired pneumonia in adults - UpToDate]] 
             
@@ -438,39 +334,13 @@ Updated: August 28, 2022 9:50 PM
                 
                 Urine antigen test
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
                 Nucleic acid amplification
                 
                 Culture - BCYE medium (charcoal based)
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
             - **Antimicrobial therapy for legionellosis**
                 
@@ -539,20 +409,7 @@ Updated: August 28, 2022 9:50 PM
         
         Lung abscess refers to a localized area of suppurative necrosis within the pulmonary parenchyma, resulting in the formation of one or more large cavities
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Predisposing factors of lung abscess**
         
@@ -574,35 +431,9 @@ Updated: August 28, 2022 9:50 PM
         
         Collection of air and pus within cavity, with a air-fluid level
         
+        ![[Untitled\|Untitled]]
         
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-        
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
 - Empyema thoracis
     
@@ -613,20 +444,7 @@ Updated: August 28, 2022 9:50 PM
         
         On gross anatomy, yellowish pus covers the lung surface
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Predisposing factors of empyema thoracis**
         
