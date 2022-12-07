@@ -17,20 +17,7 @@ Ankle joint is the articulation between the tallus ([[Jethro’s Working Notes/B
     
     It is classified as a synovial hinge joint, enabling dorsiflexion and plantarflexion.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Stabilization of the ankle joint**
     
@@ -45,20 +32,7 @@ Updated: August 28, 2022 9:50 PM
     - Anterior tibiotalar ligament
     - Posterior tibiotalar ligament
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     **Lateral ligament**
     
@@ -68,35 +42,10 @@ Updated: August 28, 2022 9:50 PM
     - Posterior talofibular ligament - which attaches the tallus and the fibula posteriorly.
     - Calcaneofibular ligament - which attaches the calcaneus and the fibula laterally.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **The ankle joint is more stable in dorsiflexion than in plantarflexion**
     
     Note when viewed superiorly, the anterior parts of the tallus is wider than the posterior part, such that in dorsiflexion, the tallus is inserted more tightly into the notch. Furthermore, the tibiofibular ligaments are taut in this position.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
