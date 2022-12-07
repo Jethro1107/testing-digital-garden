@@ -14,20 +14,7 @@ Updated: June 14, 2022 10:20 PM
 
 ### WHO and Asia-pacific have different cut-offs for BMI
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 ### Good Samaritan actions - would you even do these?
 
