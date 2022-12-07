@@ -46,20 +46,7 @@ Updated: September 20, 2022 9:19 PM
     
     Dose dependent, in general doubling of dose results in 5% increase in reduction of LDL-C
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     - **Genetic defects causing attenuated statin response**
         
@@ -225,20 +212,7 @@ Updated: August 28, 2022 9:50 PM
         
         Cholestyramine, cholestipol, colesevelam
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **MOA of resins**
         
@@ -315,20 +289,7 @@ Updated: August 28, 2022 9:50 PM
         
 - Overview
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 ### Newer lipid lowering drugs
@@ -340,20 +301,7 @@ Updated: August 28, 2022 9:50 PM
         
         This reduces recycling of LDL receptors
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Examples of PCSK9 inhibitors**
         
@@ -400,20 +348,7 @@ Updated: August 28, 2022 9:50 PM
         
     - **Metabolism of ACL inhibitors**
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Clinical use of ACL inhibitors**
         
@@ -526,16 +461,4 @@ Updated: August 28, 2022 9:50 PM
     
     Ezetimibe + PCSK9 inhibitor
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
