@@ -23,20 +23,7 @@ At different segments of the intestine, fluid absorption by enterocytes is media
     
     In the ileum and the proximal colon, Cl- is reabsorbed by apical Cl-/HCO3- exchanger, which pumps out HCO3- in exchange for luminal Cl-. Cl- leaves the enterocyte via basolateral Cl- channels.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **In the proximal colon, active Na+ absorption is mediated by 2 mechanisms:**
     
@@ -44,20 +31,7 @@ Updated: August 28, 2022 9:50 PM
     
     Apical NHE co-transports pumps H+ and pumps in Na+. This is coupled with Cl-/HCO3- exchanger.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Na+ absorption creates a positive potential and a hyperosmotic interstitium, which drives absorption of Cl- and water.
     
@@ -71,16 +45,4 @@ Updated: August 28, 2022 9:50 PM
     
     When dehydrated, aldosterone released results in increased synthesis and and insertion of ENaC into the apical membrane, driving Na+ and water absorption as a last ditch attempt to avoid excessive water loss.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
