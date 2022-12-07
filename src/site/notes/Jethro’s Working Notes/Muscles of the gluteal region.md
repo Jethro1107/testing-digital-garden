@@ -44,20 +44,7 @@ The superficial group of muscles of the gluteal region includes: 1) ******Glutea
     It works with the gluteal medius to abduct the hip joint.
     
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 ### Deep group of muscles of the gluteal region
 
@@ -90,16 +77,4 @@ Together, they enable lateral rotation of the hip joint.
     The obturator externus originates from the external surface of the obturator membrane, where it courses posteriorly, then turns 90 degrees to insert onto the posterior surface of the greater tubercle.
     
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
