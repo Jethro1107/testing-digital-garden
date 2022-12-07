@@ -27,20 +27,7 @@ Tetanus is a prototypical toxin-mediated infection.
     
     It is a toxin-mediated infection, largely mediated by tetanus toxin:
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ********************************************************Clinical features of tetanus********************************************************
     
