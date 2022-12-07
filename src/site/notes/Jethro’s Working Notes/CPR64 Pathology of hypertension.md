@@ -57,20 +57,7 @@ Updated: September 20, 2022 9:19 PM
                 
                 Regulation of sodium homeostasis (dietary sodium, renin status, aldosterone, atrial natriuretic peptide) and its effect on blood volume affects venous return, preload and thus stroke volume
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
         - Total peripheral resistance
             
@@ -78,20 +65,7 @@ Updated: August 28, 2022 9:50 PM
             - **Determinants of resistance to blood flow**
                 - Hagen-Poiseuille law states that the resistance of flow in an idealised system i.e. viscous fluid in a straight rigid, cylindrical, unbranched tube) is espressed by:
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
                 - Resistance is directly proportional to viscosity of the blood and length of the vessel, and inversely proportional to the fourth power of the radius
                 - Radius of the blood vessel is the greatest determinant of resistance
@@ -103,20 +77,7 @@ Updated: August 28, 2022 9:50 PM
                 
                 Vasodilators - Prostaglandin, NO
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
     - **Renal control of blood pressure**
         
@@ -132,20 +93,7 @@ Updated: August 28, 2022 9:50 PM
         
         Angiotensin II stimulates release of aldosterone, which promotes tubular reabsorption of Na+ and water in distal tubules
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Autonomic control of blood pressure**
         
@@ -182,20 +130,7 @@ Updated: August 28, 2022 9:50 PM
             
         - Pathogenesis is multifactorial
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
     - Secondary hypertension (uncommon - 5%)
         - **Common pathogenic mechanisms of secondary hypertension**
@@ -225,35 +160,9 @@ Updated: August 28, 2022 9:50 PM
             
             Left ventricular hypertrophy - caused by increased afterload, resulting in increased workload for left ventricle, and thus hypertrophy
             
+            ![[Untitled\|Untitled]]
             
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-            
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
     - Vessels
         - **Pathological changes in the vessels**
@@ -262,20 +171,7 @@ Updated: August 28, 2022 9:50 PM
             
             Small vessels - Hypertrophy,Aneurysm, Fibrinoid necrosis (usually in malignant hypertension)
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
             Ref: [[Vascular remodelling in chronic elevated blood pressure\|Vascular remodelling in chronic elevated blood pressure]]
             
