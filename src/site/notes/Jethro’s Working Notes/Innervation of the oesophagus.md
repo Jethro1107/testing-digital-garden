@@ -20,16 +20,4 @@ Only the distal 2/3 of the oesophagus consist of smooth muscles ([[Jethro’s Wo
     - Sympathetic innervation is provided by sympathetic nerve fibres arising from T2-T6.
     - Parasympathetic innervation is provided by vagus nerve.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
