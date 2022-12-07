@@ -40,39 +40,13 @@ Synthetic glucocorticoid, at therapeutic doses, can serve as an anti-inflammator
     Glucocorticoid mediates its anti-inflammatory effects by stimulating or inhibiting certain genes:
     
     - It stimulates the expression of Lipocortin (Annexin-1), which inhibits phospholipase A2, which is required for conversion of membrane phospholipids into arachidonic acid, thus suppressing eicosinoid production.
-    - It inhibits the expression of inducible cycloxygenase (COX-2), thus inhibiting prostanoid synthesis and inflammation ([[Prostanoid lies central to the inflammatory response\|Prostanoid lies central to the inflammatory response]]).
+    - It inhibits the expression of inducible cycloxygenase (COX-2), thus inhibiting prostanoid synthesis and inflammation ([[Jethro’s Working Notes/Prostanoid lies central to the inflammatory response\|Prostanoid lies central to the inflammatory response]]).
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - It also targets more upstream inflammatory pathways, by inhibiting synthesis of pro-inflammatory cytokines such as TNF-alpha and IL-1.
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     
     Its overall anti-inflammatory effects include:
