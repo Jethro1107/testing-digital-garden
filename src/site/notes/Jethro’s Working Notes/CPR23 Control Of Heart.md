@@ -34,20 +34,7 @@ Updated: October 6, 2022 9:26 PM
                 - Repolarization (Phase 3) - When membrane potential reaches +5 mV, Ca2+ channels become inactivated and K+ channels open, such that the influx of Ca2+ ceases and K+ diffuses out of the cell forming the outward pottasium current, repolarizing the membrane to -60 mV
                 - At -60 mV, K+ channels close and funny channels open, resulting in spontaneous depolarization again
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
     - Intrinsic control of the heart's rhythmicity in cardiac conduction system
         - **The Normal Pacemaker of the Heart**
@@ -129,20 +116,7 @@ Updated: August 28, 2022 9:50 PM
             - Ca2+ shuttled out of cells via action of 2 channels, Ca2+-Na+ exchanger, Ca2+-ATPase
         - As a result, Ca2+ unbinds from troponin and tropomyosin re-covers the actin binding site
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
 - [Pressure-volume loop](https://www.remnote.com/doc/ngG3oCZF2rnX3aZvN)
 - Preload
