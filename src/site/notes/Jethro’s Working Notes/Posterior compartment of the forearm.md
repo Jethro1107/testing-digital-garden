@@ -27,20 +27,7 @@ There are 6 muscles in the superficial layer of the posterior compartment of the
     
     The brachioradialis originates from the lateral supracondylar ridge of the humerus and inserts at the radial styloid process.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     As the brachioradialis crosses the elbow joint anteriorly, it enables flexion of the elbow joint.
     
@@ -50,20 +37,7 @@ Updated: August 28, 2022 9:50 PM
     
     The extensor carpi radialis longus originates from the lateral supracondylar ridge and inserts at the the dorsum of the base of the 2nd metacarpal.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     It extends the wrist joint.
     
@@ -73,20 +47,7 @@ Updated: August 28, 2022 9:50 PM
     
     The extensor carpi radialis brevis originates from the lateral epicondyle of the humerus (termed brevis, as the muscle is shorter, or brief, due to its lower origin than the extensor carpi radialis longus). It inserts at the dorsum of the base of the 3rd metacarpal.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     It enables extension of the wrist joint.
     
@@ -96,20 +57,7 @@ Updated: August 28, 2022 9:50 PM
     
     The extensor digitorum originates from the lateral epicondyle of the humerus and inserts and gives off 4 tendons for the 4 medial fingers. The 4 tedons insert at the extensor expansion of digits 2-5 ([[Jethro’s Working Notes/Dorsal extensor expansion of the digits\|Dorsal extensor expansion of the digits]]).
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     It enables extension of the distal and proximal interphalangeal joints of digits 2-5.
     
@@ -121,20 +69,7 @@ Updated: August 28, 2022 9:50 PM
     
     The extensor digiti minimi originates from the lateral epicondyle of the humerus and inserts and gives off a single tendon that inserts at the extensor expansion of the 5th digit.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ********************************************Extensor carpi ulnaris********************************************
     
@@ -142,20 +77,7 @@ Updated: August 28, 2022 9:50 PM
     
     It originates from the lateral epicondyle of the humerus and inserts at the medial side of the base of the 5th metacarpal (at the tubercle of the 5th metacarpal).
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     It enables extension and adduction of the wrist (due to its medial position).
     
@@ -173,35 +95,9 @@ There are 5 muscles of the deep layer of the posterior compartment of the forear
     
     The two layers wrap around the radius and inserts onto the lateral side of the upper 1/3 of the radius, largely associated with the **************annular liagament of the radius and the radial collateral ligament.**************
     
+    ![[Untitled\|Untitled]]
     
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-    
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     It enables supination of the radioulnar joint.
     
@@ -209,35 +105,9 @@ Updated: August 28, 2022 9:50 PM
     
     The abductor pollicus longus originates from the posterior surface of the radius, ulnar and the interosseous membrane. It inserts at lateral side of the base of 1st metacarpal.
     
+    ![[Untitled\|Untitled]]
     
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-    
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     It abducts the thumb.
     
@@ -247,20 +117,7 @@ Updated: August 28, 2022 9:50 PM
     
     It originates from the posterior surface of the distal half of the radius and the interroseous membrane, and inserts at the dorsum of the base of the proximal phalanx of the thumb.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     It enables extension of the thumb.
     
@@ -270,20 +127,7 @@ Updated: August 28, 2022 9:50 PM
     
     It originates from the middle third of the posterior surface of the ulna and associated ulnar half of the interosseous membrane. It inserts at the dorsum of the base of the distal phalanx of the thumb.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     It enables the extension of the thumb.
     
@@ -293,34 +137,9 @@ Updated: August 28, 2022 9:50 PM
     
     The extensor indicis originates from the distal third of the posterior surface of the ulna and associated interosseous membrane. It inserts at the extensor expansion of the index finger.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     It enables extension of the index finger.
     
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
