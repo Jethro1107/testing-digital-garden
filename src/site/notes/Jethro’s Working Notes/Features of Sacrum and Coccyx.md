@@ -21,20 +21,7 @@ There are 5 sacral vertebrae (S1 to S5), which have fused into a single sacrum, 
     
     The sacral hiatus - Serves as the inferior terminal of the sacral canal, and is used for the administration of caudal (epidural) anasthesia). The sacral cornu serves as the landmark for locating the sacral hiatus.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 ### Features of Coccyx
@@ -43,16 +30,4 @@ There are 4 coccygeal vertebrae (Co1-Co4), which have fused into a coccyx, a wed
 
 It provides surface for the attachment of muscles that form the floor of the pelvic cavity.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
