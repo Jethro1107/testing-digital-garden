@@ -80,20 +80,7 @@ Updated: September 20, 2022 9:19 PM
         
         Patchy or diffuse whitish shadows (consolidations)
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Predisposing factors of bacterial pneumonia**
         
@@ -117,20 +104,7 @@ Updated: August 28, 2022 9:50 PM
             
             Organization and fibrosis in airspace - fibroblasts grow into alveolar space, resulting in deposition of collagen
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
             Lung abcess formation
             
@@ -138,20 +112,7 @@ Updated: August 28, 2022 9:50 PM
                 
                 Lung abscess refers to a localized area of suppurative necrosis within the pulmonary parenchyma, resulting in the formation of one or more large cavities
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
         2. Spread of infection
             
@@ -165,20 +126,7 @@ Updated: August 28, 2022 9:50 PM
                 
                 On gross anatomy, yellowish pus covers the lung surface
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
 - Interstitial pneumonitis
     - **Pathogenesis of interstitial pneumonitis**
@@ -191,20 +139,7 @@ Updated: August 28, 2022 9:50 PM
         
         Exudate with mononuclear inflammatory cells infiltrate into interstitium
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Clinical features of interstitial pneumonitis**
         
@@ -245,35 +180,9 @@ Updated: August 28, 2022 9:50 PM
                 
                 Interstitial oedema with predominant mononuclear infiltrates
                 
+                ![[Untitled\|Untitled]]
                 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-                
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
 - Tuberculosis
     - **What is tuberculosis?**
@@ -298,20 +207,7 @@ Updated: August 28, 2022 9:50 PM
         
         Central caseous necrosis is present
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Gross pathology of tuberculosis**
         
@@ -386,20 +282,7 @@ Updated: August 28, 2022 9:50 PM
     
     Diffuse - Cystic fibrosis, primary ciliary dyskinesia
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Clinical features of bronchiectasis**
     
