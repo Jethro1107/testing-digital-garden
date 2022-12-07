@@ -47,20 +47,7 @@ Updated: September 20, 2022 9:19 PM
         
         Dilated tubules with flattened epithelial cells
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Clinical features of acute tubular injury**
         
@@ -101,20 +88,7 @@ Updated: August 28, 2022 9:50 PM
                 
                 Interstitial oedema (acute) interstitial fibrosis
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
         - Pyelonephritis
             - What is pyelonephritis?
@@ -171,50 +145,11 @@ Updated: August 28, 2022 9:50 PM
                         
                         Neutrophilic exudates in tubules
                         
+                        ![[Untitled\|Untitled]]
                         
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                        ![[Untitled\|Untitled]]
                         
-                        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-                        
-                        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                        ![[Untitled\|Untitled]]
                         
                     - **Treatment of acute pyelonephritis**
                         
