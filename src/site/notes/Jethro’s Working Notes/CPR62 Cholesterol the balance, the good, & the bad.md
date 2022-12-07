@@ -26,20 +26,7 @@ Updated: September 20, 2022 9:19 PM
     
     Esterified with fatty acid at steroid nucleus
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - Fates of dietary cholesterol
     - **Proportion of cholesterol forms in dietary cholesterol**
@@ -66,20 +53,7 @@ Updated: August 28, 2022 9:50 PM
         
         ApoE receptor mediated endocytosis of chylomicron remnants in the liver enables release of cholesterol into the liver
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Function of liver in cholesterol metabolism**
         1. Uptake and release of cholesterol
@@ -117,20 +91,7 @@ Updated: August 28, 2022 9:50 PM
         
         HDL collects free cholesterol from peripheral tissues released by ABCA1 of cells by converting free cholesterol into cholesteryl ester by LCAT (lecithin-cholesterol acyltransferase) reaction
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         In the liver, HDL returns cholesterol to hepatocytes by SRB1 (scavenger receptor class B type 1)
         
@@ -181,20 +142,7 @@ Updated: August 28, 2022 9:50 PM
             
             Chenodeoxycholic acid - series of bile salt with 2 OH groups
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
             Ref: [[Marks’ Biochemistry      Conversion of Cholesterol to Cholic Acid and Chenocholic Acid    \|Marks’ Biochemistry      Conversion of Cholesterol to Cholic Acid and Chenocholic Acid    ]] 
             
@@ -204,20 +152,7 @@ Updated: August 28, 2022 9:50 PM
             
             pKa of primary bile acid is 6, which is the pH of the small intestine, such that 50% of bile acid is ionized to enhance its emulsifying properties
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Conjugation of bile acids**
             
@@ -233,20 +168,7 @@ Updated: August 28, 2022 9:50 PM
             
             Taurine conjugation gives taurocholic acid or taurochenodeoxycholic acid
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
             Ref: [[Marks’ Biochemistry  Conjugation of bile salt\|Marks’ Biochemistry  Conjugation of bile salt]] 
             
@@ -262,20 +184,7 @@ Updated: August 28, 2022 9:50 PM
                 
                 Chenodeoxycholic acid → Lithocholic acid
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
             
             Ref: [[Marks’ Biochemistry  Secondary bile salt\|Marks’ Biochemistry  Secondary bile salt]] 
@@ -316,20 +225,7 @@ Updated: August 28, 2022 9:50 PM
             
             HDL transfer cholesterol back to liver via SRB1 (scavenger receptor class B type 1)
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
             Ref: [[Marks’ Biochemistry  Reverse cholesterol transport\|Marks’ Biochemistry  Reverse cholesterol transport]] 
             
