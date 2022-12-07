@@ -22,16 +22,4 @@ The ionic mechanism to drive hydrochloric acid secretion is described below:
 3. HCO3- is pumped out of parietal cells via Cl-/HCO3- exchanger for interstitial Cl-, which leaves the apical membrane via apical Cl- channels.
 4. Accumulation of H+ in the lumen of canaliculi creates an osomotic gradient, driving osmosis of water into the lumen. This results in a pH less than 2.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
