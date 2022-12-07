@@ -19,7 +19,7 @@ Updated: November 29, 2022 4:58 PM
     - [[Jethro’s Working Notes/Different types of muscle fibres\|Different types of muscle fibres]]
     - [[Jethro’s Working Notes/Isotonic and isometric muscle contractions\|Isotonic and isometric muscle contractions]]
 - The neuromuscular junction
-    - [[Neuromuscular junction is highly specialised in terms of its physiological anatomy\|Neuromuscular junction is highly specialised in terms of its physiological anatomy]].
+    - [[Jethro’s Working Notes/Neuromuscular junction is highly specialised in terms of its physiological anatomy\|Neuromuscular junction is highly specialised in terms of its physiological anatomy]].
     - [[Jethro’s Working Notes/Neurotransmission across a neuromuscular junction\|Neurotransmission across a neuromuscular junction]], followed by generation of muscle action potential, and then excitation-contraction coupling, followed by the contractile cycle.
     - [[Jethro’s Working Notes/Motor unit\|Motor unit]]
         - [[Muscle tension is dependent on motor unit recruitment\|Muscle tension is dependent on motor unit recruitment]]
