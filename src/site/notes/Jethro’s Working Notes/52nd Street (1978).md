@@ -15,20 +15,7 @@ Release date: October 12, 1978
 
 # 52nd Street (1978)
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-%20c7c0722653354f75917812f51aa9483f/Untitled.png)
+![[Untitled\|Untitled]]%20c7c0722653354f75917812f51aa9483f/Untitled.png)
 
 ### Songs:
 
