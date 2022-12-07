@@ -15,16 +15,4 @@ Hepatic acinus is a diamond shaped structure where the short axis is made of 2 p
 
 Blood supply, nutrient supply and oxygen supply decrease from zone 1 to zone 3.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
