@@ -19,16 +19,4 @@ Bones form the bulk of the [[Jethro’s Working Notes/Skeletal system\|Skeletal 
 4. Irregular bones - Irregular bones have irregular surfaces, with foramens and grooves for conveying different structures. The many surfaces of irregular bones enables muscle attachment.
 5. Sessamoid bones - Sessamoid bones are enclosed within the tendons.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
