@@ -20,16 +20,4 @@ It consist of 2 types of fibres:
 
 The apex of the palmar aponeurosis is continuous with the tendon of the palmaris longus if present, otherwise, it anchors to the flexor retinaculum (roof of the [[Jethro’s Working Notes/Carpal tunnel\|Carpal tunnel]]).
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
