@@ -11,7 +11,7 @@ Updated: November 27, 2022 6:38 PM
 
 ### Myasthesia gravis
 
-**Myasthesia gravis** is an autoimmune neuromuscular junction ([[Neuromuscular junction is highly specialised in terms of its physiological anatomy\|Neuromuscular junction is highly specialised in terms of its physiological anatomy]]) disorder.
+**Myasthesia gravis** is an autoimmune neuromuscular junction ([[Jethro’s Working Notes/Neuromuscular junction is highly specialised in terms of its physiological anatomy\|Neuromuscular junction is highly specialised in terms of its physiological anatomy]]) disorder.
 
 - ******************************************************************Pathogenesis of myasthesia gravis******************************************************************
     
@@ -23,20 +23,7 @@ Updated: November 27, 2022 6:38 PM
     2. Endocytosis of AChR, resulting in a decrease in density of AChR clusters.
     3. Inhibition of channel functions of AChR, thus preventing depolarization of sarcolemma. 
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ********************************************************Clinical course of myasthesia gravis********************************************************
     
