@@ -25,20 +25,7 @@ An ECG is an electrical snapshot of the heart
     - 4 limb electrodes (RA, RL, LA, LL) are used to create 6 limb leads (Lead I, Lead II, Lead III, aVR, aVL, aVF)
     - The 4 limb electrodes are colour coded: 黃綠醫生 左手左腳 紅天黑地 右手右腳
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - Limb leads view electrical activity of the heart in a frontal plane
     - Lead I, II and III are bipolar limb leads
@@ -53,20 +40,7 @@ Updated: August 28, 2022 9:50 PM
     | aVL | LA | average of RA and LL |
     | aVF | LL | average of LA and RA |
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - 6 **Precordial leads:**
     - V1-V6 visualizes electrical activity of the heart in the frontal plane
