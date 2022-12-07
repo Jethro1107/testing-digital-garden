@@ -13,19 +13,6 @@ Updated: October 16, 2022 11:08 AM
 
 The anconeus originates from the lateral epicondyle of the [[Jethro’s Working Notes/Humerus\|Humerus]] and inserts onto the lateral surface of the olecranon of the [[Jethro’s Working Notes/Ulna\|Ulna]].
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 It enables extension of the elbow joint.
