@@ -35,20 +35,7 @@ The liver is the largest gland in the body.
     
     The caudate lobe, defined by the ligamentum venosum and inferior vena cava, is functionally distinct from the left lobe and right lobe.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ********************************************Ligaments of the liver********************************************
     
@@ -60,16 +47,4 @@ Updated: August 28, 2022 9:50 PM
     - The anterior coronary ligament is continuous with the falciform ligament (which encloses the round ligament), while the posterior coronary ligament is continuous with the [[Jethro’s Working Notes/Lesser omentum\|Lesser omentum]].
     - To the left extremity of the liver, the anterior and posterior ligaments converge to form the left triangular ligament.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
