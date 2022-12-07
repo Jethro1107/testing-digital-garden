@@ -64,20 +64,7 @@ up: [[Jethro’s Working Notes/Anatomy of the Thoracic Cage\|]]
             
             Distal end of the articulate with costal cartilage anteriorly
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Typical ribs articulate to the vertebral column at two joints**
             
@@ -99,35 +86,9 @@ Updated: August 28, 2022 9:50 PM
             
             The 11th and 12th ribs are atypical as their heads only consist of 1 articular facets as they only articulate to their numerically corresponding vertebrae. Furthermore, they lack the tubercle and thus they do not articulate to the transverse process
             
+            ![[Untitled\|Untitled]]
             
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-            
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
     - **Structure of the sternum**
         
@@ -149,20 +110,7 @@ Updated: August 28, 2022 9:50 PM
         
         **Costal cartilages** are hyaline cartilages connect the first 7 ribs to the lateral parts of the sternum, and the 8th, 9th and 10th rib to the costal cartilage immediately above (i.e. the 7th costal cartilage)
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
 - Intercostal space
     - **The five muscles of the intercostal space - structure and function**
