@@ -13,20 +13,7 @@ Updated: October 16, 2022 10:48 AM
 
 The brachialis originates from the anterior aspect (medial and lateral surfaces) of the distal half of the humerus, and partly originates from the intermuscular septum. It inserts at the ulnar tuberosity.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 - ******************************************************Movements of the brachialis******************************************************
     
