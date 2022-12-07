@@ -24,20 +24,7 @@ Membranoproliferative glomerulonephritis refers to the a pattern of injury rathe
         
         Due to deposition of circulating immune complex or formation of immune complex in situ with a planted antigen
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Pathogenesis of Type I MPGN**
         
@@ -47,54 +34,15 @@ Updated: August 28, 2022 9:50 PM
         
         Light microscopy - Membranoproliferative pattern, with proliferation of mesangial, endothelial cells as well as infiltrating leukocytes, as well as GBM thickening and splitting
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Immunofluorscence microscopy - Granular IgG and C3 along GBM and mesangium
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Electron microscopy - Subendothelial deposits and basement membrane splitting
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
 - Type II MPGN (Dense deposit disease)
 - Type III MPGN (C3 glomerulonephritis)
