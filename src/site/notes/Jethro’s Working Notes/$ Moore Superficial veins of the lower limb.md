@@ -14,35 +14,9 @@ The two major superficial veins in the lower limb are the *great and small saph
 
 The **great saphenous vein** is formed by the union of the *dorsal vein of the great toe* and the *dorsal venous arch of the foot* (Figs. 7.15A and 7.16A). The great saphenous vein
 
+![[Untitled\|Untitled]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 - ascends anterior to the medial malleolus.
 - passes posterior to the medial condyle of the femur (about a hand's breadth posterior to the medial border of the patella).
