@@ -17,20 +17,7 @@ oxygen in the osteonic canal (Figure 8–9). The outer boundary of each osteon i
 
 **Figure 8–9.**
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 **An osteon.**
 
@@ -56,35 +43,9 @@ down around preexisting blood vessels.
 
 **Figure 8–10.**
 
+![[Untitled\|Untitled]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 **Lamellar bone: Perforating canals and interstitial lamellae.**
 
@@ -105,20 +66,7 @@ osteocytes (Figure 8–11). In healthy adults 5–10% of the bone turns over ann
 
 **Figure 8–11.**
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 **Development of osteons.**
 
