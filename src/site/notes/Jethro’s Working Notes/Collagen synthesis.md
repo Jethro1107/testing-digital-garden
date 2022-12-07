@@ -22,20 +22,7 @@ Collagen synthesis starts intracellularly, with the transcription and translatio
         - Glycosylation of lysine residues
     - The speed at which helix folding occurs determines the degree of post-translational modification.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 Once procollagen is assembled, it is processed in the Golgi apparatus, and is secreted into the extracellular matrix.
@@ -46,20 +33,7 @@ Once procollagen is assembled, it is processed in the Golgi apparatus, and is se
         - Collagen molecules aggregate and organise into fibrils by formation of covalent cross-links at lysine residues.
         - This is catalysed by peptidyl lysine oxidase, which requires oxygen and Cu2+.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 Related:
