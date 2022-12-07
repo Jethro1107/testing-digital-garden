@@ -24,16 +24,4 @@ Updated: November 1, 2022 9:44 AM
     - 2/3 undergoes renal excretion, where uric acid is freely filtered in the renal corpuscles, most of it is reabsorbed in the PCT, and a small amount is secreted in the DCT.
     - 1/3 undergoes gut excretion, and are degraded by gut microbes.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
