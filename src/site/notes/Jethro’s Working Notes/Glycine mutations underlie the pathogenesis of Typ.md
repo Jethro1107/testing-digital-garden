@@ -15,20 +15,7 @@ Type II Osteogenesis Imperfecta is caused by glycine mutations in COL1A1 or COL1
 
 Glycine mutations serves as a kink for helical folding from C-terminal to N-terminal, allowing for more time for post-translational modification, resulting in excessive post-translational modification, which disrupts helical stability.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 - **************************************************************************************************Glycine mutations have a dominant negative effect**************************************************************************************************
     
@@ -36,31 +23,6 @@ Updated: August 28, 2022 9:50 PM
     
     This results in altered collagen packing and disrupted fibril cross-links, which destablises the collagen fibrils.
     
+    ![[Untitled\|Untitled]]
     
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-    
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
