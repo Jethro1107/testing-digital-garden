@@ -17,16 +17,4 @@ The iliohypogastric nerve (L1) is the superior branch of the anterior rami of L1
     - The lateral cutaneous branch of the iliohypogastric nerve provides ***********************sensory innervation to the upper lateral quadrant of the buttocks***********************
     - The anterior cutaneous branch of the iliohypogastric nerve provides sensory innervation to the skin of the anterior abdominal wall.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
