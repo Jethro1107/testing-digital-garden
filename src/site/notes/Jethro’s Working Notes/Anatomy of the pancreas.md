@@ -19,20 +19,7 @@ The pancreas is a (secondarily) retroperitoneal organ that lies posterior to the
     - Body - Which lies posterior to the stomach, extends from the neck to the tail.
     - Tail - Which passes through the splenorenal ligament.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ********************************************************************************************************************The pancreas partakes in digestion via the production of [[Jethro’s Working Notes/Pancreatic secretions\|Pancreatic secretions]], which drains via a network of ducts:**
     
@@ -42,20 +29,7 @@ Updated: August 28, 2022 9:50 PM
     
     The accessory pancreatic duct drains into the second part of the duodenum via the minor duodenal papilla.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **************Arterial supply of the pancreas**************
     
@@ -67,20 +41,7 @@ Updated: August 28, 2022 9:50 PM
     - The dorsal and great pancreatic artery, which are branches of the splenic artery.
     - The anterior and posterior inferior pancreatoduodenal artery, which are branches of the inferior pancreatoduodenal artery (a small branch of the superior mesenteric artery).
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **************************************************************Venous drainage of the pancreas**************************************************************
     
