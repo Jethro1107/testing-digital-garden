@@ -22,20 +22,7 @@ The tibiofibular joint includes two articular surfaces:
 
 It should be noted that the articular surfaces of femoral condyles is round when the knee joint is flexed, and becomes flat when the knee joint is in full extension.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 - **Menisci**
     
@@ -70,20 +57,7 @@ Updated: August 28, 2022 9:50 PM
         
         The tibial (medial) collateral ligament is a broad intrinsic ligament that is a thickened part of the joint capsule. It attaches proximally from the medial femoral epicondyle and attaches distally to the medial tibial epicondyle, it also attaches to the medial meniscus.
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - Cruciate ligament offer anteroposterior stability.
         
@@ -91,35 +65,9 @@ Updated: August 28, 2022 9:50 PM
         
         *Posterior cruciate ligament (PCL)* attaches to the posterior compartment of the intercondylar space of the tibia and ascends anteriorly to attach to the medial wall of the intercondylar fossa (medial condyle). It prevents the posterior displacement of the tibia with respect to the femur.
         
+        ![[Untitled\|Untitled]]
         
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-        
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
 - **Locking mechanism of the knee reduces energy required for muscle work to maintain a standing position**
     
@@ -130,20 +78,7 @@ Updated: August 28, 2022 9:50 PM
     
     Unlocking the knee joint requires lateral rotation of the femur enabled by the popliteus muscle.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Movement of the knee joint**
     
@@ -151,16 +86,4 @@ Updated: August 28, 2022 9:50 PM
     
     However, when flexed, the knee joint is least stable, due to the round articular surface of the femoral condyles and the lax ligaments, hence, this enables lateral and medial rotation of the tibia with respect with the the fibula.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
