@@ -44,20 +44,7 @@ There are 7 cervical vertebrae (C1-C7).
     - Flexion and extension
     - Lateral flexion
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 - ********************************C1 and C2 are atypical cervical vertebrae********************************
     
@@ -69,40 +56,14 @@ Updated: August 28, 2022 9:50 PM
     - Transverse process arise from the lateral masses, with a transverse foramen. Vertebral arteries ascend through the transverse foramen of the atlas, the course posterior to the lateral mass through ***********************************the groove for the vertebral artery*********************************** on the posterior arch.
     - The *transverse ligament of the atlas* extends between the two lateral mass in the vertebral foramen, separating the *dens of the axis* from the spinal cord.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     C2, also known as the axis, ressembles a typical vertebrae, but consist of the dens/odontoid process that projects superiorly.
     
     - The *****************dens of the axis,***************** projects superiorly into the socket formed by the ************transverse ligament of the atlas************ and the anterior arch of the atlas.
     - It serves as the axis of lateral rotation.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     C1 and C2 at the 2 lateral atlantoaxial joint and 1 medial atlantoaxial joint.
     
