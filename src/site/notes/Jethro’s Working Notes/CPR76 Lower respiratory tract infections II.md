@@ -25,20 +25,7 @@ Updated: September 20, 2022 9:19 PM
         
         An acid fast bacilli - able to resist acid alcohol decolourisation during Ziehl-Neelsen stain
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Structure of mycobacterium cell wall and its significance**
         
@@ -76,20 +63,7 @@ Updated: August 28, 2022 9:50 PM
         
         Non-tuberculous mycobacteria (NTM)/Mycobacterium other than tubercle bacilli (MOTT) - Classified into slow growers and rapid growers (on culture)
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
 - Tuberculosis
     - **Etiology of tuberculosis**
@@ -112,20 +86,7 @@ Updated: August 28, 2022 9:50 PM
             
             Lowenstein-Jensen medium/ LJ medium (beige, breadcrumb colonies)
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
             Stonebrink’s medium for mycobacterium bovis
             
@@ -157,20 +118,7 @@ Updated: August 28, 2022 9:50 PM
         
         Population with spurts of metabolism - susceptible to rifampacin
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Route of transmission of tuberculosis**
         
@@ -209,65 +157,13 @@ Updated: August 28, 2022 9:50 PM
             
             Intradermal injection of purified protein derivative (PPD) of MTB to measure the Type IV hypersensitivity reaction by measuring diameter of induration 2-3 days later
             
+            ![[Untitled\|Untitled]]
             
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
+            ![[Untitled\|Untitled]]
             
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-            
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-            
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
 
 - Anti-tuberculous therapy
@@ -283,20 +179,7 @@ Updated: August 28, 2022 9:50 PM
         
         Minimum of 6 months
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Classification of Drug-resistant tuberculosis**
         
@@ -365,20 +248,7 @@ Updated: August 28, 2022 9:50 PM
     
     Microscopy - **Methenamine silver stain**, Giemsa stain, immunofluorescent stain
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 ### Influenza
@@ -441,20 +311,7 @@ Updated: August 28, 2022 9:50 PM
         
         H5N1, H7N9 are notable ones, many more
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Reservoir for all influenza A viruses**
         
@@ -483,20 +340,7 @@ Updated: August 28, 2022 9:50 PM
     1. Winter peak
     2. Summer peak
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Clinical presentations of influenza**
     
