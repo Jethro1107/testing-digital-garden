@@ -13,20 +13,7 @@ Updated: September 14, 2022 9:36 PM
 
 Dietary nucleic acids are mainly absorbed as nucleosides via apical concentrative nucleoside transporters (CNT1-3), a Na+ dependent transpoorter, and equilabrative nucleoside transporters on the basolateral membrane.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 Pentose is absorbed via the paracellular route (through the leaky tight junctions) by passive diffusion.
 
