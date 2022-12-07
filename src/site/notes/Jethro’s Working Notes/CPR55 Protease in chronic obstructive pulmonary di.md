@@ -29,20 +29,7 @@ Updated: September 20, 2022 9:19 PM
         
         Specific in action, responsible for cleaving internal bonds
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Types of protease by substrate**
         
@@ -76,20 +63,7 @@ Updated: August 28, 2022 9:50 PM
         
         Enlarged alveolar spaces
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     
     - **Pathophysiology of emphysema**
@@ -117,20 +91,7 @@ Updated: August 28, 2022 9:50 PM
         
         Peribronchial fibrosis
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Ref: [[West’s pulmonary pathophysiology  Pathology of chronic bronchitis\|West’s pulmonary pathophysiology  Pathology of chronic bronchitis]] 
         
@@ -146,20 +107,7 @@ Updated: August 28, 2022 9:50 PM
         
         Chronic smoking results in repeated bouts of inflammation, thus establishing chronic inflammation
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Why does chronic inflammation results in pathology of COPD?**
         
@@ -194,20 +142,7 @@ Updated: August 28, 2022 9:50 PM
     
     Anti-protease - TIMP, SLPI
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Acts as a pro-inflammatory mediator:
     
@@ -217,20 +152,7 @@ Updated: August 28, 2022 9:50 PM
     
     Alpha-1-antitrypsin expressed in the liver coats the lungs, protecting the lung from neutrophil elastase
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     - **Pathogenesis of primary emphysema**
         
@@ -273,20 +195,7 @@ Updated: August 28, 2022 9:50 PM
     
     ![[/Screenshot 2022-03-28 at 3.23.37 PM.png\|/Screenshot 2022-03-28 at 3.23.37 PM.png]]
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Action of TGF-beta and its activation**
     
@@ -318,78 +227,14 @@ Updated: August 28, 2022 9:50 PM
 
 - Summary of protease in emphysema
     
+    ![[Untitled\|Untitled]]
     
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-    
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - Summary of protease in chronic bronchitis
     
+    ![[Untitled\|Untitled]]
     
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-    
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
