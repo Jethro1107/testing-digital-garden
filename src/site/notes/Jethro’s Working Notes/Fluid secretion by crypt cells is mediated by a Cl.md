@@ -21,20 +21,7 @@ As intracellular Cl- levels builds up, apical CFTR and TMEM16A (Ca2+-activated C
 
 Active Cl- secretion creates a negative potential and osmotic gradient that drives diffusion and osmosis of Na+ and water into the intestinal lumen.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 - **Fluid secretion is regulated by secretagogues**
     
