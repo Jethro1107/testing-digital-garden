@@ -17,16 +17,4 @@ Neurotransmission across a neuromuscular junction occurs in 3 steps:
 2. ACh diffuses across the synaptic cleft and binds to AChR at the postsynaptic terminal, which results in the opening of the ligand-gated cation channel.
 3. This results in the influx of Na+, and a small efflux of K+. The net effect is graded depolarization to threshold, resulting in generation of muscle action potential, that can eventually result in excitation-contraction coupling.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
