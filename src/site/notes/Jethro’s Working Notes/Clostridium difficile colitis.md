@@ -27,20 +27,7 @@ Updated: November 30, 2022 5:15 PM
     
     On sigmoidoscopy, there is presence of inflammation of the colonic mucosa, with or without pseudomembrane formation (in C. difficile pseudomembranous colitis).
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Diagnosis of C. difficile colitis**
     
