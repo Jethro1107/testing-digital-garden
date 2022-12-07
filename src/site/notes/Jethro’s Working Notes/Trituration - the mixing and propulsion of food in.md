@@ -21,16 +21,4 @@ Trituration enables the mixing of food with [[Jethro’s Working Notes/Gastric s
     
     The shear stress created when gastric contents move in opposite directions is sufficient to break down food into smaller particles.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
