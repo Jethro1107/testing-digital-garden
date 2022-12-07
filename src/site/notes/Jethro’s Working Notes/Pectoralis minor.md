@@ -13,20 +13,7 @@ Updated: October 15, 2022 4:32 PM
 
 Pectoralis minor, the smaller of the two pectoralis muscles, originates from the 3rd to 6th rib, and inserts at the corocoid process of the [[Jethro’s Working Notes/Scapulae\|Scapulae]].
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 - ******************************************************************Movements of the pectoralis minor******************************************************************
     
@@ -34,33 +21,8 @@ Updated: August 28, 2022 9:50 PM
     
     When the shoulder joint is extended, it depresses the pectoral girdle.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     When the shoulder joint is flexed, it protracts scapulae.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
