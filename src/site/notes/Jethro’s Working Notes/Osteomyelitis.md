@@ -66,20 +66,7 @@ Osteomyelitis can be classified into acute osteomyelitis and chronic osteomyelit
     - MRI, CT and Radionuclide imaging is much more useful.
     - Radiological features, such as osteolytic lesions and periosteal elevation may be observed.
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     
     Microbial diagnosis:
