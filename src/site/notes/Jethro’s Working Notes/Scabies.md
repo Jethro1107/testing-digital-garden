@@ -31,20 +31,7 @@ Scabies is a [[Jethro’s Working Notes/Skin and soft tissue infections\|Skin an
     - Burrows
     - Pruritus - As scabies lays eggs that trigger inflammation
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ****************************************Diagnosis of scabies****************************************
     
@@ -54,20 +41,7 @@ Updated: August 28, 2022 9:50 PM
     
     - Skin scrapings and microscopy under KOH wet mount.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ************************************Treatment of scabies************************************
     
