@@ -67,20 +67,7 @@ The radial pulse is used to assess the rate and rhythm, as well as the presence 
 
 Character and volume can also be assessed at the radial pulse, particularly for a collapsing pulse and pulsus alternans.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 **Carotid pulse**
 
@@ -148,20 +135,7 @@ Parasternal heave is palpated at lower left sternal border
 
 Normally, parasternal impulse is impalpable, but may be detected as a palpated in patients with severe right heart hypertrophy or severe left atrial dilatation (displacing the right ventricle anteriorly.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 Thrills:
 
