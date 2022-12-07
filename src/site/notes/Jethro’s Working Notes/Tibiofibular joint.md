@@ -17,35 +17,9 @@ Updated: October 23, 2022 11:28 AM
     
     It is classified as a synovial plane joint, but gliding movements is limited by the anterior and posterior ligaments of the head of the fibia.
     
+    ![[Untitled\|Untitled]]
     
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-    
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 **The interosseous border of the tibia and fibula are connected by interosseous membrane.**
@@ -54,31 +28,6 @@ Updated: August 28, 2022 9:50 PM
     
     The inferior tibiofibular joint is a fibrous joint, or a syndesmosis. It consist of a fibrous structure that enables the distal ends of the tibia and fibula to form a notch-like structure for the insertion of the tallus ([[Jethro’s Working Notes/Bones of the foot and the arches of the foot\|Bones of the foot and the arches of the foot]]), forming a stable [[Jethro’s Working Notes/Ankle joint\|Ankle joint]].
     
+    ![[Untitled\|Untitled]]
     
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-    
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
