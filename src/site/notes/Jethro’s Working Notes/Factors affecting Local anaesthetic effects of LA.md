@@ -63,20 +63,7 @@ The factors affecting local anaesthetic effects of LA can be classified into ner
     
     Adrenaline stimulates vasoconstriction, thus reducing systemic absorption of LA, increasing LA effects in terms of both duration and potency, while limiting peak plasma drug levels.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 2. ******************Sodium bicarbonate******************
     
