@@ -48,19 +48,6 @@ Updated: November 24, 2022 3:34 PM
     - Gastrin stimulates cholecystokinin 2 (CCK2) receptors on parietal cells. This results in an increase in intracellular Ca2+ level. This results in acid secretion by parietal cells.
     - Gastrin also stimulates CCK2 receptors on ECL cells. This results in increased histamine secretion by ECL cells, which results in increased acid secretion by parietal cells. This mechanism is called the **gastrin-histamine stimulation**.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 Cf: [[$ Costanzo physiology  Stimulation of acid secretion\|$ Costanzo physiology  Stimulation of acid secretion]]
