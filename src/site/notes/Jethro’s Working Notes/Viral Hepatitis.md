@@ -174,20 +174,7 @@ Updated: November 24, 2022 4:15 PM
     
     Chronic hepatitis C manifests as chronic hepatic fibrosis, Liver cirrhosis and can complicate with hepatocellular carcinoma.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Diagnosis of hepatitis C virus**
     
@@ -195,20 +182,7 @@ Updated: August 28, 2022 9:50 PM
     
     Detection of Anti-HCV Ab, which is followed with HCV RT-PCR for antibody positive cases.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Treatment of hepatitis C**
     
@@ -245,20 +219,7 @@ Updated: August 28, 2022 9:50 PM
     
     Viral release
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Transmission of hepatitis B virus**
     
@@ -287,20 +248,7 @@ Updated: August 28, 2022 9:50 PM
     
     During covalescence, usually after disappearance of HBsAg, individual would be positive for Anti-HBs and Anti-HBc for life.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Diagnosis of chronic hepatitis B**
     
