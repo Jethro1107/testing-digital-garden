@@ -20,20 +20,7 @@ Updated: June 18, 2022 11:20 AM
             
             Cellulose, glycogen and starch all use glucose as their monomer
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - What are the two types of glucose and how do they differ?
             
@@ -82,39 +69,13 @@ Updated: August 28, 2022 9:50 PM
                 
                 Linear chain of glucose maintained by alpha-1,4 glycosidic bonds
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
             - Amylopectin
                 
                 Branched chain of glucose, maintained  by alpha-1,4 bonds in the linear region and 1,6 bonds in the branched regions
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
                 Filled circles refer to glucose bonded by alpha-1,6 glycosidic bonds
                 
