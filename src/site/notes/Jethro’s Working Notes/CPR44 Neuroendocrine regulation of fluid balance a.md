@@ -75,20 +75,7 @@ Updated: September 20, 2022 9:19 PM
     
     Ref: [[Guyton and Hall  Sympathetic Nervous System Control of Renal Excretion  Arterial Baroreceptor And Low-Pressure Stretch Receptor Reflexes\|Guyton and Hall  Sympathetic Nervous System Control of Renal Excretion  Arterial Baroreceptor And Low-Pressure Stretch Receptor Reflexes]] 
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - Neural component of pressure diuresis and pressure natriuresis
     - **Neural response to increase blood pressure/volume and effects on urine output**
@@ -134,20 +121,7 @@ Updated: August 28, 2022 9:50 PM
             
             Macula densa cells - Increased NaCl concentration in distal tubules decreases renin release, while decreased concentration stimulates renin release
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Function of renin**
             
@@ -157,20 +131,7 @@ Updated: August 28, 2022 9:50 PM
         - **Action of renin-angiotensin system to produce angiotensin II**
             
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
             Angiotensinogen is readily produced by the liver and released into systemic circulation
             
@@ -202,20 +163,7 @@ Updated: August 28, 2022 9:50 PM
                     
                     These all results in vascular remodelling, causing decreased vascular compliance and elasticity
                     
-                    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                    ![[Untitled\|Untitled]]
                     
             - Stimulates tubular reabsorption of Na+ and water
                 - **How does angiotensin II stimulate tubular reabsorption of Na+ and water?**
@@ -223,20 +171,7 @@ Updated: August 28, 2022 9:50 PM
                     2. Angiotensin II directly stimulates reabsorption of Na+ in nephrons
                         
                         
-                        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                        ![[Untitled\|Untitled]]
                         
                         Angiotensin II binds to AT1R on basolateral membrane to stimulate action of Na+/K+ ATPase and Na+/HCO3- co-transporter, promoting reabsorption of Na+ and hence reabsorption of water
                         
@@ -258,20 +193,7 @@ Updated: August 28, 2022 9:50 PM
             
             Ang II can be degraded by agiotensin converting enzyme 2 (ACE2), into angiotensin-(1-7), which can bind to Mas receptor
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
     - Aldosterone
         - Synthesis and secretion of aldosterone
@@ -308,54 +230,15 @@ Updated: August 28, 2022 9:50 PM
             
             This results in increased Na+ reabsorption and K+ secretion
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
             Ref: [[Guyton and Hall  Aldosterone Stimulates Renal Sodium Reabsorption and Potassium Secretion\|Guyton and Hall  Aldosterone Stimulates Renal Sodium Reabsorption and Potassium Secretion]] 
             
     - Overview of RAAS system in response to low blood pressure
         
+        ![[Untitled\|Untitled]]
         
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-        
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
 - Vasopressin
     
@@ -384,20 +267,7 @@ Updated: August 28, 2022 9:50 PM
                 
                 1% deviation of osmolality can result in signifcant changes in plasma vasopressin levels
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
             - **Location of osmoreceptor in the brain**
                 
@@ -434,35 +304,9 @@ Updated: August 28, 2022 9:50 PM
                 
                 RVLM has excitatory neurons that project to the hypothalamic paraventricular nucleus (PVN) and supraoptic nucleus (SON)
                 
+                ![[Untitled\|Untitled]]
                 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-                
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
             - **Sensitivity of Vp release to changes in volume and pressure**
                 
@@ -470,39 +314,13 @@ Updated: August 28, 2022 9:50 PM
                 
                 The change in plasma level is observed when pressure or volume drop by more than 8 percent
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
             - **Response of baroreceptor reflex controlling vasopressin release in normal conditions/hypertension**
                 
                 Tonic activity of baroreceptors at normal blood pressure and increased baroreceptor signals in hypertension inhibits the exitatory pathway from RVLM to hypothalamic PVN and SON, such that no vasopressin is released from the posterior pituitary
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
             - **Response of baroreceptor reflex controlling vasopressin release in hypotension**
                 
@@ -510,20 +328,7 @@ Updated: August 28, 2022 9:50 PM
                 
                 This removes inhibitory effect of CVLM on RVLM, thus causing a tonic excitatory imput into PVN and SON, resulting in VP secretion
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
         - ANP concentration
         - Ang II concentration
@@ -540,20 +345,7 @@ Updated: August 28, 2022 9:50 PM
                 
                 Net effect - Insertion of aquaporin-2 onto the apical membrane increases the permeability of water, allowing for water reabsorption, producing an anti-diuretic effect
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
                 Chronic increases in Vp levels also stimulate transcription of AQP2 gene, increasing AQP2 production
                 
