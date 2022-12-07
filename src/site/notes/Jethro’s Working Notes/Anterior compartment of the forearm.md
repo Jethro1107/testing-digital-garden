@@ -25,20 +25,7 @@ There are 4 muscles in the superficial layer of the anterior compartment of the 
     
     The flexor carpi ulnaris is the most medial muscle of the anterior compartment of the forearm. It’s humeral head originates from the medial epicondyle of the humerus, and its ulnar head originates from the olecranon and posterior border of the ulna. It inserts at the pisiform, hook of halmate and the base of the 5th metacarpal.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     It enables flexion and adduction (ulnar deviation) of the wrist.
     
@@ -50,20 +37,7 @@ Updated: August 28, 2022 9:50 PM
     
     It enables flexion of the wrist.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ****************Flexor carpi radialis****************
     
@@ -71,20 +45,7 @@ Updated: August 28, 2022 9:50 PM
     
     It originates from the medial epicondyle of the humerus and produces a long tendon, that lies just lateral to the midline. The tendon inserts at the 2nd and 3rd metacarpal. ********************************************************This tendon is closely associated with the radial pulse.********************************************************
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     It enables flexion and abduction (radial deviation) of the wrist.
     
@@ -92,35 +53,9 @@ Updated: August 28, 2022 9:50 PM
     
     The pronator teres has its origins at the medial epicondyle of the humerus and the medial side of the coracoid process of the ulna. It inserts at the lateral side of the midshaft of the radius.
     
+    ![[Untitled\|Untitled]]
     
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-    
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     It enables pronation.
     
@@ -140,39 +75,13 @@ The two heads fuse to form a muscle belly, which gives off 4 tendons for the 4 m
 
 The tendons for the 4 fingers are not arranged on the same plane. The tendon for the 3rd and 4th digits lie anterior/ lie superfical to that of the 2nd and the 5th digits.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 At the middle phalanges, each tendon splits into the 2 slips that insert posteriorly to the tendons of the flexor digitorum profundus, to the side of the middle phalanges.
 
 The flexor digitorum superficialis enables flexion of the proximal interphalangial joints of the 2nd to 5th digits.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 ### Deep layer of anterior compartment of the forearm
 
@@ -186,20 +95,7 @@ There are 3 muscles in the deep layer of the anterior compartment of the forearm
     
     The tendons of the flexor digitorum profundus pass through a split formed by the tendons of the ******************flexor digitorum superficialis****************** and insert at the distal phalanges of digits 2-5.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     It enables the flexion of the distal interphalangeal (DIP) joint of digits 2-5.
     
@@ -209,20 +105,7 @@ Updated: August 28, 2022 9:50 PM
     
     The tendon inserts at the base of the distal phalanx of the thumb.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     It enables the flexion of the interphalangeal joint of the thumb.
     
@@ -230,19 +113,6 @@ Updated: August 28, 2022 9:50 PM
     
     The pronator quadratus originates from the distal 1/4 of the ulna and inserts at the the distal 1/4 of the radius.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     It enables pronation.
