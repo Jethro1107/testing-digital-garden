@@ -17,20 +17,7 @@ Intrinsic muscles of the foot are muscles that originate and insert at the foot 
 
 There are 2 intrinsic muscles on the dorsal aspect of the foot: 1) *****************************Extensor hallucis brevis,***************************** and 2) **************************Extensor digitorum brevis.**************************
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 ### Intrinsic muscles on the plantar aspect of the foot
 
@@ -51,16 +38,4 @@ Updated: August 28, 2022 9:50 PM
     Plantar and dorsal interossei
     
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
