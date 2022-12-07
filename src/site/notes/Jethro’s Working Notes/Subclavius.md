@@ -13,20 +13,7 @@ Updated: October 31, 2022 5:21 PM
 
 Subclavius originates from 1st costal cartilage and inserts on the groove for subclavius on the inferior surface of the clavicle. 
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 - ******************************************************Movements of the subclavius******************************************************
     
