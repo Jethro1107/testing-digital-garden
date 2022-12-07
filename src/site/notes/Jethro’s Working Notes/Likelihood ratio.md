@@ -24,19 +24,6 @@ Cf: [[Jethro’s Working Notes/Likelihood ratio\|Likelihood ratio]]
 
 1. To appraise the performance of the test, and determines its use case
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 2. To calculate the post-test odds using the odds likelihood approach ([[There are different methods of appraising post-test probability after the application of diagnostic tests\|There are different methods of appraising post-test probability after the application of diagnostic tests]]).
