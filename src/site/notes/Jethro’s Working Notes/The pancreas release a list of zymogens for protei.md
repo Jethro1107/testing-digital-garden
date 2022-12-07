@@ -19,20 +19,7 @@ The pancreas ([[Jethro’s Working Notes/Histology of the pancreas\|Histology of
     
     Trypsin cleaves the remaining zyomogens to their active couterparts (chymotrypsinogen, proelastase, procarboxylase A, procarboxylase B into chymotrypsin, elastase, carboxylase A and carboxylase B respectively).
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Action of pancreatic protease**
     
@@ -48,16 +35,4 @@ Updated: August 28, 2022 9:50 PM
     
     Pancreatic protease converts 70% of luminal peptides into oligopeptides (with acidic amino acid at C terminal as they are resistant to cleavage by carboxypeptidase) and 30% of luminal peptides into amino acids.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
