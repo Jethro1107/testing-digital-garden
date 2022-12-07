@@ -73,20 +73,7 @@ Updated: June 18, 2022 11:20 AM
     
     - Draw and Explain the Michaelis-Menten model of enzyme dependence of biochemical reaction
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Rate = S(Vmax)/(Km+S)
         
@@ -170,20 +157,7 @@ Updated: August 28, 2022 9:50 PM
     
 - Draw the Michealis-Menton model showing curves for enzymes in both active and inactive state
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - What is oligomeric enzymes?
     
@@ -195,20 +169,7 @@ Updated: August 28, 2022 9:50 PM
     
     - Draw the Michealis-Menton model showing curves for activity of an oligomeric enzyme
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - How do allosteric regulators affect the activity of an oligomeric enzyme?
         
@@ -218,16 +179,4 @@ Updated: August 28, 2022 9:50 PM
         
         - Draw the Michealis-Menton Curves showing the effects of allosteric regulators on oligomeric enzymes
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+            ![[Untitled\|Untitled]]
