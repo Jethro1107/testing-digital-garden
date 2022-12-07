@@ -21,20 +21,7 @@ Tetracycline is a broad spectrum antibiotic that inhibits protein synthesis. It 
     
     This prevents the addition of amino acids to the growing peptide chain, thus inhibiting protein synthesis.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Derivatives of tetracycline**
     - Doxycycline
