@@ -39,20 +39,7 @@ Updated: October 2, 2022 6:03 PM
             - The anterior (sternocostal) surface which is posterior to the sternum,
             - And the left and right pulmonary surfaces which are medial to the pleural cavities
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Positioning and location of the heart**
         - Located in the middle mediastinum, deep to 2nd to 5th intercostal space
@@ -63,38 +50,12 @@ Updated: August 28, 2022 9:50 PM
         - **Chambers in anterior surface of the heart**
             - The anterior surface of the heart mostly consist of the right ventricle, with some of the right atrium and some of the left ventricle at the apex of the heart
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Chambers in the inferior surface of the heart**
             - The inferior chamber of the heart mainly consists of the left ventricle, and a small portion of the right ventricle
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Chambers involved in the left pulmonary surface of the heart**
             - The left pulmonary surface consist of the left ventricle and a small portion of the left atrium
@@ -169,20 +130,7 @@ Updated: August 28, 2022 9:50 PM
             - Pulmonary veins (4 in total, 2 for each lung) - conducts oxygenated blood from lungs to left atrium
             - Ascending aorta - conducts oxygenated blood from left ventricle to the body
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         - Note that the aorta lies to the right of pulmonary trunk:
             - This is because left ventricle lies behind right ventricle as the heart is tilted anteriorly towards the left side
@@ -198,20 +146,7 @@ Updated: August 28, 2022 9:50 PM
         - **What is the right auricle?**
             - Right auricle, a cone-shaped muscular pouch of the right atrium, overlapping the ascending aorta
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
     - [[Right atrium\|Right atrium]]
         - **Anatomical position of the right atrium**
@@ -224,20 +159,7 @@ Updated: August 28, 2022 9:50 PM
             - The space posterior to the crista is the sinus vernarum, in which the walls is smooth
             - Figure - Right pulmonary surface
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Separation of right atrium from left atrium and it’s features**
             - Right atrium is separated from the left atrium by the interatrial septum, which faces anteriorly and to the right as the right atrium is located anterior to the left atrium
@@ -261,20 +183,7 @@ Updated: August 28, 2022 9:50 PM
                 - The cusps are continuous with each other at the base of the tricuspid valve, the fibrous ring surrounding the right atrioventricular orifice, at sites known as commissures
                 - The free margins of the anterior, posterior and septal cusps attach to the corresponding papillary muscles via chordae tendineae
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
             - **Mechanism of tricuspid valve in ensuring one way flow of blood**
                 - During ventricular filling, since the atrial pressure is greater than ventricular pressure, the cusps project into the right ventricle, allowing the tricuspid valve to open
@@ -297,20 +206,7 @@ Updated: August 28, 2022 9:50 PM
         - **What is the left auricle?**
             - The left auricle is a small ear-shaped muscular pouch of the left atrium, overlapping the pulmonary trunk
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
     - [[Left atrium\|Left atrium]]
         - **Anatomical position of the left atrium**
@@ -384,20 +280,7 @@ Updated: August 28, 2022 9:50 PM
     - Pulmonary valve - Medial end of 2nd left intercostal space
     - Aortic valve - medial end of 2nd right intercostal space
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 ### Cardiac conduction system
@@ -437,20 +320,7 @@ Updated: August 28, 2022 9:50 PM
     - Provides a point of insertion and separation of atrial and ventricular musculature (physical separation of atria and ventricle)
     - Provides electrical insulation between atria and ventricles, where the only electrical connection is the atrioventricular bundle running along the right fibrous trigone
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 ### Blood supply and innervation of the heart
@@ -475,20 +345,7 @@ Updated: August 28, 2022 9:50 PM
                         - Right marginal branch - A branch given off as the right coronary artery approaches the inferior margin of the heart
                         - Posterior interventricular branch - A branch of right coronary artery on the diaphragmatic surface of the heart, which descends along the posterior interventricular sulcus towards the apex of the heart
                         
-                        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                        ![[Untitled\|Untitled]]
                         
                 - Left coronary artery
                     - **Structures supplied by left coronary artery**
@@ -500,20 +357,7 @@ Updated: August 28, 2022 9:50 PM
                         - The circumflex branch - A terminal branch of left coronary artery that courses left along coronary sulcus onto the diaphragmatic surface of the heart and ends before reaching interventricular sulcus
                         - Left marginal branch - A branch of of the circumflex branch coursing along the obtuse margin of the heart
                         
-                        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                        ![[Untitled\|Untitled]]
                         
         - Cardiac veins
             - **Function of coronary sinus**
@@ -529,20 +373,7 @@ Updated: August 28, 2022 9:50 PM
                 - Posterior cardiac vein:
                     - Begins on the posterior surface of left ventricle and ascends to enter the coronary sinus, or joins the great cadiac vein
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
             - **Other cardiac veins and their courses**
                 - Anterior cardiac veins:
@@ -554,16 +385,4 @@ Updated: August 28, 2022 9:50 PM
         - Sympathetic fibres arising from T2 to T5 providing sympathetic innervation
         - Vagus Nerve (CN X) providing the parasympathetic innervations
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
