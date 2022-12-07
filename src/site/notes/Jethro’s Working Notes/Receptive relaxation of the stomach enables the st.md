@@ -24,20 +24,7 @@ The receptive relaxation of the stomach is the **decrease in the smooth muscle t
         - Stimulation of inhibitory neurons of the Enteric nervous system results in release of Nitric oxide and Vasoactive inhibitory peptide (VIP), which stimulates smooth muscle relaxation.
         - Inhibition of excitatory neurons results in inhibition of release of acetylcholine, which inhibits smooth muscle relaxation.
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     
     This results in decrease in smooth muscle tone of the gastric wall.
