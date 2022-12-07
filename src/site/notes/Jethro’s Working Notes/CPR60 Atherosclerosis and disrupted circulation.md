@@ -25,20 +25,7 @@ Updated: September 20, 2022 9:19 PM
         
         The atheromatous plaque has an overlying fibrous cap (not lined with endothelium) which makes it pro-coagulant
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Morphological progression in development of atherosclerosis**
         
@@ -48,20 +35,7 @@ Updated: August 28, 2022 9:50 PM
         
         Atheromatous plaque - Lesions with cells, such as VSMC, T cells, foam cells, ECM, with collagen, elastic fibre, proteoglycans, and intracellular and extracellular lipids
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Ref: [[Composition of atherosclerotic plaque\|Composition of atherosclerotic plaque]]
         
@@ -80,56 +54,17 @@ Updated: August 28, 2022 9:50 PM
         
         HDL is responsible for converting oxidised LDL into minimally oxidised LDL
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Oxidised LDL stimulates endothelial dysfunction, resulting in increased monocyte and leukocyte adhesion
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Monocytes penetrate the endothelial wall, proliferate and differentiate into macrophages
         
         Macrophages phagocytose oxidised LDL, forming foam cells, thus forming fatty streaks
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Foam cells undergo apoptosis and necrosis, releasing lipids and debris, thus stimulating phagocytosis
         
@@ -145,20 +80,7 @@ Updated: August 28, 2022 9:50 PM
         
         Macrophages also phagocytose LDL, forming foam cells
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Pathogenesis of atherosclerosis due to infection**
         
@@ -180,20 +102,7 @@ Updated: August 28, 2022 9:50 PM
     
     Theses changes can result in sudden partial or complete vascular occlusion, resulting in ischaemic injury and infarction
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Ref: [[Robbins  Clinicopathological consequences of atherosclerosis\|Robbins  Clinicopathological consequences of atherosclerosis]] 
     
@@ -203,20 +112,7 @@ Updated: August 28, 2022 9:50 PM
         
         Haemorrhage
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
 
 ### Disruption of circulation
@@ -252,20 +148,7 @@ Updated: August 28, 2022 9:50 PM
         
         Thrombin (Factor II) also activates fibrin stabilizer (factor XIII), which causes cross-linking of fibrin to form fibrin net
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Pathogenesis of thrombus**
         
