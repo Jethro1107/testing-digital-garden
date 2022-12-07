@@ -12,20 +12,7 @@ Updated: June 18, 2022 11:19 AM
 
 - Aims to tackle determinants of health at all levels, aimed at the whole population (not just high risk groups)
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     - Health promotion - A process that enables indiviudals to gain control over their lives and to improve their health
     - 3 aims of health promotion:
