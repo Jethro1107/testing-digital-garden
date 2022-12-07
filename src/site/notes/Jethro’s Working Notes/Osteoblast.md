@@ -19,35 +19,9 @@ Hence, they assume a protein-synthesizing phenotype, with prominent Golgi appara
     
     Osteoblasts sit on the bone surface, side by side, somewhat ressembling a simple epithelium, laying down osteoid, enabling oppositional growth. They are eventually surrounded by the osteoid they synthesize, and become [[Jethro’s Working Notes/Osteocyte\|Osteocyte]].
     
+    ![[Untitled\|Untitled]]
     
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-    
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **********************************Osteoblastic activity determines morphology and biochemical properties**********************************
     
@@ -60,16 +34,4 @@ Updated: August 28, 2022 9:50 PM
     - They have low alkaline phosphatase activity.
     - 3 months of inactivity will cause them to turn into ******************bone lining cells.******************
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
