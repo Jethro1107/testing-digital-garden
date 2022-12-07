@@ -32,39 +32,13 @@ Proteoglycans and glycosaminoglycans are soluble fibres of the [[Jethro’s Work
         
         Many GAG attach to a protein core.
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - Small leucine repeat proteoglycans - Decorin, Biglycan, Lumicans
         
         These are small proteoglycans with few GAG side chains attached to the protein core.
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
 - ********************************************************It is the glycosaminoglycan moiety that serves mechanical functions for cartilage: [[Jethro’s Working Notes/EditLater\|EditLater]] (how compressive resistance translates to shock absorption: also correlate to IV disc notes somehow, not that important)**
     
