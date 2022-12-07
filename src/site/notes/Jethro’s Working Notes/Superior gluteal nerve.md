@@ -17,16 +17,4 @@ It provides:
 
 - Motor innervation to the gluteal medius, gluteal minimus and tensor fascia lata, *******************************the abductors of the hip joint.*******************************
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
