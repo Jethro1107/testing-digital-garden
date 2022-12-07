@@ -76,20 +76,7 @@ Liver function test is a series of blood tests that monitor various liver functi
         This is because there is also release of mitochondrial AST.
         
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     ******************************************************************Ductal enzymes (e.g. ALP and GGT)******************************************************************
     
