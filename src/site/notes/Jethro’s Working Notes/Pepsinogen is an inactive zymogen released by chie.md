@@ -13,20 +13,7 @@ Updated: November 30, 2022 4:03 PM
 
 Pepsinogen is an inactive zymogen released by gastric chief cells. It is a single polypeptide chain consisting of an activation (masking) peptide and the active pepsin. 
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 - **Action of pepsin:**
     
@@ -38,20 +25,7 @@ Updated: August 28, 2022 9:50 PM
     
     It is active in acidic pH, and becomes irreversibly inactive (denatured) at pH7-8 or above.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Pepsin is activated via 2 mechanisms:**
     1. Pepsin is activated by gastric acid
