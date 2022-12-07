@@ -24,20 +24,7 @@ Crypts of Lieburkuhn are short tubular glands formed from the invagination of th
     - Paneth cells are located at the base of the crypt.
     - Histologically, paneth cells assume the appearance of protein-secreting cells, with apical eosinophilic granules (containing defensin).
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-%2001a26ce336054694bc2b3d01691a3c07/Untitled.png)
+    ![[Untitled\|Untitled]]%2001a26ce336054694bc2b3d01691a3c07/Untitled.png)
     
     - They serve defensive functions by secreting defensin.
     
@@ -46,20 +33,7 @@ Updated: August 28, 2022 9:50 PM
     - Enteroendocrine cells are located at the base of the crypt.
     - Histologically, they consist of subnuclear eosinophilic granules.
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-%2001a26ce336054694bc2b3d01691a3c07/Untitled%201.png)
+        ![[Untitled\|Untitled]]%2001a26ce336054694bc2b3d01691a3c07/Untitled%201.png)
         
     - They serve endocrine/paracrine functions, involved in regulating GI motility and secretion.
 
