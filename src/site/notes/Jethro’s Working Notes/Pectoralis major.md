@@ -13,20 +13,7 @@ Updated: October 16, 2022 9:49 AM
 
 The pectoral major is the larger pectoralis muscle. It has a long line of origin, at the medial 1/2 of the clavicle, the sternum and the first 6 costal cartilage, where it courses laterally and twists, inserting at the lateral lip of the intertubercular groove of the humerus.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 - ******************************Movements of the pectoralis major******************************
     
@@ -36,16 +23,4 @@ Updated: August 28, 2022 9:50 PM
     
     It enables medial rotation of the shoulder joint.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
