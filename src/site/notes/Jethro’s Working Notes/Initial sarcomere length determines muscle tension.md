@@ -15,16 +15,4 @@ The initial sarcomere length determines the zone of overlap (recall the structur
 
 - ************************************************************************Maximal tension is produced at optimal sarcomere length************************************************************************
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
