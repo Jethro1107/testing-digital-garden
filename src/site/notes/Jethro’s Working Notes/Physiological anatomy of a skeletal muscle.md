@@ -29,16 +29,4 @@ The central portion lacks sarcomere, and is hence non-contractile ([[Jethro’s 
 
 The two ends of intrafusal muscle fibres are contractile, and are innervated by *gamma motor neurons*.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
