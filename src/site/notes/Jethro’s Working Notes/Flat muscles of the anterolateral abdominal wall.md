@@ -18,39 +18,13 @@ The three flat muscles of the [[Jethro’s Working Notes/Anterolateral abdominal
     - It originates from the 5th to 12th rib, and inserts onto the iliac crest.
     - It’s fibres run inferomedially, where it form an aponeurosis which merges linea alba in front of the rectus abdominis
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Internal Oblique**
     - The middle layer, and is much smaller and thinner than the external obliques
     - It’s fibres run superomedially, where it forms an aponeurosis near the midline which merges with the linea alba
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Transversus abdominis**
     - The deepest layer of the 3 flat muscles of the abdominal wall.
@@ -58,36 +32,10 @@ Updated: August 28, 2022 9:50 PM
     - Its fibres run transversely and forms an aponeurosis which merges with the linea alba.
     - Deep to the transversus abdominis is the transversus fascia (the investing (deep) fascia of the transversus adominis).
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 ---
 
