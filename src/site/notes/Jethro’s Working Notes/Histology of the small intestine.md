@@ -17,20 +17,7 @@ The small intestine consist of [[Jethro’s Working Notes/The common histologica
     
     The mucosa is lined with a simple columnar epithelium that protrudes into the lumen to form [[Jethro’s Working Notes/Intestinal villi\|Intestinal villi]], and invaginates deeply to form [[Crypts of Lieburkuhn (intestinal [[glands)\|Crypts of Lieburkuhn (intestinal [[glands)]]]].
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     The lamina propria may consist of lymphoid nodules (mostly in the ileum as [[Jethro’s Working Notes/Peyer’s Patch\|Peyer’s Patch]] ).
     
@@ -42,20 +29,7 @@ Updated: August 28, 2022 9:50 PM
     
     The submucosa protrudes towards the lumen to form [[Jethro’s Working Notes/Pilcae circulares\|Pilcae circulares]] , circular folds of the small intestine in gross anatomy.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Note that in the proximal portion of the small intestine, the duodenum, submucosal glands are present as [[Jethro’s Working Notes/Brunner’s glands in the duodenum\|Brunner’s glands in the duodenum]] .
     
@@ -70,20 +44,7 @@ Updated: August 28, 2022 9:50 PM
     The entire small intestine is lined with serosa, whereas retroperitoneal organs are lined with adventitia.
     
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 - Distinct features are present in different regions of the small intestine:
     - [[Jethro’s Working Notes/Brunner’s glands in the duodenum\|Brunner’s glands in the duodenum]]
