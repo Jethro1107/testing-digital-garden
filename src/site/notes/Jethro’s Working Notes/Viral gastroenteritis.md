@@ -22,20 +22,7 @@ Updated: November 22, 2022 6:10 PM
     
     It is a wheel-shaped virus.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Epidemiology of rotaviral gastroenteritis**
     
