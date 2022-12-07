@@ -127,20 +127,7 @@ Updated: June 18, 2022 11:20 AM
             
             Aspartate and NH4+ is fed into Urea cycle for urea biosynthesis
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
 - Glutamine as an Ammonia Transport
     - Describe how glutamine synthesis is integrated into the urea cycle
