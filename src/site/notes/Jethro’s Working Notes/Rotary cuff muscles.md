@@ -21,20 +21,7 @@ The rotary cuff muscles consist of 3 muscles on the posterior scapular region: *
     
     It **********************************************initiates abduction of the gleonohumeral joint**********************************************. The supraspinatus is involved in abduction of the shoulder joint from 0 to 45 degrees, while the deltoid muscle carries out the rest of the abduction. [[Full abduction of the arm requires action of 4 muscles\|Full abduction of the arm requires action of 4 muscles]].
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **************************Infraspinatus**************************
     
@@ -42,20 +29,7 @@ Updated: August 28, 2022 9:50 PM
     
     It enables lateral rotation of the glenohumeral joint.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **********************Teres minor**********************
     
@@ -63,20 +37,7 @@ Updated: August 28, 2022 9:50 PM
     
     It enables lateral rotation of the glenohumeral joint. Contrasting with the [[Jethro’s Working Notes/Teres major\|Teres major]], which enables medial rotation, this is because the teres minor inserts posteriorly while the teres major inserts anteriorly.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **************************Subscapularis**************************
     
@@ -84,16 +45,4 @@ Updated: August 28, 2022 9:50 PM
     
     It enables medial rotation of the shoulder joint.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
