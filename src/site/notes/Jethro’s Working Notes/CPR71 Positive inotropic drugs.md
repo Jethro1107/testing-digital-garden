@@ -52,20 +52,7 @@ Updated: September 20, 2022 9:19 PM
         
         This results in positive inotropic effects
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Cf: [[  Mechanisms of sympathetic effects on inotropy  \|  Mechanisms of sympathetic effects on inotropy  ]](sympathetic stimulation and inotropy)
         
@@ -152,20 +139,7 @@ Updated: August 28, 2022 9:50 PM
         
         This results in positive inotropic effects
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Adverse effects of phosphodiesterase 3 inhibitors in acute heart failure**
         
@@ -190,35 +164,9 @@ Updated: August 28, 2022 9:50 PM
         
         This results in increased Ca2+ concentration, resulting in positive inotropy
         
+        ![[Untitled\|Untitled]]
         
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-        
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Other effects of cardiac glycosides**
         
@@ -235,20 +183,7 @@ Updated: August 28, 2022 9:50 PM
         
         Decreased Ca2+ expulsion out of cell by Na+/Ca2+ exchanger, or even reverse it
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Results in intracellular Ca2+ overload, increasing risk of delayed after depolarization
         
@@ -293,20 +228,7 @@ Updated: August 28, 2022 9:50 PM
         
         Low blood pressure at baseline is associated with increased mortality with use of levosimendan
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
 
 ### Management of chronic heart failure
@@ -355,20 +277,7 @@ Updated: August 28, 2022 9:50 PM
                         
                         Vasoactive peptides are often upregulated in chronic heart failure to serve as a counterregulatory mechanism to oppose the compensatory mechanisms (i.e. activation of RAAS)
                         
-                        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                        ![[Untitled\|Untitled]]
                         
                     - **MOA of Sacubitril in management of chronic heart failure**
                         
@@ -415,19 +324,6 @@ Updated: August 28, 2022 9:50 PM
                     
 - Overview
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Cf: [[2016 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure  The Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC)Developed with the special contribution of the Heart Failure Association (HFA) of the ESC\|2016 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure  The Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC)Developed with the special contribution of the Heart Failure Association (HFA) of the ESC]]
