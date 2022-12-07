@@ -25,20 +25,7 @@ The dorsal interossei are the most dorsally situated intrinsic muscles of the ha
 
 There are 4 dorsal interossei muscles, which originate from the metacarpals and insert at 1) ******the dorsal extension expansion****** and 2) **********************************************************at the base of the proximal phalanx, in a way that when they contract, abduction of the digits occur**********************************************************.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 - ******************************************************************Movement of the dorsal interossei******************************************************************
     
