@@ -33,20 +33,7 @@ Penicillin is a beta-lactam antibiotic, that inhibits cell wall synthesis. It is
     
     In Gram negative (G-) bacteria, it requires active transport via hydrophilic channels (e.g. porin channels) across the outer membrane.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Classification of penicillins**
     - Natural penicillins
@@ -54,20 +41,7 @@ Updated: August 28, 2022 9:50 PM
             
             Penicillin G, Penicillin V
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Spectrum of natural penicillins and susceptibility to Beta-lactamases**
             
@@ -93,20 +67,7 @@ Updated: August 28, 2022 9:50 PM
             - This makes them the drug of choice for treating staphylococcus infections (MSSA).
             - However, they are less effective than other penicillin due to difficulty of penetration as a result of the bulky side chain.
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Administration route of antistaphylococcal penicillin**
             
@@ -123,20 +84,7 @@ Updated: August 28, 2022 9:50 PM
             
             Thus effective against gram-negative bacteria
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
             Similar gram positive coverage as natural penicillin, but with increased effectiveness against gram positive bacilli
             
@@ -163,20 +111,7 @@ Updated: August 28, 2022 9:50 PM
             
             Thus effective against gram-negative bacteria
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
             Effective against many gram-negative bacilli and pseudomonas aeruginosa
             
@@ -208,19 +143,6 @@ Updated: August 28, 2022 9:50 PM
     3. Mutations in genes expressing porins in gram negative bacteria, resulting in tight porins that limit permeability
     4. Increased efflux pumps
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Cf: [[    Resistance    \|    Resistance    ]]
