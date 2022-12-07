@@ -33,35 +33,9 @@ Mesenteries are peritoneal folds that connect abdominal viscera to each other or
         e.g. [[Jethro’s Working Notes/Greater omentum\|Greater omentum]] , [[Jethro’s Working Notes/Lesser omentum\|Lesser omentum]] 
         
     
+    ![[Untitled\|Untitled]]%20ac4f1cc3f70e4c66b64fbd459dfa5635/Untitled.png)
     
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-%20ac4f1cc3f70e4c66b64fbd459dfa5635/Untitled.png)
-    
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-%20ac4f1cc3f70e4c66b64fbd459dfa5635/Untitled%201.png)
+    ![[Untitled\|Untitled]]%20ac4f1cc3f70e4c66b64fbd459dfa5635/Untitled%201.png)
     
 - **Mesenteries serve the below functions:**
     1. To suspend the abdominal viscera in the abdominal cavity
