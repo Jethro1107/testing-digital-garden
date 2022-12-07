@@ -22,20 +22,7 @@ Peyer’s patches are lymphoid organs that can be found in the lamina propria of
     - M cells overlie lymphoid nodules by forming a pocket via a deeply invaginated basolateral membrane
     - They are involved in transepithelial transport of particles (e.g. antigens) and microorganisms to immune cells in the lymphoid nodules
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 ---
