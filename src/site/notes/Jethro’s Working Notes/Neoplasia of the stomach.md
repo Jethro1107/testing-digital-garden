@@ -33,37 +33,11 @@ Updated: September 25, 2022 3:45 PM
     
     There is abnormal glandular formations with cells showing dysplastic changes. 
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     In diffuse gastric carcinoma, there are singlet ring cell formations (displaced nucleus with cytoplasm filled with mucin) with minimal glandular formations.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Classification of gastric adenocarcinoma**
     
