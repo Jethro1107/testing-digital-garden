@@ -26,31 +26,6 @@ Updated: September 20, 2022 6:21 PM
 - Sympathetic supply of the hindgut is supplied by the lumbar and splanchnic nerves.
 - Parasympathetic supply of the hindgut is supplied by the pelvic splanchnic nerves (S2-S4).
 
+![[Untitled\|Untitled]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
