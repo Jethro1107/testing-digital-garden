@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jethro-s-working-notes/home/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"permalink":"/jethro-s-working-notes/home/","tags":"gardenEntry","dgPassFrontmatter":true}
 ---
 
 
