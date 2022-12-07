@@ -24,35 +24,9 @@ IHH/PTHrP negative feedback loop regulates the ratio between proliferating chond
     
     PTHrP eventually diffuse back to the epiphyseal plate, where it binds to PTH-1R on prehypertrophic chondrocyte to inhibit chondrocyte hypertrophy, which subsequently reduces IHH expression in these cells.
     
+    ![[Untitled\|Untitled]]
     
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-    
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ********************************************************************************************The IHH/PTHrP is described as a negative feedback mechanism at 2 levels********************************************************************************************
     
