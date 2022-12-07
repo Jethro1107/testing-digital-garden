@@ -26,20 +26,7 @@ This retards bone growth via endochondral ossification, resulting in [[Jethro’
     - A mutation that results in dimerization of FGFR via disulphide bridges (ligand-independent activation of FGFR)
     - A mutation in the tyrosine kinase domain, such that it remains active without undergoing dimerization (ligand independent activation of FGFR)
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 ---
