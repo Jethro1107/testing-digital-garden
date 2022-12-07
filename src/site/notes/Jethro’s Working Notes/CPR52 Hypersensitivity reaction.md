@@ -61,20 +61,7 @@ Updated: September 20, 2022 9:19 PM
         
         It also results in transcriptional activation of cytokine genes
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Effects of mast cell activation**
         1. Degranulation of granules (Histamine, serotonin i.e. vasoactive amines and protease)
@@ -92,20 +79,7 @@ Updated: August 28, 2022 9:50 PM
             TNF, IL-1, IL-8 for mediating inflammation and recruitment of leukocytes
             
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
 - **Examples of type I hypersensivity reactions**
     - Allergic rhinitis/Asthma
@@ -244,20 +218,7 @@ Updated: August 28, 2022 9:50 PM
     
     Opsonization and phagocytosis
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     - **Pathway of type III hypersensitivity reactions**
         
@@ -271,20 +232,7 @@ Updated: August 28, 2022 9:50 PM
         
         This results in systemic arthritis, vasculitis, nephritis and dermatitis
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
 - **Examples of Type III hypersensitivity**
     - Serum sickness
@@ -294,20 +242,7 @@ Updated: August 28, 2022 9:50 PM
             
             Immune complex deposits on endothelial wall to trigger inflmmation
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
     - Systemic lupus erythromatosus (SLE)
         - **Pathogenesis of SLE**
@@ -345,20 +280,7 @@ Updated: August 28, 2022 9:50 PM
         
         Activation of macrophages results in increased MHC class II protein expression, increased phagolysosome formation, Increased NO synthase activation and increased ROS formed
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
 - **Examples of Type IV hypersensitivity reactions**
     - Allergic contact dermititis
@@ -399,16 +321,4 @@ Updated: August 28, 2022 9:50 PM
             
             Observe for local type IV hypersensitivity reaction
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+            ![[Untitled\|Untitled]]
