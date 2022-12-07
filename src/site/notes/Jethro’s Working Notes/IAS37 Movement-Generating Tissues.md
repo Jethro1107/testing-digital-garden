@@ -120,20 +120,7 @@ Updated: November 6, 2022 5:03 PM
     
     2 terminal cisternae and one T-tubule forms a triad
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - Describe the sliding mechanism that leads to contraction of muscle cell.
     
