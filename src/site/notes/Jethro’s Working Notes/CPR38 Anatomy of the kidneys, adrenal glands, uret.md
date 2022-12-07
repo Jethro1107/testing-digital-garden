@@ -19,20 +19,7 @@ Updated: September 20, 2022 9:19 PM
         
         Right kidney is lower than left kidney due to the association with the liver
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Enclosure of the kidneys**
         
@@ -44,20 +31,7 @@ Updated: August 28, 2022 9:50 PM
         
         Enclosing the laterally and posterior surface of the renal fascia is another layer of fat, the pararenal fat
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Ref: [[Gray’s Anatomy  Renal fat and fascia\|Gray’s Anatomy  Renal fat and fascia]] 
         
@@ -78,35 +52,9 @@ Updated: August 28, 2022 9:50 PM
         
         In the renal sinus, several minor calices unite to form a major calyx, where 2 or 3 major calices unite to form the renal pelvis, a funnel-shaped superior end of ureter, connecting with ureter at ureteropelvic junction
         
+        ![[Untitled\|Untitled]]
         
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-        
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - Anatomical relations of the kidney with other structures
         - **Anatomical relations of the right kidney**
@@ -119,20 +67,7 @@ Updated: August 28, 2022 9:50 PM
             
             Inferior pole - covered by right colic flexure on lateral side and on the intraperitoneal small intestine on medial side
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Anatomical relations of the left kidney**
             
@@ -144,20 +79,7 @@ Updated: August 28, 2022 9:50 PM
             
             Inferior surface - covered by loops of jejunum at medial end, and descending colon at lateral side
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
     - **Blood supply of the kidneys**
         
@@ -167,35 +89,9 @@ Updated: August 28, 2022 9:50 PM
         
         Renal veins - left renal vein is longer than right renal vein as it has to cross the midline between the abdominal aorta and superior mesenteric artery to reach the inferior vena cava
         
+        ![[Untitled\|Untitled]]
         
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-        
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Nerve supply of the kidney**
         
@@ -232,20 +128,7 @@ Updated: August 28, 2022 9:50 PM
         
         Suprarenal vein - right suprarenal vein drains directly into inferior vena cava, where as left surprarenal vein drains into left renal vein
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Ref: [[Gray’s Anatomy  Suprarenal vasculature\|Gray’s Anatomy  Suprarenal vasculature]] 
         
@@ -272,20 +155,7 @@ Updated: August 28, 2022 9:50 PM
         
         Lower part of ureters is supplied by internal iliac arteries and veins, and vesical arteries and veins
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Lymphatic drainage of ureters**
         
@@ -307,20 +177,7 @@ Updated: August 28, 2022 9:50 PM
         
         Pubic crest - joins the two public bones
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Clinical significance of pelvic inlet**
         
@@ -338,20 +195,7 @@ Updated: August 28, 2022 9:50 PM
             
             Ilium, ischium and pubis form the pelvic bone
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
             - **Site of fusion of ilium, ischium and pubis**
                 
@@ -366,20 +210,7 @@ Updated: August 28, 2022 9:50 PM
             
             They both work to laterally rotate the hip and adducts thigh to hip joint
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Ligaments of pelvic wall**
             
@@ -387,20 +218,7 @@ Updated: August 28, 2022 9:50 PM
             
             Sacrotuberous ligament - connects lateral border of sacrum and occyx to ischium tuberosity
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Openings of pelvic wall and function**
             
@@ -417,20 +235,7 @@ Updated: August 28, 2022 9:50 PM
         
         Posteriorly border by sacrotuberous ligament and coccyx
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Ref: [[Gray’s Anatomy  Pelvic outlet\|Gray’s Anatomy  Pelvic outlet]] 
         
@@ -438,20 +243,7 @@ Updated: August 28, 2022 9:50 PM
         
         By measuring distance between lateral border of ischial tuberosity
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
 - Blood supply of pelvis
     - **Major arteries supplying pelvis**
@@ -479,20 +271,7 @@ Updated: August 28, 2022 9:50 PM
         8. Vaginal artery
         9. Uterine artery - supplies uterus
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
 
 ### Anatomy of the urinary bladder
@@ -501,20 +280,7 @@ Updated: August 28, 2022 9:50 PM
     
     Most anterior aspect of the pelvic cavity, but expands superiorly into abdominal cavity when full
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Anatomical relations of urinary bladder**
     
@@ -532,20 +298,7 @@ Updated: August 28, 2022 9:50 PM
     
     The detrussor muscle forms sphincter vesicae inferiorly
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     The ureter inserts inferolaterally into the bladder at the ureteric oriface, where the ureter communicates with the bladder
     
@@ -553,20 +306,7 @@ Updated: August 28, 2022 9:50 PM
     
     The trigone is a triangular area at the base of the bladder, between the 2 ureteric oriface and the urethral oriface. It is smooth in lining an sensitive to pain
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Blood supply of the urinary bladder**
     
