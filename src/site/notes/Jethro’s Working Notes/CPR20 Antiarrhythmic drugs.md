@@ -281,20 +281,7 @@ Updated: September 20, 2022 9:19 PM
             
             It also prevents calcium overload
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
             Activates potassium channels in SA node and AV node, thus causing maximal diastolic potential to further decrease (more hyperpolarized), thus decreasing automaticity and conduction velocity
             
@@ -302,20 +289,7 @@ Updated: August 28, 2022 9:50 PM
             
             Adenosine is a vasodilator, resulting in flushing and hypotension
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
             Chest pains and shortness of breath
             
@@ -343,20 +317,7 @@ Updated: August 28, 2022 9:50 PM
             
             Decreased Ca2+ expulsion out of cell by Na+/Ca2+ exchanger, or even reverse it
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
             Results in intracellular Ca2+ overload, increasing risk of delayed after depolarization
             
