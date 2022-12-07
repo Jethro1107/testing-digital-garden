@@ -51,20 +51,7 @@ The brachial plexus is the bundle of nerves (a somatic nerve plexus) that innerv
 
 Branches of the brachial plexus can be present at the roots, cords and at the terminal branches.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 Related:
 
