@@ -21,20 +21,7 @@ mineralized tissue therefore confers mechanical and metabolic functions to the s
 Bone is a specialized connective tissue composed of calcified intercellular material, the **bone matrix,** and three cell types:**Osteocytes** (Gr. *osteon,* bone + *kytos,* cell), which are found in cavities (**lacunae**) between layers (lamellae) of bone matrix (Figure 8–1)
 **Osteoblasts** (*osteon* + Gr. *blastos,* germ), which synthesize the organic components of the matrix**Osteoclasts** (*osteon* + Gr. *klastos,* broken), which are multi-nucleated giant cells involved in the resorption and remodeling of bone tissue.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 **Components of bone.**
 
