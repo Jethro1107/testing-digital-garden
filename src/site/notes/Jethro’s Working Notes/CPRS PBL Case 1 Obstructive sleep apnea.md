@@ -43,20 +43,7 @@ Updated: September 20, 2022 9:19 PM
 - Oropharynx - soft palate, uvula, tongue falls back in supine position, where it partially obstructs airway. Increase in bulk of throat tissues, i.e. during infection or in children (large tonsils) or obesed can also partially obstruct airway
 - Laryngopharynx - Enlarged lingual tonsils or epiglottis
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 - Deep sleep, use of sleeping pills and alcohol consumption results in decreased muscle tone of tongue and throat, which may result in snoring
 - Obstructive sleep apnea (OSA)
