@@ -209,20 +209,7 @@ Updated: June 18, 2022 11:20 AM
 
 - What are the hallmarks of cancer?
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     1. Self sufficiency of growth signals
     2. Insensitivity to growth-inhibitory signals
