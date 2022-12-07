@@ -17,20 +17,7 @@ Histologically, mucous acini cells assume the histological appearance of mucin s
 
 They are involved in mucus secretion (thick and slimy).
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 Serous acini:
 
@@ -38,35 +25,10 @@ Histologically, serous acini assume the histological appearance of protein-secre
 
 They release secretions that are rich in proteins and enzymes (watery in texture).
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 Serous demilunes:
 
 Serous demilunes are mixed glands containing both serous and mucous cells. There is a serous cap, superficial to mucous cells.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
