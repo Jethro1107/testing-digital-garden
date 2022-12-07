@@ -25,16 +25,4 @@ Glucose and galactose absorption is mediated by Na+-dependent cotransport mechan
     
     GLUT5 transports fructose into circulation.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
