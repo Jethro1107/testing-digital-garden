@@ -41,16 +41,4 @@ Descending tracts provide motor functions, while ascending tracts provide sensor
     Ventral spinothalamic tract is for light touch.
     
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
