@@ -33,20 +33,7 @@ Updated: September 20, 2022 9:19 PM
         
         When right atrial pressure increase, cardiac output increase
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - Limits of cardiac output
 - **Driving force of venous return**
@@ -89,20 +76,7 @@ Updated: August 28, 2022 9:50 PM
         
         The slope of the curve represents the resistance of veins
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         [[Medical Literature Notes/Costanzo physiology - Venous return curve\|Costanzo physiology - Venous return curve]] 
         
@@ -131,20 +105,7 @@ Updated: August 28, 2022 9:50 PM
         
         Mean systemic filling pressure also increases, as increase in venous compliance shifts blood from the unstressed volume (veins) to the stressed volume (arteries)
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Effects of increased blood volume on venous return, cardiac output and mean systemic filling pressure**
         
@@ -154,20 +115,7 @@ Updated: August 28, 2022 9:50 PM
         
         Mean systemic blood pressure would also increase
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Effects of positive inotropic agents on cardiac output and venous return**
         
@@ -175,20 +123,7 @@ Updated: August 28, 2022 9:50 PM
         
         An increase in cardiac output results in decreased central venous pressure and increased venous return
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Effects to increased total peripheral resistance on cardiac output and venous return**
         
@@ -196,20 +131,7 @@ Updated: August 28, 2022 9:50 PM
         
         Increase in total peripheral resistance also results in increased arterial pressure (as vasoconstriction of arterioles holds blood in arterial system) and afterload, resulting in decreased cardiac output, and a downward shift of cardiac output curve
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         [[Costanzo physiology Chapter 4  Effects of increased total peripheral resistance on venous return and cardiac output\|Costanzo physiology Chapter 4  Effects of increased total peripheral resistance on venous return and cardiac output]] 
         
@@ -227,20 +149,7 @@ Updated: August 28, 2022 9:50 PM
         
         Decrease in mean arterial pressure results in decreased baroreceptor firing, resulting in increased sympathetic activity, increasing cardiac output and total peripheral resistance, restoring mean arterial pressure
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         [[Effects of standing on systolic and diastolic blood pressure\|Effects of standing on systolic and diastolic blood pressure]] 
         
@@ -272,20 +181,7 @@ Updated: August 28, 2022 9:50 PM
         
         This is a mechanism to increase venous return during exercise as to increase cardiac output
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         [[Cardiovascular physiology concept Chapter 5  Skeletal muscle pump and venous return\|Cardiovascular physiology concept Chapter 5  Skeletal muscle pump and venous return]] 
         
@@ -334,20 +230,7 @@ Updated: August 28, 2022 9:50 PM
         
         Hence, the pressure difference between abdominal part of IVC and right atrium of heart increase, resulting in increased venous return
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Thus, preload increase, and right ventricle stroke volume increase
         
