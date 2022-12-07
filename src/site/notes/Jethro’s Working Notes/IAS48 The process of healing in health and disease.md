@@ -56,20 +56,7 @@ Updated: June 18, 2022 11:20 AM
     
     Permanent cells -Terminally differentiated, non proliferative cells that exit cell cycle and cannot reenter
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - What is the mechanism of wound healing?
     
