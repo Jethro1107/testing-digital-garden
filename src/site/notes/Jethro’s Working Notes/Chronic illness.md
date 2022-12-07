@@ -85,16 +85,4 @@ Being chronically ill is not just a biological deviance, but has greater persona
 
 ### Other than providing medical interventions, how do we help those with chronic illness?
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
