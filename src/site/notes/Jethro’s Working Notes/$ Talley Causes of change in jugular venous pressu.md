@@ -20,16 +20,4 @@ Abnormal wave form:
 - Elevated A wave - Tricuspid stenosis, pulmonary hypertension, pulmonary stenosis
 - Elevated P wave - Tricuspid regurgitation
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
