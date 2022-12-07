@@ -32,20 +32,7 @@ Updated: September 20, 2022 9:19 PM
                 - Middle connective tissue layer with smooth muscle cells
                 - Subendocardium - consisting of purkinje fibres, coronary vasculature and nerve fibres
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
     - Myocardium
         
@@ -55,20 +42,7 @@ Updated: August 28, 2022 9:50 PM
                 - Cardiac muscles
                 - Extensive vasculature
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
     - Epicardium
         - **Histological features of epicardium**
@@ -76,20 +50,7 @@ Updated: August 28, 2022 9:50 PM
             - Loose fibrous and adipose connective tissues
             - Consist of coronary vasculature and nerves
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
 - Histology of cardiac skeleton and heart valves
     - **Composition of cardiac skeleton**
@@ -102,20 +63,7 @@ Updated: August 28, 2022 9:50 PM
                 - Dense irregular connective tissue derived from fibrous cardiac skeleton with an overlying endothelium
                 - Fibrosa is continuous with chordae tendineae in atrioventricular valves
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
             - **Function of fibrosa**
                 - To provide tensile stiffness of cusp
@@ -126,20 +74,7 @@ Updated: August 28, 2022 9:50 PM
                 - Made of loose connective tissues, i.e. loosely arranged collagen and elastic fibers infiltrated by large amounts of ground substances
                 - Spongiosa is thin near the base and becomes prominant at the free edges of cusps
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
             - **Function of spongiosa**
                 - Acts as a shock absorber to dampen vibrations during valvular closure
@@ -152,20 +87,7 @@ Updated: August 28, 2022 9:50 PM
                 - Made of dense connective tissue with many layers of elastic lamellae with an overlying endothelium
                 - Contain cardiac muscle cells from atria and small bundles of smooth muscles
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
             - **Function of ventricularis/atrialis**
                 - Elastic lamellae and smooth muscles facilitate valve movement during the contractile cycle
@@ -173,20 +95,7 @@ Updated: August 28, 2022 9:50 PM
     - Purkinje fibres are larger, thicker and lightly stained
     - Purkinje fibres are more lightly stained as it consist of more glycogen and less myofibrils in its cytoplasm
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 ### Histology of the blood vessels
