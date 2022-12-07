@@ -17,50 +17,12 @@ The musculocutaneous (C5-C7) nerve is a terminal branch of the lateral cord of t
     
     It penetrates the [[Jethro’s Working Notes/Coracobrachialis\|Coracobrachialis]] and passes between the [[Jethro’s Working Notes/Biceps brachii\|Biceps brachii]] and the [[Jethro’s Working Notes/Brachialis\|Brachialis]], and terminates as the lateral cutaneous nerve of the forearm.
     
+    ![[Untitled\|Untitled]]
     
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-    
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **********************************************************************************************************The musculocutaneous nerve provides:**********************************************************************************************************
     - Motor innervation for the 3 muscles of the anterior compartment of the arm
     - Sensory innervation to the lateral surface of the forearm.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
