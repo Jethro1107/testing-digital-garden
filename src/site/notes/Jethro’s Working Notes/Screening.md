@@ -29,20 +29,7 @@ Screening is the prime example of **************secondary prevention************
     
     When applied to the right population (i.e. population with high incidence of the disease), we can greatly improve the positive predictive values, which can then improve yield of the screening program.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 Related:
