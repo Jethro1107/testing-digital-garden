@@ -15,16 +15,4 @@ Updated: October 23, 2022 4:03 PM
 
 The insertions apparently looks like a goose feet, or *******************pes anserinus in Latin*******************.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
