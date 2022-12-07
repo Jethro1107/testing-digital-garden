@@ -47,20 +47,7 @@ Updated: June 18, 2022 11:20 AM
         
         Translation of ABL gene to BCR gene produces a fusion protein, a tyrosine kinase that is constitutively active
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     3. Gene amplification (of MYC gene)
     4. Point mutation (causes hyperactive protein)
