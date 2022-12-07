@@ -27,16 +27,4 @@ They key difference between absorption of luminal oligopeptides and amino acids 
     
     Amino acids (from the breakdown of intracellular oligopeptides or from absorption of luminal amino acids) move across the basolateral membrane into circulation via basolateral facilitated diffusion transporters.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
