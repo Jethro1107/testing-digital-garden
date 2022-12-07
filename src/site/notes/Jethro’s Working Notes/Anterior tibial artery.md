@@ -17,35 +17,10 @@ The anterior tibial artery is a branch of the [[Jethro’s Working Notes/Poplite
     
     It accesses the anterior compartment of the leg superior to the interosseus membrane, and descends along the anterior compartment of the leg, deep to the extensor digitorum longus, similar to the [[deep fibular [[nerve\|deep fibular [[nerve]]]].
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ******************************************In the ankle and foot******************************************
     
     As it crosses the ankle joint, it is renamed as the *dorsalis pedis artery,* which courses lateral to the extensor haullicus longus tendon and gives the arcuate artery.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
