@@ -50,20 +50,7 @@ Updated: November 15, 2022 10:02 AM
     
     Skin rash
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **********************Precautions of pegylated interferons**********************
     
@@ -71,16 +58,4 @@ Updated: August 28, 2022 9:50 PM
     
 - Advantages and disadvantages of pegylated interferons
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
