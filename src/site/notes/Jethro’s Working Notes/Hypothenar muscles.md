@@ -19,20 +19,7 @@ Three muscles contribute to the hypothenar muscles: 1) **********************Abd
     
     The abductor digiti minimi originates from the pisiform and inserts at the medial side of the base of the proximal phalanx of the 5th digit.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     It enables abduction of the 5th digit.
     
@@ -42,20 +29,7 @@ Updated: August 28, 2022 9:50 PM
     
     It originates from the halmate, and inserts at the medial side of the base of the proximal phalanx of the 5th digit.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     It enables flexion of the 5th digit at the metacarpophangeal joint.
     
@@ -65,19 +39,6 @@ Updated: August 28, 2022 9:50 PM
     
     It originates from the halmate and associated flexor retinaculum, and inserts at the medial border of the shaft of the 5th metacarpal.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     It produces no action, no opposition of the 5th digit due to incompatible CMC joint.
