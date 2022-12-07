@@ -15,16 +15,4 @@ Genicular anastamosis is an arterial anastamosis over the knee. It is contribute
 
 This creates collateral blood supply that maintains arterial supply to the leg and foot when the [[Jethro’s Working Notes/Popliteal artery\|Popliteal artery]] is blocked.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
