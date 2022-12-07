@@ -28,20 +28,7 @@ Updated: September 20, 2022 9:19 PM
     
     Alpha and gamma-haemolytic - Further classified by optochin suceptibility and bile solubility
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 ### Streptococcal infection
@@ -59,20 +46,7 @@ Updated: August 28, 2022 9:50 PM
         
         Biochemical reactions - PYR (pyrrolidonyl arylamidase) +ve and VP-ve
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Virulence factors of group A streptococcus**
         
@@ -102,20 +76,7 @@ Updated: August 28, 2022 9:50 PM
                 
                 Young age - 5-15 years old
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
             - **Clinical features of scarlet fever**
                 
@@ -125,37 +86,11 @@ Updated: August 28, 2022 9:50 PM
                 
                 Facial flushing with perioral pallor (pale appearance)
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
                 Pastia’s lines
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
                 Eosinophilia
                 
@@ -200,20 +135,7 @@ Updated: August 28, 2022 9:50 PM
                 
                 This results in release of cytokines that eventually result in shock
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
         - Bacteremia
     - **Microbial diagnosis of GAS**
@@ -268,35 +190,9 @@ Updated: August 28, 2022 9:50 PM
                 
                 Migratory polyarthritis, carditis (valvulitis, pericarditis, myocarditis), subcutaneous nodules (on surface of joint and spine), erythema marginatum, Sydenham’s chorea (involuntary movement, muscle weakness, emotional instability)
                 
+                ![[Untitled\|Untitled]]
                 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-                
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
                 [https://www.youtube.com/watch?v=wTCnbga3sqg&ab_channel=NEJMGroup](https://www.youtube.com/watch?v=wTCnbga3sqg&ab_channel=NEJMGroup)
                 
@@ -339,20 +235,7 @@ Updated: August 28, 2022 9:50 PM
                 
                 Secondary prophylaxis - intramuscular penicillin once every 21-28 days after 1st ARF attack
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
         - Post streptococcal glomerulonephritis (PSGN)
             - **What is PSGN?**
@@ -390,20 +273,7 @@ Updated: August 28, 2022 9:50 PM
         
         Beta-haemolysis with narrow clear zone
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Bacitracin resistance
         
@@ -548,20 +418,7 @@ Updated: August 28, 2022 9:50 PM
         
         Abcess formation - dental abcess, brain abcess, liver abcess, pelvic abcess, subphrenic abcess, lung abcess, empyema thoracis
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Endocarditis
         
@@ -646,20 +503,7 @@ Updated: August 28, 2022 9:50 PM
         
         **S**inusitis (children)
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Predisposition of streptococcus pneumoniae**
         
@@ -727,31 +571,6 @@ Updated: August 28, 2022 9:50 PM
         
 - Overview
     
+    ![[Untitled\|Untitled]]
     
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-    
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
