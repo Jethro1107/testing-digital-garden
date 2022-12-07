@@ -23,34 +23,9 @@ Integrins is a family of transmembrane receptors that mediate weak cell-ECM and 
     
     The signal is transduced to the intracellular domain that interacts with cytoskeleton to produce a cellular response.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 Integrins may interact with other receptors (e.g. DDR) to enhance specificity.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
