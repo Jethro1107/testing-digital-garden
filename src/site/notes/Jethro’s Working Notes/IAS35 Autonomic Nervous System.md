@@ -35,20 +35,7 @@ Updated: September 14, 2022 1:05 PM
     
     In the Autonomic nervous system, the visceral motor neurons in the hypothalamus controls the preganglionic neurons, which synapse with the ganglionic neuron at the autonomic ganglia, which then innerverates the visceral effectors
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - What are the two divisions of the autonomic nervous system? What are their functions?
     
