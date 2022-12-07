@@ -21,20 +21,7 @@ The stomach is also lined with [[Jethro’s Working Notes/The common histologica
     
     The mucosa also consist of the lamina propria and the muscularis mucosae that borders the mucosa.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Features of the submucosa of the stomach**
     
@@ -42,20 +29,7 @@ Updated: August 28, 2022 9:50 PM
     
     Note that this feature is not to increase surface area for absorption (as the stomach is note the main site of absorption), but to enable the stomach to distend/increase its volume without an increase in pressure.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Features of the muscularis externa**
     
