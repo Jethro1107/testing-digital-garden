@@ -27,16 +27,4 @@ They all insert at the deltoid tuberosity, which is the halfway down the lateral
     
     The posterior part enables extension of the shoulder joint.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+    ![[Untitled\|Untitled]]
