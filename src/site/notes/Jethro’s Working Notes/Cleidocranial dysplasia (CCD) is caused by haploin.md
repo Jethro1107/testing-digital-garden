@@ -21,20 +21,7 @@ Loss of function mutation in RUNX2 results in haploinsufficiency, resulting in i
     
     Delayed closure of cranial sutures and fontanelles (holes in the skull in children)
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-%20is%20caused%20by%20haploin%20ea686d257fd3442a8d216aca3bc207cf/Untitled.png)
+    ![[Untitled\|Untitled]]%20is%20caused%20by%20haploin%20ea686d257fd3442a8d216aca3bc207cf/Untitled.png)
     
 
 ---
