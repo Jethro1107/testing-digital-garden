@@ -17,20 +17,7 @@ The muscles of the thigh is separated into the anterior and posterior compartmen
 - The medial group are adductors of the [[Jethro’s Working Notes/Hip joint\|Hip joint]].
 - The posterior group are extensors of the [[Jethro’s Working Notes/Hip joint\|Hip joint]] and flexors of the [[Jethro’s Working Notes/Knee joint\|Knee joint]].
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 ### Anterior compartment of the thigh
 
@@ -63,20 +50,7 @@ The anterior group of muscles of the thigh are mainly extensors of the [[Jethro�
 
  [[Jethro’s Working Notes/Psoas major and iliacus\|Psoas major and iliacus]] 
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 ### Medial compartment of the thigh
 
@@ -105,35 +79,9 @@ The medial group of muscles of the thigh are ****************adductors**********
     The gracilis originates from the body and inferior ramus of the pubis and inserts at the medial side of the tibia, just below the medial condyle ([[Jethro’s Working Notes/Say Grace to Tea denotes the goose feet\|Say Grace to Tea denotes the goose feet]]).
     
 
+![[Untitled\|Untitled]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 ### Posterior compartment of the thigh
 
@@ -161,16 +109,4 @@ The posterior compartment of the thigh, collectively called “hamstrings” are
     The hamstring portion of the adductor magnus originates from the ischial tuberosity and inserts at the adductor tubercle, above the medial epicondyle of the femur.
     
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
