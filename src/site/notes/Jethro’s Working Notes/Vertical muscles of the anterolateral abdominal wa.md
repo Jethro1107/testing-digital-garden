@@ -20,20 +20,7 @@ The vertical muscles are surrounded by the [[Jethro’s Working Notes/Rectus she
     - It originates from the 5th to 7th costal cartilages and inserts at the pubic crest.
     - Along its course, it is intersected by three or four tendinous intersections transversely.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Pyramidalis**
     - Pyramidalis may not be present in some individuals.
@@ -41,20 +28,7 @@ Updated: August 28, 2022 9:50 PM
     - It’s base attaches to the base of the pubic bone, and its apex attaches superiorly and medially to the linea alba.
     
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 ---
 
