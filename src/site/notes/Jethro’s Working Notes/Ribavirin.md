@@ -21,20 +21,7 @@ Ribavirin is an anti-viral drug that is used for the pharmacological management 
     - It inhibits inosine monophosphate dehydrogenase (IMPHD), resulting in the depletion of GTP, thus inhibiting RNA replication.
     - It serves as a RNA mutagen, increasing mutation rates of HCV.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ********************************************************Adverse effects of Ribavirin********************************************************
     
