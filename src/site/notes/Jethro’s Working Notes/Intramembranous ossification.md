@@ -25,35 +25,9 @@ Intramembranous ossification is involved in formation of flat bones in the skull
     
     Simutaneously, the calcified bone matrix, which is initially laid down as primary bone tissue, is remodelled into secondary bone tissue ([[Primary bone and secondary bone differ histologically\|Primary bone and secondary bone differ histologically]]), as either compact bone or spongy bone ([[Compact bone and spongy bone differ by the presence of cavities\|Compact bone and spongy bone differ by the presence of cavities]]).
     
+    ![[Untitled\|Untitled]]
     
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-    
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 ### Reference:
