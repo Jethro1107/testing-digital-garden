@@ -26,20 +26,7 @@ Updated: October 17, 2022 5:25 PM
         - Rate of displacement of blood in a vessel per unit time
         - Velocity of blood flow equals to flow rate divided by cross-sectional area
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Effect of area on velocity of blood flow**
         - Given that flow rate remains unchanged (Q is constant):
@@ -52,20 +39,7 @@ Updated: August 28, 2022 9:50 PM
         - This may be advantageous because the low velocity of blood flow in capillaries maximizes time for the exchange of fluid and solutes between blood and interstitial fluid
         - As capillaries converge into venules and into veins, the total cross sectional area decreases, and hence velocity of blood flow increases
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
 - Flow rate
     - **Factors determining blood flow**
@@ -76,20 +50,7 @@ Updated: August 28, 2022 9:50 PM
         - **Determinants of resistance to blood flow**
             - Hagen-Poiseuille law states that the resistance of flow in an idealised system i.e. viscous fluid in a straight rigid, cylindrical, unbranched tube) is espressed by:
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
             - Resistance is directly proportional to viscosity of the blood and length of the vessel, and inversely proportional to the fourth power of the radius
             - Radius of the blood vessel is the greatest determinant of resistance
@@ -102,39 +63,13 @@ Updated: August 28, 2022 9:50 PM
                 - An organs blood vessels, i.e. arteries, arterioles, capillaries, venules and veins are arranged in series
                 - The total series resistance of the system is equal to the sum of individual resistance:
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
             - **Parallel arrangement of blood vessels and resistance**
                 - Arterioles and capillaries are arranged in parallel branches
                 - The total parallel resistance of the system equals to:
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
                 - The total parallel resistance is less than any of the individual resistances
                 - Increasing the number of branches will decrease the total parallel resistance
@@ -212,39 +147,13 @@ Updated: August 28, 2022 9:50 PM
             - Pulse pressure - Difference between systolic pressure and diastolic pressure
         - **Ranges of blood pressure in normal, prehypertension and hypertension**
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - Mean arterial pressure
             - **Definition and calculation of mean arterial pressure**
                 - Mean arterial pressure is the average arterial pressure during cardiac cycle
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
             - **Factors affecting mean arterial pressure**
                 - Mean arterial pressure depends on [Cardiac [[Jethro’s Working Notes/CPR29-30 Blood Flow And Blood Pressure\|]] (flow rate) and total vascular resistance
@@ -271,20 +180,7 @@ Updated: August 28, 2022 9:50 PM
         - Arteriovenous anastamosis can only be found in skin and extremities
         The idealised microcirculatory circuit is **NOT** the norm
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
     - **Key factor for controlling local blood flow and the effector organ**
         - Radius of the blood vessel is the key factor for controlling local blood flow, which is determined by the contractility of vascular smooth muscle in tunica media of arterioles, i.e. Local blood flow is regulated by the contractile state of the arteriole smooth muscles
@@ -298,20 +194,7 @@ Updated: August 28, 2022 9:50 PM
             - Calcium-calmoudulin complex acrivates myosin light chain kinase (MLCK)
             - Once activated, MLCK phosphorylates myosin heads, which repititively bind to actin filaments, resulting in muscle contraction
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         - **Molecular basis of smooth muscle relaxation**
             - Smooth muscle relaxation is triggered by a decrease in intracellular Ca2+ levels
@@ -330,37 +213,11 @@ Updated: August 28, 2022 9:50 PM
                         - Stretching of vessel walls initiate stretch-induced vascular depolarization by opening stretch-sensitive ion channels
                         - This results in an influx of Ca2+ from extracellular fluid, causing an increase in intracellular Ca2+ level, causing an increase in Calcium-calnoudulin complex, an increase in MLCK activity and increased in smooth muscle contractility
                             
-                            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                            ![[Untitled\|Untitled]]
                             
                         - This decreases the radius and thus decreases the vascular tension according to Law of Laplace
                         
-                        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                        ![[Untitled\|Untitled]]
                         
                         - This also increases resistance and thus decreases blood flow
                 - Tissue metabolic rate
@@ -378,20 +235,7 @@ Updated: August 28, 2022 9:50 PM
                                 - Protein kinase G also phosphorylate SERCA, increasing sequesteration of Ca2+ into sarcoplasmic reticulum, resulting in decreased intracellular Ca2+ levels
                                 - This results in smooth muscle relaxation and vasodilation
                                 
-                                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                                ![[Untitled\|Untitled]]
                                 
                         - Prostaglandin I2 (prostacyclin)
                             - **Intracellular pathway and action of prostaglandin I2**
@@ -447,20 +291,7 @@ Updated: August 28, 2022 9:50 PM
         - During systole, coronary vessels (intramural arteries) are compressed, resulting in decreased blood flow in systole
         - Hence, coronary blood flow is higher in diastole
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Effects of sympathetic activity on coronary blood flow**
         - Sympathetic activity results in increased heart rate, resulting in shortening of diastole, decreasing time for maximal coronary perfusion
