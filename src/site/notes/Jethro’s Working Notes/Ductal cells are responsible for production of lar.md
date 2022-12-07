@@ -21,20 +21,7 @@ Updated: September 16, 2022 9:47 PM
     
     Apical Cl- channels (CFTR) facilitates the action of SLC26A6 by recycling Cl-.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     **Another mechanism creates an acid tide:**
     
@@ -44,19 +31,6 @@ Updated: August 28, 2022 9:50 PM
     
     H+ created from dissociation of H2CO3 is pumped into interstitium via basolateral NHE.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     The HCO3- secreted creates a negative potential and osmotic gradient that drives movement of Na+ and water into the lumen. This results in the formation of large volumes of isotonic, HCO3- secretions.
