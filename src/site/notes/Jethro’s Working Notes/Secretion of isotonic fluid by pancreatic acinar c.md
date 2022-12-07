@@ -20,16 +20,4 @@ Updated: October 3, 2022 4:25 PM
 5. Cl- is released into the lumen via the Ca2+ activated Cl- channels.
 6. This creates a negative potential and an osmotic gradient that drives the movement of Na+ and water into the lumen via tight junctions.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
