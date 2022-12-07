@@ -23,20 +23,7 @@ The stomach is a dilated portion of the GI tract that serves functions such as p
     
     The **pylorus** - The most distal part of the stomach, further separated into the antrum and the pyloric canal. *The pylorus always sits at the transpyloric plane at L1.*
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Other features of the stomach include:**
     1. The greater and the lesser curvature
