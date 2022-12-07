@@ -155,56 +155,17 @@ Updated: November 28, 2022 2:38 PM
     - Based on **prior data** reporting on genotype-phenotype associated, maybe monogenic traits, polygenic traits and multifactorial traits
     - Data comes from publishments, but companies like 23andme and circleDNA collect data themselves from donors
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     - May use allelic models, dominant models or recessive models, but allelic models are prefered
 - Likelihood ratios in allelic model
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     - Likelihood ratio is the same as [[Risk ratio\|Risk ratio]]
 - Increase in risk makes use of likelihood ratio and average risk for a particular individual
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     - i.e. your risk = average risk * likelihood ratio derived from allelic model
 
@@ -214,20 +175,7 @@ Updated: August 28, 2022 9:50 PM
 - Cancer somatic mutation testing tests for drugable mutations in cancer cells to inform the use of target therapy
     - target therapy e.g. Imatinib targets BCR/ABL fusion gene in chronic myeloid leukemia
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - Only a number of cancer driver genes (100-400) are sequenced by [[Next generation sequencing techniques\|Next generation sequencing techniques]] for 2 reasons
     - Certain genes are unlikely to be important for cancer development
