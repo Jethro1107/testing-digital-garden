@@ -44,16 +44,4 @@ Ligaments of the vertebral column bind vertebrae together, and limit the range o
     Supraspinous ligament bridges spinous process from C7 to sacrum, and continuous superiorly as the *************************************nuchal ligament of the head and neck.*************************************
     
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
