@@ -19,40 +19,14 @@ Updated: November 23, 2022 4:31 PM
     
     It should be noted that the mucosa varies considerably from region to region of the GI tract.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Features of the submucosa**
     - The submucosa is formed mainly by a dense irregular connective, consisting of larger blood vessels and lymphatics.
     - The submucosa also consist of the submucosal (Meissner) plexus, which are nerve fibres of the autonomic nervous system. The Meissner plexus regulates secretomotor functions, regulating secretion of mucosal glands and motility of the muscularis mucosae.
     - **Mucous glands** are only present in the oesophagus (as oesophageal glands) and in the duodenum (as duodenal glands).
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Features of the muscularis externa**
     - The muscularis externa is a thick muscularis of smooth muscles organised into two sublayers:
@@ -61,39 +35,13 @@ Updated: August 28, 2022 9:50 PM
     - Between the two sublayers, is the myenteric (Auerbach) plexus, consisting of autonomic neurons organised into nerve ganglia and interconnected pre- and post-ganglionic nerve fibres. The Auerbach plexus regulates motor functions, coordinating the contraction of the muscularis externa to mix food and push it down the GI tract, i.e. [[Peristalsis\|Peristalsis]].
     - Note that the Meissner and Auerbach plexus comprise the *[[Jethro’s Working Notes/Enteric nervous system\|Enteric nervous system]]*.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Features of the serosa/adventitia**
     - Serosa - A thin layer of loose connective tissue covered by a layer of simple squamous epithelium (mesothelium), which is the parietal peritoneum in gross anatomy. Only intraperitoneal organs are covered by the serosa.
     - Adventitia - A thick layer of connective tissue with no mesothelial lining that is continuous with surrounding tissue. Only the oesophagus (as it is not located in the abdominal cavity) and retroperitoneal organs are covered by the adventitia.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 The same 4-layered histological organisation of the GI tract holds true for the entire GI tract. However, different parts of the GI tract have distinct histological features that aids their function (See: ). 
