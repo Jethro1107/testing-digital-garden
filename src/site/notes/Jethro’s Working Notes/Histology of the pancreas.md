@@ -26,20 +26,7 @@ Pancreatic acini
 
 - The pancreatic acini consist of serous cells (protein-secreting cells) and a small lumen.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 Ductal system
 
@@ -76,16 +63,4 @@ The islet of Langherans consist of 4 cell types:
     Pancreatic polypeptide cells secret pancreatic polypeptides, which affect GI functions.
     
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
