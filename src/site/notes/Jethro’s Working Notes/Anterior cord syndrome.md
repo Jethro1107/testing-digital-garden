@@ -33,20 +33,7 @@ Anterior cord syndrome is an incomplete [[Jethro’s Working Notes/Spinal cord i
     
     - Ischemia of the lateral corticospinal tract results in loss of motor functions.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 Related:
