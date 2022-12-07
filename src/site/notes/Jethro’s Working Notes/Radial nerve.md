@@ -24,20 +24,7 @@ It descends along the posterior wall of the axilla, and leave the axilla to acce
     - Motor innervation to the posterior compartment of the arm, i.e. the [[Jethro’s Working Notes/Triceps brachii\|Triceps brachii]]
     - Sensory innervation of the posterior surface of the arm, via the posterior cutaneous nerve of the arm
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ****************************************In the cubital fossa****************************************
     
@@ -47,67 +34,15 @@ Updated: August 28, 2022 9:50 PM
     
     The deep branch leaves the cubital fossa through the two layers of the supinator, and provides motor innervation to the muscles of the [[Jethro’s Working Notes/Posterior compartment of the forearm\|Posterior compartment of the forearm]].
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     The superficial branch courses deep along the brachioradialis and emerges from the anatomical snuff box, and provides sensory innervation to the dorsal surface of the lateral 3 and a half digits and associated dorsum of the hand.
     
+    ![[Untitled\|Untitled]]
     
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-    
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **************************************************************Innervation of the radial nerve**************************************************************
     
