@@ -25,20 +25,7 @@ Updated: October 6, 2022 9:41 PM
                 - Before atrial contraction, atrial pressure is greater then ventricular pressure, such that AV valves open, allowing passive filling of ventricle before atrial contraction
                 - Triggered by atrial depolarization, the atria contract, causing slight increase in atrial pressure, forcing an additional small volume of blood to the ventricles (raising ventricular pressure a bit), such that ventricular volume reaches end-diastolic volume (sometimes refered to ‘atria kick’)
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
     - Systole:
         - Phase 2 - Isovolumetric ventricular contraction
@@ -48,20 +35,7 @@ Updated: August 28, 2022 9:50 PM
                 - Ventricular pressure is lower than that of aortic and pulmonary arterial pressure, such that it semilunar valves remain closed, and hence ventricle cannot empty, resulting in constant ventricular volume
                 - Note the small increase in atrial pressure, which is caused by AV valves buldging into atria, causing decrease in atrial volume and increase in atrial pressure transiently
                 
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
                 Ref: [[Guyton and Hall  Atrial a, c and p wave\|Guyton and Hall  Atrial a, c and p wave]] 
                 
@@ -73,35 +47,9 @@ Updated: August 28, 2022 9:50 PM
                     - Rapid ejection period, in which corresponds to plateau period of the action potential, causing increased ventricular muscle tension
                     - Reduced ejection period, which corresponds to the repolarization period of the action potential, causing reduced ventricular muscle tension
                 
+                ![[Untitled\|Untitled]]
                 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-                
-                
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+                ![[Untitled\|Untitled]]
                 
     - Early and mid-diastole:
         - Phase 4 - Isovolumetric ventricular relaxation
@@ -113,20 +61,7 @@ Updated: August 28, 2022 9:50 PM
                 - Ventricular pressure fall below atrial pressure, causing AV valves to open, allowing passive filling of ventricles to occur, resulting increase in ventricular volume
 - Pressure-volume loop
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Ref: [[Boron and Boulpeap  pressure volume loop as a measure of ejection work of the ventricle\|Boron and Boulpeap  pressure volume loop as a measure of ejection work of the ventricle]] 
     
