@@ -25,20 +25,7 @@ Updated: September 20, 2022 9:19 PM
         
         This establishes a osmotic gradient between collecting duct and medullary interstitium to drive reabsorption of water
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Ref: [[Function of loop of henle\|Function of loop of henle]], [[Countercurrent multiplier system in creating hyperosmotic medullary interstitium\|Countercurrent multiplier system in creating hyperosmotic medullary interstitium]], [[Guyton and Hall  Countercurrent multiplier system in producing hyperosmotic renal medullary interstitium\|Guyton and Hall  Countercurrent multiplier system in producing hyperosmotic renal medullary interstitium]] 
         
@@ -54,39 +41,13 @@ Updated: August 28, 2022 9:50 PM
         
         Increase in Cl- concentration in collecting duct facilitates diffusion of Cl- via paracellular transport into interstitium. This increases the Cl- concentration in interstitium, promoting reabsorption of HCO3- via anion-exchanger 1 on basolateral membrane of IC-A cells. Thus, CO2 and H2O combines under action of CA-IV into H2CO3 and dissociates to give H+ and HCO3-, and H+ is secreted into the lumen by primary active transport
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         This also inhibits reabsorption of Ca2+ and Mg2+:
         
         Inhibition of diffusion of K+ into lumen via apical membrane K+ channels abolishes electrochemical gradient, which inhibits reabsorption of Ca2+ and Mg2+
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Clinical use of loop diuretics**
         - Treatment of oedema
@@ -124,20 +85,7 @@ Updated: August 28, 2022 9:50 PM
     - **Adverse effects of loop diuretics**
         1. Hyponatremia
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         2. Hypokalemia
             
@@ -169,20 +117,7 @@ Updated: August 28, 2022 9:50 PM
             
         8. Ototoxicity (hearing problem) - mostly due to ethancrynic acid
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         9. Sulfonamide-related hypersensitivity reaction
             
@@ -217,20 +152,7 @@ Updated: August 28, 2022 9:50 PM
         
         Note: Most Na is reabsorbed at upstream sites before reaching the distal tubule
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **MOA of thiazide-like diuretics**
         
@@ -244,20 +166,7 @@ Updated: August 28, 2022 9:50 PM
         
         Ca2+ is pumped out of tubular cells in the interstitium, causing a decrease in Ca2+ concentration in tubular cells, allowing Ca2+ to diffuse down electrochemical gradient from lumen into tubular cells via Ca2+ channels
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Clinical use of thiazide-like diuretics**
         - Treatment of oedema
@@ -335,35 +244,9 @@ Updated: August 28, 2022 9:50 PM
             
             Spironolactone, eplerenone
             
+            ![[Untitled\|Untitled]]
             
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-            
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
         
         - **Physiological function of aldosterone**
@@ -380,20 +263,7 @@ Updated: August 28, 2022 9:50 PM
             
             This results in increased Na+ reabsorption and K+ secretion
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
             Ref: [[Guyton and Hall  Aldosterone Stimulates Renal Sodium Reabsorption and Potassium Secretion\|Guyton and Hall  Aldosterone Stimulates Renal Sodium Reabsorption and Potassium Secretion]] 
             
@@ -443,20 +313,7 @@ Updated: August 28, 2022 9:50 PM
     
 - Combination therapy
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 ### Angiotensin Converting Enzyme Inhibitor
@@ -516,20 +373,7 @@ Updated: August 28, 2022 9:50 PM
         
         Acute renal failure
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Hyperkalemia - due to inhibition of K+ secretion, cautious with K+ - sparing diuretics
         
@@ -549,20 +393,7 @@ Updated: August 28, 2022 9:50 PM
         
         as angiotensin II can be formed through ACE-independent pathways
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Do not affect angiotensin type II receptors:
         
