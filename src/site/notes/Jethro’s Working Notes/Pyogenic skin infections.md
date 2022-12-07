@@ -13,20 +13,7 @@ Updated: November 22, 2022 10:00 AM
 
 Pyogenic skin infections include 5 groups: Pyoderma, which include impetigo and folliculitis, cellulitis, erysipelas, and skin absess (which include furuncle and carbuncle).
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 ### Pyoderma
 
@@ -40,35 +27,9 @@ Pyoderma, literally means pus in the skin. There are 2 types of pyoderma: impeti
         
         Classically, it develops as papules that form vesicles surrounded by erythema. The pus-filled vesicles then break down to form *******************golden yellow crust*******************, the defining feature of impetigo.
         
+        ![[Untitled\|Untitled]]
         
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
-        
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - ************************************************Epidemiology of impetigo************************************************
         
@@ -88,20 +49,7 @@ Updated: August 28, 2022 9:50 PM
         
         It involves collection of pus involving a hair follicle, with hair passing through the lesion.
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
 
 ### Cellulitis
@@ -118,20 +66,7 @@ Cellulitis is an acute spreading infection involving the dermis, that extends in
     
     Other systemic manifestations include fever, chills, and bacteremia.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - ********************************************Etiology of cellulitis********************************************
     
@@ -164,20 +99,7 @@ A furuncle involves a single hair follicle.
 
 When multiple furuncle coalesce, it results in a carbuncle.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+![[Untitled\|Untitled]]
 
 - ****************************************Etiology of skin abscess****************************************
     
