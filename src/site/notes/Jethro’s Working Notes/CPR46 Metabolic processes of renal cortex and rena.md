@@ -24,20 +24,7 @@ Updated: September 20, 2022 9:19 PM
     
     Once plasma glucose level exceeds renal threshold for glucose excretion, glucosuria may be seen
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **What is renal threshold for glucose excretion, tubular maximum glucose re-absorptive capacity and their values?**
     
@@ -81,20 +68,7 @@ Updated: August 28, 2022 9:50 PM
     
     - Case
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
         Due to increased renal threshold for glucose excretion, urine glucose test probably won’t show glucosuria
         
@@ -111,20 +85,7 @@ Updated: August 28, 2022 9:50 PM
     
     Rich in enzymes for gluconeogenesis, thus mainly carries out gluconeogenesis
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - **Effects of insulin, catacholamine and glucagon on renal gluconeogenesis**
     
@@ -143,20 +104,7 @@ Updated: August 28, 2022 9:50 PM
         
         In response to decrease in blood glucose levels, renal gluconeogenesis occurs to maintain blood glucose level in postpranial state (accounting for 60% of glucose released into blood)
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     - **Hepatorenal coordinations of glucose release in postabsorptive state**
         
@@ -166,20 +114,7 @@ Updated: August 28, 2022 9:50 PM
         
         Kidney accounts for 20-25% of glucose released into blood by gluconeogenesis
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
 
 ### Utilization of glucose from blood for energy
@@ -225,20 +160,7 @@ Updated: August 28, 2022 9:50 PM
     
     All increase
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     - **Factors causing increased renal gluconeogenesis in post-prandial state in T2DM**
         
