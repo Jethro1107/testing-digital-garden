@@ -56,20 +56,7 @@ Updated: June 18, 2022 11:20 AM
     
     Bundles of nerve fascicles surrounded by epineurium to form a nerve trunk
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 
 ### General Structures and Functions of Neurons
@@ -221,20 +208,7 @@ Updated: August 28, 2022 9:50 PM
     
     Shorter, thicker, highly branched processes
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
 - What are the functions of astrocytes?
     
