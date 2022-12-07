@@ -19,16 +19,4 @@ The myenteric plexus (located between the inner circular muscle and the outer ci
 
 While the enteric nervous system can function independently, *the enteric nervous system is under the influence of the autonomic nervous system*, which can greatly enhance or inhibit gastrointestinal functions*.*
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
+![[Untitled\|Untitled]]
