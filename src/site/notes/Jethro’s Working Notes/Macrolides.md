@@ -23,20 +23,7 @@ Macrolide is a moderate spectrum antibiotic that inhibits protein synthesis. It 
     
     This inhibits protein synthesis.
     
-    
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+    ![[Untitled\|Untitled]]
     
     Cf: [[Mechanism of Action Macrolides - YouTube - Elsevier India\|Mechanism of Action Macrolides - YouTube - Elsevier India]] 
     
@@ -55,20 +42,7 @@ Updated: August 28, 2022 9:50 PM
             
             Active against intracellular organisms, e.g. Chlamydia and legionella
             
-            
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+            ![[Untitled\|Untitled]]
             
     - Azithromycin
         - **Spectrum of azithromycin**
@@ -97,20 +71,7 @@ Updated: August 28, 2022 9:50 PM
     1. Reduced permeability of cell membrane and active efflux (not for telithromycin/ketolide),
     2. Inactivation of macrolide by macrolide esterase, phosphotransferase or glycosyltransferase
         
-        
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Untitled
-
-Created: August 28, 2022 9:50 PM
-Updated: August 28, 2022 9:50 PM
-
-</div></div>
-
+        ![[Untitled\|Untitled]]
         
     3. Genetic modification of 50S subunit binding site, by:
         
